@@ -1,0 +1,33 @@
+#generic
+*.log
+
+
+#specific dirs
+backups
+mods
+options.txt
+playerdata
+crash-reports
+resourcepacks
+saves
+downloads
+dumps
+server-resource-packs
+local
+valkyrielib
+fonts
+logs
+journeymap/data
+journeymap/icon
+journeymap/control
+journeymap/minimap
+
+#specific files
+minecraftinstance.json
+servers.dat
+usercache.json
+knownkeys.txt
+usernamecache.json
+.DS_Store
+.mixin.out
+
