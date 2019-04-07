@@ -21,6 +21,8 @@ journeymap/data
 journeymap/icon
 journeymap/control
 journeymap/minimap
+customnpcs/assets
+
 
 #specific files
 minecraftinstance.json
