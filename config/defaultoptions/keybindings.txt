@@ -1,0 +1,119 @@
+key_key.attack:-100:NONE
+key_key.use:-99:NONE
+key_key.forward:17:NONE
+key_key.left:30:NONE
+key_key.back:31:NONE
+key_key.right:32:NONE
+key_key.jump:57:NONE
+key_key.sneak:42:NONE
+key_key.sprint:29:NONE
+key_key.drop:16:NONE
+key_key.inventory:18:NONE
+key_key.chat:20:NONE
+key_key.playerlist:15:NONE
+key_key.pickItem:-98:NONE
+key_key.command:53:NONE
+key_key.screenshot:60:NONE
+key_key.togglePerspective:63:NONE
+key_key.smoothCamera:0:NONE
+key_key.fullscreen:87:NONE
+key_key.spectatorOutlines:0:NONE
+key_key.swapHands:33:NONE
+key_key.saveToolbarActivator:46:NONE
+key_key.loadToolbarActivator:45:NONE
+key_key.advancements:38:NONE
+key_key.hotbar.1:2:NONE
+key_key.hotbar.2:3:NONE
+key_key.hotbar.3:4:NONE
+key_key.hotbar.4:5:NONE
+key_key.hotbar.5:6:NONE
+key_key.hotbar.6:7:NONE
+key_key.hotbar.7:8:NONE
+key_key.hotbar.8:9:NONE
+key_key.hotbar.9:10:NONE
+key_Scene1 start/pause:79:NONE
+key_Scene2 start/pause:80:NONE
+key_Scene3 start/pause:81:NONE
+key_Scene reset:82:NONE
+key_Quest Log:38:NONE
+key_key.next_item.desc:0:NONE
+key_key.previous_item.desc:0:NONE
+key_key.open_danknull.desc:0:NONE
+key_key.ftbutilities.nbt:49:ALT
+key_key.ftbutilities.trash:211:NONE
+key_key.ftbquests.quests:0:NONE
+key_key.moreoverlays.lightoverlay.desc:65:NONE
+key_key.moreoverlays.chunkbounds.desc:67:NONE
+key_oreexcavation.key.excavate:41:NONE
+key_oreexcavation.key.shape:47:NONE
+key_pneumaticcraft.armor.options:22:NONE
+key_pneumaticcraft.helmet.hack:35:NONE
+key_pneumaticcraft.helmet.debugging.drone:21:NONE
+key_pneumaticcraft.boots.kick:45:CONTROL
+key_pneumaticcraft.chestplate.launcher:46:CONTROL
+key_key.toastcontrol.clear:36:NONE
+key_key.wearablebackpacks.open:48:NONE
+key_bbw.key.mode:50:NONE
+key_bbw.key.fluidmode:33:ALT
+key_key.jei.toggleOverlay:24:CONTROL
+key_key.jei.focusSearch:33:CONTROL
+key_key.jei.toggleCheatMode:0:NONE
+key_key.jei.showRecipe:19:NONE
+key_key.jei.showUses:22:NONE
+key_key.jei.recipeBack:14:NONE
+key_key.jei.previousPage:201:NONE
+key_key.jei.nextPage:209:NONE
+key_key.jei.bookmark:30:NONE
+key_key.jei.toggleBookmarkOverlay:0:NONE
+key_key.settings_menu:34:NONE
+key_key.range:19:NONE
+key_key.undo:22:NONE
+key_key.anchor:35:NONE
+key_key.fuzzy:0:NONE
+key_key.connected_area:0:NONE
+key_key.rotate_mirror:0:NONE
+key_key.craftingtweaks.rotate:0:NONE
+key_key.craftingtweaks.rotate_counter_clockwise:0:NONE
+key_key.craftingtweaks.balance:0:NONE
+key_key.craftingtweaks.spread:0:NONE
+key_key.craftingtweaks.clear:0:NONE
+key_key.craftingtweaks.force_clear:0:NONE
+key_key.craftingtweaks.toggleButtons:0:NONE
+key_key.craftingtweaks.compressOne:37:CONTROL
+key_key.craftingtweaks.compressStack:37:NONE
+key_key.craftingtweaks.compressAll:37:SHIFT
+key_key.craftingtweaks.decompressOne:0:NONE
+key_key.craftingtweaks.decompressStack:0:NONE
+key_key.craftingtweaks.decompressAll:0:NONE
+key_key.craftingtweaks.refill_last:15:NONE
+key_key.craftingtweaks.refill_last_stack:15:NONE
+key_key.placeItem:25:NONE
+key_key.toolConfig:46:NONE
+key_key.toolProfileChange:43:NONE
+key_key.armorProfileChange:43:ALT
+key_key.toggleFlight:0:NONE
+key_key.toggleDislocator:0:NONE
+key_Mekanism Item Mode Switch:50:NONE
+key_Mekanism Armor Mode Switch:34:NONE
+key_Mekanism Feet Mode Switch:35:NONE
+key_Mekanism Voice:22:NONE
+key_invtweaks.key.sort:19:NONE
+key_key.craftingGrid:46:NONE
+key_Open Matter Scanner GUI:46:NONE
+key_Android Ability key:45:NONE
+key_Android Switch Ability key:19:NONE
+key_key.journeymap.zoom_in:13:NONE
+key_key.journeymap.zoom_out:12:NONE
+key_key.journeymap.minimap_type:26:NONE
+key_key.journeymap.minimap_preset:43:NONE
+key_key.journeymap.create_waypoint:48:NONE
+key_key.journeymap.fullscreen_create_waypoint:48:NONE
+key_key.journeymap.fullscreen_chat_position:46:NONE
+key_key.journeymap.map_toggle_alt:36:NONE
+key_key.journeymap.fullscreen_waypoints:48:CONTROL
+key_key.journeymap.minimap_toggle_alt:36:CONTROL
+key_key.journeymap.fullscreen_options:24:NONE
+key_key.journeymap.fullscreen.north:200:NONE
+key_key.journeymap.fullscreen.south:208:NONE
+key_key.journeymap.fullscreen.east:205:NONE
+key_key.journeymap.fullscreen.west:203:NONE
