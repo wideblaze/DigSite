@@ -1,0 +1,20 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "pneumaticcraft:book": {
+      "viewedEntries": [
+        "pneumaticcraft:base_concepts/gui",
+        "pneumaticcraft:base_concepts/villagers",
+        "pneumaticcraft:base_concepts/getting_started"
+      ],
+      "bookmarks": [],
+      "history": [
+        "pneumaticcraft:base_concepts/getting_started",
+        "pneumaticcraft:base_concepts/villagers",
+        "pneumaticcraft:base_concepts/gui"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
