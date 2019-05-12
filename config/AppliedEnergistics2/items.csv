@@ -672,6 +672,8 @@ ae2stuff:inscriber, Advanced Inscriber
 ae2stuff:wireless, Wireless Connector
 ae2stuff:wireless_kit, Wireless Setup Kit
 ae2stuff:visualiser, Network Visualisation Tool
+chickenchunks:chunk_loader:0, Chunk Loader
+chickenchunks:chunk_loader:1, Spot Loader
 danknull:danknull_dock, /dank/null Docking Station
 danknull:dank_null:0, /dank/null/
 danknull:dank_null:1, /dank/null/MK II
@@ -760,6 +762,8 @@ draconicevolution:chaos_shard:2, Small Chaos Fragment
 draconicevolution:chaos_shard:3, Tiny Chaos Fragment
 draconicevolution:draconium_capacitor:0, Wyvern Flux Capacitor
 draconicevolution:draconium_capacitor:0, Wyvern Flux Capacitor
+draconicevolution:draconium_capacitor:0, Wyvern Flux Capacitor
+draconicevolution:draconium_capacitor:1, Draconic Flux Capacitor
 draconicevolution:draconium_capacitor:1, Draconic Flux Capacitor
 draconicevolution:draconium_capacitor:1, Draconic Flux Capacitor
 draconicevolution:draconium_capacitor:2, Creative Flux Capacitor
@@ -960,22 +964,26 @@ realistictorches:glowstone_paste, Glowstone Paste
 translocators:diamond_nugget, Diamond Nugget
 translocators:translocator_part:0, Item Translocator
 translocators:translocator_part:1, Liquid Translocator
-villagenames:lunaringoldbrick, Lunarin Style Gold Brick
-villagenames:lunarinironbrick, Lunarin Style Iron Brick
-villagenames:villagebook, Village Book
-villagenames:fortressbook, Fortress Book
-villagenames:mineshaftbook, Mineshaft Book
-villagenames:mansionbook, Mansion Book
-villagenames:monumentbook, Monument Book
-villagenames:strongholdbook, Stronghold Book
-villagenames:templebook, Temple Book
-villagenames:endcitybook, End City Book
 villagenames:codex, Codex
+villagenames:villagebook, Village Book
+villagenames:mineshaftbook, Mineshaft Book
+villagenames:jungletemplebook, Jungle Temple Book
+villagenames:desertpyramidbook, Desert Pyramid Book
+villagenames:swamphutbook, Swamp Hut Book
+villagenames:igloobook, Igloo Book
+villagenames:templebook, Temple Book
+villagenames:strongholdbook, Stronghold Book
+villagenames:monumentbook, Monument Book
+villagenames:mansionbook, Mansion Book
+villagenames:fortressbook, Fortress Book
+villagenames:endcitybook, End City Book
 villagenames:moonvillagebook, Moon Village Book
 villagenames:koentusvillagebook, Koentus Village Book
 villagenames:fronosvillagebook, Fronos Village Book
 villagenames:nibiruvillagebook, Nibiru Village Book
 villagenames:abandonedbasebook, Abandoned Base Book
+villagenames:lunaringoldbrick, Lunarin Style Gold Brick
+villagenames:lunarinironbrick, Lunarin Style Iron Brick
 adchimneys:bedrock:0, Bedrock Chimney
 adchimneys:bedrock:1, Bedrock Vent
 adchimneys:bedrock:2, Bedrock Pump
@@ -5780,24 +5788,6 @@ appliedenergistics2:facade:0, Cable Facade - Brown Elevator
 appliedenergistics2:facade:0, Cable Facade - Green Elevator
 appliedenergistics2:facade:0, Cable Facade - Red Elevator
 appliedenergistics2:facade:0, Cable Facade - Black Elevator
-appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
-appliedenergistics2:facade:0, Cable Facade - Block of Luminessence
-appliedenergistics2:facade:0, Cable Facade - Block of Nether Stars
-appliedenergistics2:facade:0, Cable Facade - Block of Crystaltine
-appliedenergistics2:facade:0, Cable Facade - Block of The Ultimate
-appliedenergistics2:facade:0, Cable Facade - Block of Ender
-appliedenergistics2:facade:0, Cable Facade - Block of Ender Stars
-appliedenergistics2:facade:0, Cable Facade - Block of Enhanced Ender
-appliedenergistics2:facade:0, Cable Facade - Black Iron Frame
-appliedenergistics2:facade:0, Cable Facade - Black Iron Lamp
-appliedenergistics2:facade:0, Cable Facade - Black Iron Lamp
-appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
-appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
-appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
-appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
-appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
-appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
-appliedenergistics2:facade:0, Cable Facade - Crafting Table
 appliedenergistics2:facade:0, Cable Facade - Yellorite Ore
 appliedenergistics2:facade:0, Cable Facade - Anglesite Ore
 appliedenergistics2:facade:0, Cable Facade - Benitoite Ore
@@ -5943,36 +5933,6 @@ appliedenergistics2:facade:0, Cable Facade - Colored Tritanium Plate
 appliedenergistics2:facade:0, Cable Facade - Colored Tritanium Plate
 appliedenergistics2:facade:0, Cable Facade - Colored Tritanium Plate
 appliedenergistics2:facade:0, Cable Facade - Engine Exhaust Plasma
-appliedenergistics2:facade:0, Cable Facade - Litherite
-appliedenergistics2:facade:0, Cable Facade - Litherite Paver
-appliedenergistics2:facade:0, Cable Facade - Litherite Bricks
-appliedenergistics2:facade:0, Cable Facade - Litherite Tiles
-appliedenergistics2:facade:0, Cable Facade - Erodium
-appliedenergistics2:facade:0, Cable Facade - Erodium Paver
-appliedenergistics2:facade:0, Cable Facade - Erodium Bricks
-appliedenergistics2:facade:0, Cable Facade - Erodium Tiles
-appliedenergistics2:facade:0, Cable Facade - Kyronite
-appliedenergistics2:facade:0, Cable Facade - Kyronite Paver
-appliedenergistics2:facade:0, Cable Facade - Kyronite Bricks
-appliedenergistics2:facade:0, Cable Facade - Kyronite Tiles
-appliedenergistics2:facade:0, Cable Facade - Pladium
-appliedenergistics2:facade:0, Cable Facade - Pladium Paver
-appliedenergistics2:facade:0, Cable Facade - Pladium Bricks
-appliedenergistics2:facade:0, Cable Facade - Pladium Tiles
-appliedenergistics2:facade:0, Cable Facade - Ionite
-appliedenergistics2:facade:0, Cable Facade - Ionite Paver
-appliedenergistics2:facade:0, Cable Facade - Ionite Bricks
-appliedenergistics2:facade:0, Cable Facade - Ionite Tiles
-appliedenergistics2:facade:0, Cable Facade - Aethium
-appliedenergistics2:facade:0, Cable Facade - Aethium Paver
-appliedenergistics2:facade:0, Cable Facade - Aethium Bricks
-appliedenergistics2:facade:0, Cable Facade - Aethium Tiles
-appliedenergistics2:facade:0, Cable Facade - Lonsdaleite
-appliedenergistics2:facade:0, Cable Facade - Lonsdaleite Paver
-appliedenergistics2:facade:0, Cable Facade - Lonsdaleite Bricks
-appliedenergistics2:facade:0, Cable Facade - Lonsdaleite Tiles
-appliedenergistics2:facade:0, Cable Facade - Mica
-appliedenergistics2:facade:0, Cable Facade - Interconnect
 appliedenergistics2:facade:0, Cable Facade - Heated Iron Ore
 appliedenergistics2:facade:0, Cable Facade - Heated Diamond Ore
 appliedenergistics2:facade:0, Cable Facade - Heated Gold Ore
@@ -6238,7 +6198,6 @@ chisel:chisel_iron, Chisel
 chisel:chisel_diamond, Diamond Chisel
 chisel:chisel_hitech, iChisel
 chisel:offsettool, Ender Offset Wand
-clipboard:clipboard, Clipboard
 compactmachines3:tunnel, Tunnel
 compactmachines3:redstonetunnel, Redstone Tunnel
 compactmachines3:wall, Solid Compact Machine Wall
@@ -6253,6 +6212,22 @@ compactmachines3:fieldprojector, Miniaturization Field Projector
 compactmachines3:psd, Personal Shrinking Device
 compactmachines3:tunneltool, Tunnel
 compactmachines3:redstonetunneltool, Redstone Tunnel
+complexcrops:corn_cob, Corn Cob
+complexcrops:cooked_corn, Cooked Corn
+complexcrops:buttered_corn, Buttered Corn
+complexcrops:popcorn, Popcorn
+complexcrops:buttered_popcorn, Buttered Popcorn
+complexcrops:cornbread, Cornbread
+complexcrops:buttered_cornbread, Buttered Cornbread
+complexcrops:buttered_bread, Buttered Bread
+complexcrops:cucumber, Cucumber
+complexcrops:corn_seeds, Corn Seeds
+complexcrops:rice, Rice
+complexcrops:cucumber_seeds, Cucumber Seeds
+complexcrops:butter, Butter
+complexcrops:pickle, Pickle
+complexcrops:pickle_potion, Pickle
+craftingstation:tooltables:0, Crafting Station
 deepmoblearning:machine_casing, Soot-covered Machine Casing
 deepmoblearning:infused_ingot_block, Glitch Infused Block
 deepmoblearning:simulation_chamber, Simulation Chamber
@@ -6306,7 +6281,17 @@ deepmoblearning:pristine_matter_dragon, Pristine Ender Dragon Matter
 deepmoblearning:pristine_matter_shulker, Pristine Shulker Matter
 deepmoblearning:pristine_matter_guardian, Pristine Guardian Matter
 deepmoblearning:pristine_matter_mo_android, Pristine Rogue Android Matter
-deepmoblearning:book, Placeholder Guide (Install Patchouli)
+display:display, Display
+display:wood_display, Wood Display
+display:dirt_display, Dirt Display
+display:sand_display, Sand Display
+display:gravel_display, Gravel Display
+display:iron_display, Iron Display
+display:gold_display, Golden Display
+display:diamond_display, Diamond Display
+display:obsidian_display, Obsidian Display
+display:quartz_display, Quartz Display
+display:display_configurator, Display Configurator
 elevatorid:elevator_white, White Elevator
 elevatorid:elevator_orange, Orange Elevator
 elevatorid:elevator_magenta, Magenta Elevator
@@ -6323,102 +6308,11 @@ elevatorid:elevator_brown, Brown Elevator
 elevatorid:elevator_green, Green Elevator
 elevatorid:elevator_red, Red Elevator
 elevatorid:elevator_black, Black Elevator
-extendedcrafting:storage:0, Block of Black Iron
-extendedcrafting:storage:1, Block of Luminessence
-extendedcrafting:storage:2, Block of Nether Stars
-extendedcrafting:storage:3, Block of Crystaltine
-extendedcrafting:storage:4, Block of The Ultimate
-extendedcrafting:storage:5, Block of Ender
-extendedcrafting:storage:6, Block of Ender Stars
-extendedcrafting:storage:7, Block of Enhanced Ender
-extendedcrafting:frame, Black Iron Frame
-extendedcrafting:lamp:0, Black Iron Lamp
-extendedcrafting:lamp:1, Black Iron Lamp
-extendedcrafting:trimmed:0, Block of Black Iron
-extendedcrafting:trimmed:1, Block of Black Iron
-extendedcrafting:trimmed:2, Block of Black Iron
-extendedcrafting:trimmed:3, Block of Black Iron
-extendedcrafting:trimmed:4, Block of Black Iron
-extendedcrafting:trimmed:5, Block of Black Iron
-extendedcrafting:crafting_table, Crafting Table
-extendedcrafting:pedestal, Pedestal
-extendedcrafting:crafting_core, Crafting Core
-extendedcrafting:interface, Automation Interface
-extendedcrafting:table_basic, Basic Crafting Table
-extendedcrafting:table_advanced, Advanced Crafting Table
-extendedcrafting:table_elite, Elite Crafting Table
-extendedcrafting:table_ultimate, Ultimate Crafting Table
-extendedcrafting:compressor, Quantum Compressor
-extendedcrafting:ender_alternator, Ender Alternator
-extendedcrafting:ender_crafter, Ender Crafter
-extendedcrafting:guide, Extended Crafting Guide
-extendedcrafting:material:0, Black Iron Ingot
-extendedcrafting:material:1, Black Iron Nugget
-extendedcrafting:material:2, Black Iron Slate
-extendedcrafting:material:3, Black Iron Rod
-extendedcrafting:material:7, Luminessence
-extendedcrafting:material:8, Basic Catalyst
-extendedcrafting:material:9, Advanced Catalyst
-extendedcrafting:material:10, Elite Catalyst
-extendedcrafting:material:11, Ultimate Catalyst
-extendedcrafting:material:12, Crystaltine Catalyst
-extendedcrafting:material:13, The Ultimate Catalyst
-extendedcrafting:material:14, Basic Component
-extendedcrafting:material:15, Advanced Component
-extendedcrafting:material:16, Elite Component
-extendedcrafting:material:17, Ultimate Component
-extendedcrafting:material:18, Crystaltine Component
-extendedcrafting:material:19, The Ultimate Component
-extendedcrafting:material:24, Crystaltine Ingot
-extendedcrafting:material:25, Crystaltine Nugget
-extendedcrafting:material:32, The Ultimate Ingot
-extendedcrafting:material:33, The Ultimate Nugget
-extendedcrafting:material:36, Ender Ingot
-extendedcrafting:material:37, Ender Nugget
-extendedcrafting:material:40, Ender Star
-extendedcrafting:material:41, Ender Star Nugget
-extendedcrafting:material:48, Enhanced Ender Ingot
-extendedcrafting:material:49, Enhanced Ender Nugget
-extendedcrafting:material:128, Diamond Nugget
-extendedcrafting:material:129, Emerald Nugget
-extendedcrafting:material:140, Nether Star Nugget
-extendedcrafting:handheld_table, Handheld Crafting Table
-extendedcrafting:recipe_maker:0, Recipe Maker
-extendedcrafting:singularity:0, Coal Singularity
-extendedcrafting:singularity:1, Iron Singularity
-extendedcrafting:singularity:2, Lapis Lazuli Singularity
-extendedcrafting:singularity:3, Redstone Singularity
-extendedcrafting:singularity:4, Glowstone Singularity
-extendedcrafting:singularity:5, Gold Singularity
-extendedcrafting:singularity:6, Diamond Singularity
-extendedcrafting:singularity:7, Emerald Singularity
-extendedcrafting:singularity:16, Aluminum Singularity
-extendedcrafting:singularity:17, Copper Singularity
-extendedcrafting:singularity:18, Tin Singularity
-extendedcrafting:singularity:19, Bronze Singularity
-extendedcrafting:singularity:20, Zinc Singularity
-extendedcrafting:singularity:21, Brass Singularity
-extendedcrafting:singularity:22, Silver Singularity
-extendedcrafting:singularity:23, Lead Singularity
-extendedcrafting:singularity:24, Steel Singularity
-extendedcrafting:singularity:25, Nickel Singularity
-extendedcrafting:singularity:26, Constantan Singularity
-extendedcrafting:singularity:27, Electrum Singularity
-extendedcrafting:singularity:28, Invar Singularity
-extendedcrafting:singularity:29, Mithril Singularity
-extendedcrafting:singularity:30, Tungsten Singularity
-extendedcrafting:singularity:31, Titanium Singularity
-extendedcrafting:singularity:32, Uranium Singularity
-extendedcrafting:singularity:33, Chrome Singularity
-extendedcrafting:singularity:34, Platinum Singularity
-extendedcrafting:singularity:35, Iridium Singularity
-extendedcrafting:singularity:48, Signalum Singularity
-extendedcrafting:singularity:49, Lumium Singularity
-extendedcrafting:singularity:50, Enderium Singularity
-extendedcrafting:singularity:64, Ardite Singularity
-extendedcrafting:singularity:65, Cobalt Singularity
-extendedcrafting:singularity:66, Manyullyn Singularity
-extendedcrafting:singularity_ultimate, The Ultimate Singularity
+extrarails:locking_rail, Locking Rail
+extrarails:direction_rail, Direction Rail
+extrarails:teleporting_rail, Teleporting Rail
+extrarails:comparator_rail, Comparator Rail
+extrarails:wooden_rail, Wooden Rail
 zerocore:debugtool, Debug Tool
 bigreactors:ingotyellorium, Yellorium Ingot
 bigreactors:ingotcyanite, Cyanite Ingot
@@ -6470,13 +6364,6 @@ bigreactors:reactorcomputerport, Reactor Computer Port (Legacy)
 bigreactors:reactorglass, Reactor Glass (Legacy)
 bigreactors:reactorcontrolrod, Reactor Control Rod (Legacy)
 bigreactors:reactorfuelrod, Reactor Fuel Rod (Legacy)
-floodlights:raw_filament, Raw Filament
-floodlights:glowing_filament, Glowing Filament
-floodlights:electric_incandescent_light_bulb, Electric Incandescent Light Bulb
-floodlights:carbon_dissolver, Fuel Dissolver
-floodlights:carbon_lantern, Non-electric Lantern
-floodlights:mantle, Mantle
-floodlights:light_debug_tool, Lightblock Debug Tool
 floodlights:electric_floodlight, Electric Floodlight
 floodlights:carbon_floodlight, Non-electric Floodlight
 floodlights:small_electric_floodlight_meta_block:0, Small Flourescent Light
@@ -6485,6 +6372,13 @@ floodlights:uv_floodlight, UV Floodlight
 floodlights:grow_light, Grow Light
 floodlights:phantom_light, tile.floodlights:phantomLight.name
 floodlights:phantom_u_v_light, tile.floodlights:phantomUVLight.name
+floodlights:raw_filament, Raw Filament
+floodlights:glowing_filament, Glowing Filament
+floodlights:electric_incandescent_light_bulb, Electric Incandescent Light Bulb
+floodlights:carbon_dissolver, Fuel Dissolver
+floodlights:carbon_lantern, Non-electric Lantern
+floodlights:mantle, Mantle
+floodlights:light_debug_tool, Lightblock Debug Tool
 mekanism:electricbow, Electric Bow
 mekanism:dust:0, Iron Dust
 mekanism:dust:1, Gold Dust
@@ -6657,6 +6551,7 @@ mekanism:machineblock:5, Basic Combining Factory
 mekanism:machineblock:5, Basic Purifying Factory
 mekanism:machineblock:5, Basic Injecting Factory
 mekanism:machineblock:5, Basic Infusing Factory
+mekanism:machineblock:5, Basic Sawing Factory
 mekanism:machineblock:6, Advanced Smelting Factory
 mekanism:machineblock:6, Advanced Enriching Factory
 mekanism:machineblock:6, Advanced Crushing Factory
@@ -6665,6 +6560,7 @@ mekanism:machineblock:6, Advanced Combining Factory
 mekanism:machineblock:6, Advanced Purifying Factory
 mekanism:machineblock:6, Advanced Injecting Factory
 mekanism:machineblock:6, Advanced Infusing Factory
+mekanism:machineblock:6, Advanced Sawing Factory
 mekanism:machineblock:7, Elite Smelting Factory
 mekanism:machineblock:7, Elite Enriching Factory
 mekanism:machineblock:7, Elite Crushing Factory
@@ -6673,6 +6569,7 @@ mekanism:machineblock:7, Elite Combining Factory
 mekanism:machineblock:7, Elite Purifying Factory
 mekanism:machineblock:7, Elite Injecting Factory
 mekanism:machineblock:7, Elite Infusing Factory
+mekanism:machineblock:7, Elite Sawing Factory
 mekanism:machineblock:8, Metallurgic Infuser
 mekanism:machineblock:9, Purification Chamber
 mekanism:machineblock:10, Energized Smelter
@@ -6925,6 +6822,7 @@ pneumaticcraft:plastic:13, Magenta Plastic
 pneumaticcraft:plastic:14, Orange Plastic
 pneumaticcraft:plastic:15, White Plastic
 pneumaticcraft:air_canister, Air Canister
+pneumaticcraft:reinforced_air_canister, Reinforced Air Canister
 pneumaticcraft:vortex_cannon, Vortex Cannon
 pneumaticcraft:pneumatic_cylinder, Pneumatic Cylinder
 pneumaticcraft:pneumatic_helmet, Pneumatic Helmet
@@ -7000,6 +6898,7 @@ pneumaticcraft:armor_upgrade, Armor Upgrade
 pneumaticcraft:jet_boots_upgrade, Jet Boots Upgrade
 pneumaticcraft:night_vision_upgrade, Night Vision Upgrade
 pneumaticcraft:scuba_upgrade, SCUBA Upgrade
+pneumaticcraft:creative_upgrade, Creative Supply Upgrade
 pneumaticcraft:pressure_tube, Pressure Tube
 pneumaticcraft:advanced_pressure_tube, Advanced Pressure Tube
 pneumaticcraft:air_compressor, Air Compressor
@@ -7046,6 +6945,14 @@ pneumaticcraft:sentry_turret, Sentry Turret
 pneumaticcraft:flux_compressor, Flux Compressor
 pneumaticcraft:pneumatic_dynamo, Pneumatic Dynamo
 pneumaticcraft:fake_ice, tile.fake_ice.name
+pneumaticcraft:fluid.fuel, Gasoline
+pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.plastic, Plastic
+pneumaticcraft:fluid.kerosene, Kerosene
+pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.oil, Oil
+pneumaticcraft:fluid.lpg, LPG
+pneumaticcraft:fluid.lubricant, Lubricant
 pneumaticcraft:safety_tube_module, Safety Tube Module
 pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
 pneumaticcraft:flow_detector_module, Flow Detector Tube Module
@@ -7053,14 +6960,6 @@ pneumaticcraft:air_grate_module, Air Grate Tube Module
 pneumaticcraft:regulator_tube_module, Regulator Tube Module
 pneumaticcraft:charging_module, Charging Module
 pneumaticcraft:logistics_module, Logistics Module
-pneumaticcraft:fluid.etchacid, Etching Acid
-pneumaticcraft:fluid.lubricant, Lubricant
-pneumaticcraft:fluid.oil, Oil
-pneumaticcraft:fluid.fuel, Gasoline
-pneumaticcraft:fluid.kerosene, Kerosene
-pneumaticcraft:fluid.plastic, Plastic
-pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.diesel, Diesel
 pollutantpump:pump, Pollutant Pump
 pollutantpump:pipe, Pump Pipe
 secretroomsmod:camouflage_paste:0, Camouflage Paste
@@ -7144,6 +7043,86 @@ storagedrawers:quantify_key, Quantify Key
 storagedrawers:tape, Packing Tape
 supersoundmuffler:sound_muffler_bauble, Super Sound Muffler
 supersoundmuffler:sound_muffler, Super Sound Muffler
+torchmaster:frozen_pearl, Frozen Pearl
+torchmaster:mega_torch:0, Mega Torch
+torchmaster:mega_torch:1, Unlit Mega Torch
+torchmaster:terrain_lighter, Terrain Lighter
+torchmaster:dread_lamp, Dread Lamp
+torchmaster:feral_flare_lantern, Feral Flare Lantern
+matteroverdrive:dilithium_ore, Dilithium Ore
+matteroverdrive:tritanium_ore, Tritanium Ore
+matteroverdrive:tritanium_block, Tritanium Block
+matteroverdrive:machine_hull, Machine Hull
+matteroverdrive:decomposer, Matter Decomposer
+matteroverdrive:matter_recycler, Matter Recycler
+matteroverdrive:replicator, Matter Replicator
+matteroverdrive:matter_pipe, Matter Transport Pipe
+matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
+matteroverdrive:network_pipe, Matter Network Cable
+matteroverdrive:network_router, Matter Network Router
+matteroverdrive:matter_analyzer, Matter Analyzer
+matteroverdrive:pattern_monitor, Pattern Monitor
+matteroverdrive:pattern_storage, Pattern Storage
+matteroverdrive:network_switch, Matter Network Switch
+matteroverdrive:solar_panel, Solar Panel
+matteroverdrive:gravitational_anomaly, Gravitational Anomaly
+matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
+matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
+matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
+matteroverdrive:fusion_reactor_io, Fusion Reactor IO
+matteroverdrive:matter_plasma, tile.null.name
+matteroverdrive:molten_tritanium, tile.null.name
+matteroverdrive:tritanium_crate, Tritanium Crate
+matteroverdrive:tritanium_crate_white, White Tritanium Crate
+matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
+matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
+matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
+matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
+matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
+matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
+matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
+matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
+matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
+matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
+matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
+matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
+matteroverdrive:tritanium_crate_green, Green Tritanium Crate
+matteroverdrive:tritanium_crate_red, Red Tritanium Crate
+matteroverdrive:tritanium_crate_black, Black Tritanium Crate
+matteroverdrive:inscriber, Molecular Inscriber
+matteroverdrive:contract_market, Contract Market
+matteroverdrive:android_spawner, Rogue Android Spawner
+matteroverdrive:spacetime_accelerator, Space-Time Accelerator
+matteroverdrive:pylon, Dimensional Pylon
+matteroverdrive:transporter, Transporter
+matteroverdrive:star_map, Star Map
+matteroverdrive:holo_sign, Holographic Sign
+matteroverdrive:weapon_station, Weapon Station
+matteroverdrive:android_station, Android Station
+matteroverdrive:charging_station, Charging Station
+matteroverdrive:decorative.stripes, Yellow Stripes
+matteroverdrive:decorative.coils, Coils
+matteroverdrive:decorative.clean, Tritanium Smooth Plate
+matteroverdrive:decorative.vent.dark, Dark Vent
+matteroverdrive:decorative.vent.bright, Vent
+matteroverdrive:decorative.holo_matrix, Holographic Matrix
+matteroverdrive:decorative.tritanium_plate, Tritanium Plate
+matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
+matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
+matteroverdrive:decorative.matter_tube, Matter Tube
+matteroverdrive:decorative.beams, Tritanium Grate
+matteroverdrive:decorative.floor_tiles, Floor Tiles
+matteroverdrive:decorative.floor_tile_white, White Floor Tiles
+matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
+matteroverdrive:decorative.floor_noise, Linoleum Floor
+matteroverdrive:decorative.white_plate, Soft Wall Plates
+matteroverdrive:decorative.separator, Tritanium Rail
+matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
+matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
+matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
+matteroverdrive:microwave, Microwave
+matteroverdrive:industrial_glass, Industrial Glass
+matteroverdrive:bounding_box, Bounding Block
 matteroverdrive:dilithium_crystal, Dilithium Crystal
 matteroverdrive:tritanium_ingot, Tritanium Ingot
 matteroverdrive:tritanium_nugget, Tritanium Nugget
@@ -7242,80 +7221,6 @@ matteroverdrive:record_transformation, Music Disc
 matteroverdrive:artifact, Unknown Artifact
 matteroverdrive:trilithium_crystal, Pure Trilithium Crystal
 matteroverdrive:quantum_fold_manipulator, Quantum Fold Manipulator
-matteroverdrive:dilithium_ore, Dilithium Ore
-matteroverdrive:tritanium_ore, Tritanium Ore
-matteroverdrive:tritanium_block, Tritanium Block
-matteroverdrive:machine_hull, Machine Hull
-matteroverdrive:decomposer, Matter Decomposer
-matteroverdrive:matter_recycler, Matter Recycler
-matteroverdrive:replicator, Matter Replicator
-matteroverdrive:matter_pipe, Matter Transport Pipe
-matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
-matteroverdrive:network_pipe, Matter Network Cable
-matteroverdrive:network_router, Matter Network Router
-matteroverdrive:matter_analyzer, Matter Analyzer
-matteroverdrive:pattern_monitor, Pattern Monitor
-matteroverdrive:pattern_storage, Pattern Storage
-matteroverdrive:network_switch, Matter Network Switch
-matteroverdrive:solar_panel, Solar Panel
-matteroverdrive:gravitational_anomaly, Gravitational Anomaly
-matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
-matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
-matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
-matteroverdrive:fusion_reactor_io, Fusion Reactor IO
-matteroverdrive:matter_plasma, tile.null.name
-matteroverdrive:molten_tritanium, tile.null.name
-matteroverdrive:tritanium_crate, Tritanium Crate
-matteroverdrive:tritanium_crate_white, White Tritanium Crate
-matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
-matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
-matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
-matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
-matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
-matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
-matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
-matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
-matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
-matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
-matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
-matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
-matteroverdrive:tritanium_crate_green, Green Tritanium Crate
-matteroverdrive:tritanium_crate_red, Red Tritanium Crate
-matteroverdrive:tritanium_crate_black, Black Tritanium Crate
-matteroverdrive:inscriber, Molecular Inscriber
-matteroverdrive:contract_market, Contract Market
-matteroverdrive:android_spawner, Rogue Android Spawner
-matteroverdrive:spacetime_accelerator, Space-Time Accelerator
-matteroverdrive:pylon, Dimensional Pylon
-matteroverdrive:transporter, Transporter
-matteroverdrive:star_map, Star Map
-matteroverdrive:holo_sign, Holographic Sign
-matteroverdrive:weapon_station, Weapon Station
-matteroverdrive:android_station, Android Station
-matteroverdrive:charging_station, Charging Station
-matteroverdrive:decorative.stripes, Yellow Stripes
-matteroverdrive:decorative.coils, Coils
-matteroverdrive:decorative.clean, Tritanium Smooth Plate
-matteroverdrive:decorative.vent.dark, Dark Vent
-matteroverdrive:decorative.vent.bright, Vent
-matteroverdrive:decorative.holo_matrix, Holographic Matrix
-matteroverdrive:decorative.tritanium_plate, Tritanium Plate
-matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
-matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
-matteroverdrive:decorative.matter_tube, Matter Tube
-matteroverdrive:decorative.beams, Tritanium Grate
-matteroverdrive:decorative.floor_tiles, Floor Tiles
-matteroverdrive:decorative.floor_tile_white, White Floor Tiles
-matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
-matteroverdrive:decorative.floor_noise, Linoleum Floor
-matteroverdrive:decorative.white_plate, Soft Wall Plates
-matteroverdrive:decorative.separator, Tritanium Rail
-matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
-matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
-matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
-matteroverdrive:microwave, Microwave
-matteroverdrive:industrial_glass, Industrial Glass
-matteroverdrive:bounding_box, Bounding Block
 betterbuilderswands:wandstone, Stone Wand
 betterbuilderswands:wandiron, Iron Wand
 betterbuilderswands:wanddiamond:0, Diamond Wand
@@ -7348,197 +7253,7 @@ theoneprobe:probenote, The One Probe Read Me
 theoneprobe:diamond_helmet_probe:0, Diamond Helmet with Probe
 theoneprobe:gold_helmet_probe:0, Gold Helmet with Probe
 theoneprobe:iron_helmet_probe:0, Iron Helmet with Probe
-valkyrielib:guide, Digital Guide
-valkyrielib:modifier_component, Modifier Component
-valkyrielib:modifier_speed, Speed Modifier
-environmentaltech:litherite, Litherite
-environmentaltech:litherite_paver, Litherite Paver
-environmentaltech:litherite_bricks, Litherite Bricks
-environmentaltech:litherite_tiles, Litherite Tiles
-environmentaltech:litherite_stairs, Litherite Stairs
-environmentaltech:litherite_brick_stairs, Litherite Brick Stairs
-environmentaltech:litherite_tile_stairs, Litherite Tile Stairs
-environmentaltech:litherite_slab:0, Litherite Slab
-environmentaltech:litherite_paver_slab:0, Litherite Paver Slab
-environmentaltech:litherite_brick_slab:0, Litherite Brick Slab
-environmentaltech:litherite_tile_slab:0, Litherite Tile Slab
-environmentaltech:erodium, Erodium
-environmentaltech:erodium_paver, Erodium Paver
-environmentaltech:erodium_bricks, Erodium Bricks
-environmentaltech:erodium_tiles, Erodium Tiles
-environmentaltech:erodium_stairs, Erodium Stairs
-environmentaltech:erodium_brick_stairs, Erodium Brick Stairs
-environmentaltech:erodium_tile_stairs, Erodium Tile Stairs
-environmentaltech:erodium_slab:0, Erodium Slab
-environmentaltech:erodium_paver_slab:0, Erodium Paver Slab
-environmentaltech:erodium_brick_slab:0, Erodium Brick Slab
-environmentaltech:erodium_tile_slab:0, Erodium Tile Slab
-environmentaltech:kyronite, Kyronite
-environmentaltech:kyronite_paver, Kyronite Paver
-environmentaltech:kyronite_bricks, Kyronite Bricks
-environmentaltech:kyronite_tiles, Kyronite Tiles
-environmentaltech:kyronite_stairs, Kyronite Stairs
-environmentaltech:kyronite_brick_stairs, Kyronite Brick Stairs
-environmentaltech:kyronite_tile_stairs, Kyronite Tile Stairs
-environmentaltech:kyronite_slab:0, Kyronite Slab
-environmentaltech:kyronite_paver_slab:0, Kyronite Paver Slab
-environmentaltech:kyronite_brick_slab:0, Kyronite Brick Slab
-environmentaltech:kyronite_tile_slab:0, Kyronite Tile Slab
-environmentaltech:pladium, Pladium
-environmentaltech:pladium_paver, Pladium Paver
-environmentaltech:pladium_bricks, Pladium Bricks
-environmentaltech:pladium_tiles, Pladium Tiles
-environmentaltech:pladium_stairs, Pladium Stairs
-environmentaltech:pladium_brick_stairs, Pladium Brick Stairs
-environmentaltech:pladium_tile_stairs, Pladium Tile Stairs
-environmentaltech:pladium_slab:0, Pladium Slab
-environmentaltech:pladium_paver_slab:0, Pladium Paver Slab
-environmentaltech:pladium_brick_slab:0, Pladium Brick Slab
-environmentaltech:pladium_tile_slab:0, Pladium Tile Slab
-environmentaltech:ionite, Ionite
-environmentaltech:ionite_paver, Ionite Paver
-environmentaltech:ionite_bricks, Ionite Bricks
-environmentaltech:ionite_tiles, Ionite Tiles
-environmentaltech:ionite_stairs, Ionite Stairs
-environmentaltech:ionite_brick_stairs, Ionite Brick Stairs
-environmentaltech:ionite_tile_stairs, Ionite Tile Stairs
-environmentaltech:ionite_slab:0, Ionite Slab
-environmentaltech:ionite_paver_slab:0, Ionite Paver Slab
-environmentaltech:ionite_brick_slab:0, Ionite Brick Slab
-environmentaltech:ionite_tile_slab:0, Ionite Tile Slab
-environmentaltech:aethium, Aethium
-environmentaltech:aethium_paver, Aethium Paver
-environmentaltech:aethium_bricks, Aethium Bricks
-environmentaltech:aethium_tiles, Aethium Tiles
-environmentaltech:aethium_stairs, Aethium Stairs
-environmentaltech:aethium_brick_stairs, Aethium Brick Stairs
-environmentaltech:aethium_tile_stairs, Aethium Tile Stairs
-environmentaltech:aethium_slab:0, Aethium Slab
-environmentaltech:aethium_paver_slab:0, Aethium Paver Slab
-environmentaltech:aethium_brick_slab:0, Aethium Brick Slab
-environmentaltech:aethium_tile_slab:0, Aethium Tile Slab
-environmentaltech:lonsdaleite, Lonsdaleite
-environmentaltech:lonsdaleite_paver, Lonsdaleite Paver
-environmentaltech:lonsdaleite_bricks, Lonsdaleite Bricks
-environmentaltech:lonsdaleite_tiles, Lonsdaleite Tiles
-environmentaltech:lonsdaleite_stairs, Lonsdaleite Stairs
-environmentaltech:lonsdaleite_brick_stairs, Lonsdaleite Brick Stairs
-environmentaltech:lonsdaleite_tile_stairs, Lonsdaleite Tile Stairs
-environmentaltech:lonsdaleite_slab:0, Lonsdaleite Slab
-environmentaltech:lonsdaleite_paver_slab:0, Lonsdaleite Paver Slab
-environmentaltech:lonsdaleite_brick_slab:0, Lonsdaleite Brick Slab
-environmentaltech:lonsdaleite_tile_slab:0, Lonsdaleite Tile Slab
-environmentaltech:mica, Mica
-environmentaltech:litherite_crystal, Litherite Crystal
-environmentaltech:erodium_crystal, Erodium Crystal
-environmentaltech:kyronite_crystal, Kyronite Crystal
-environmentaltech:pladium_crystal, Pladium Crystal
-environmentaltech:ionite_crystal, Ionite Crystal
-environmentaltech:aethium_crystal, Aethium Crystal
-environmentaltech:lonsdaleite_crystal, Lonsdaleite Crystal
-environmentaltech:interconnect, Interconnect
-environmentaltech:tool_multiblock_assembler, Assembler
-environmentaltech:connector, Connector
-environmentaltech:modifier_null, Null Modifier
-environmentaltech:modifier_speed, Speed Modifier
-environmentaltech:modifier_luck, Luck Modifier
-environmentaltech:structure_frame_1, Structure Frame Tier 1
-environmentaltech:structure_frame_2, Structure Frame Tier 2
-environmentaltech:structure_frame_3, Structure Frame Tier 3
-environmentaltech:structure_frame_4, Structure Frame Tier 4
-environmentaltech:structure_frame_5, Structure Frame Tier 5
-environmentaltech:structure_frame_6, Structure Frame Tier 6
-environmentaltech:structure_panel, Structure Panel
-environmentaltech:structure_panel_clear, Clear Structure Panel
-environmentaltech:lightning_rod, Lightning Rod
-environmentaltech:lightning_rod_insulated, Insulated Lightning Rod
-environmentaltech:lightning_cont_1, Lightning Controller Tier 1
-environmentaltech:lightning_cont_2, Lightning Controller Tier 2
-environmentaltech:lightning_cont_3, Lightning Controller Tier 3
-environmentaltech:lightning_cont_4, Lightning Controller Tier 4
-environmentaltech:lightning_cont_5, Lightning Controller Tier 5
-environmentaltech:lightning_cont_6, Lightning Controller Tier 6
-environmentaltech:solar_cont_1, Solar Array Controller Tier 1
-environmentaltech:solar_cont_2, Solar Array Controller Tier 2
-environmentaltech:solar_cont_3, Solar Array Controller Tier 3
-environmentaltech:solar_cont_4, Solar Array Controller Tier 4
-environmentaltech:solar_cont_5, Solar Array Controller Tier 5
-environmentaltech:solar_cont_6, Solar Array Controller Tier 6
-environmentaltech:solar_cell_litherite, Litherite Solar Cell
-environmentaltech:solar_cell_erodium, Erodium Solar Cell
-environmentaltech:solar_cell_kyronite, Kyronite Solar Cell
-environmentaltech:solar_cell_pladium, Pladium Solar Cell
-environmentaltech:solar_cell_ionite, Ionite Solar Cell
-environmentaltech:solar_cell_aethium, Aethium Solar Cell
-environmentaltech:modifier_piezo, Piezo Modifier
-environmentaltech:photovoltaic_cell, Photovoltaic Cell
-environmentaltech:thermal_cell, Thermal Cell
-environmentaltech:laser_core, Laser Core
-environmentaltech:laser_lens, Clear Laser Lens
-environmentaltech:laser_lens_crystal, Crystal Laser Lens
-environmentaltech:laser_lens_colored:0, White Laser Lens
-environmentaltech:laser_lens_colored:1, Orange Laser Lens
-environmentaltech:laser_lens_colored:2, Magenta Laser Lens
-environmentaltech:laser_lens_colored:3, Light Blue Laser Lens
-environmentaltech:laser_lens_colored:4, Yellow Laser Lens
-environmentaltech:laser_lens_colored:5, Lime Laser Lens
-environmentaltech:laser_lens_colored:6, Pink Laser Lens
-environmentaltech:laser_lens_colored:7, Gray Laser Lens
-environmentaltech:laser_lens_colored:8, Light Gray Laser Lens
-environmentaltech:laser_lens_colored:9, Cyan Laser Lens
-environmentaltech:laser_lens_colored:10, Purple Laser Lens
-environmentaltech:laser_lens_colored:11, Blue Laser Lens
-environmentaltech:laser_lens_colored:12, Brown Laser Lens
-environmentaltech:laser_lens_colored:13, Green Laser Lens
-environmentaltech:laser_lens_colored:14, Red Laser Lens
-environmentaltech:laser_lens_colored:15, Black Laser Lens
-environmentaltech:modifier_accuracy, Accuracy Modifier
-environmentaltech:diode, Diode
-environmentaltech:void_ore_miner_cont_1, Void Ore Miner Controller Tier 1
-environmentaltech:void_ore_miner_cont_2, Void Ore Miner Controller Tier 2
-environmentaltech:void_ore_miner_cont_3, Void Ore Miner Controller Tier 3
-environmentaltech:void_ore_miner_cont_4, Void Ore Miner Controller Tier 4
-environmentaltech:void_ore_miner_cont_5, Void Ore Miner Controller Tier 5
-environmentaltech:void_ore_miner_cont_6, Void Ore Miner Controller Tier 6
-environmentaltech:void_res_miner_cont_1, Void Resource Miner Controller Tier 1
-environmentaltech:void_res_miner_cont_2, Void Resource Miner Controller Tier 2
-environmentaltech:void_res_miner_cont_3, Void Resource Miner Controller Tier 3
-environmentaltech:void_res_miner_cont_4, Void Resource Miner Controller Tier 4
-environmentaltech:void_res_miner_cont_5, Void Resource Miner Controller Tier 5
-environmentaltech:void_res_miner_cont_6, Void Resource Miner Controller Tier 6
-environmentaltech:void_botanic_miner_cont_1, Void Botanic Miner Controller Tier 1
-environmentaltech:void_botanic_miner_cont_2, Void Botanic Miner Controller Tier 2
-environmentaltech:void_botanic_miner_cont_3, Void Botanic Miner Controller Tier 3
-environmentaltech:void_botanic_miner_cont_4, Void Botanic Miner Controller Tier 4
-environmentaltech:void_botanic_miner_cont_5, Void Botanic Miner Controller Tier 5
-environmentaltech:void_botanic_miner_cont_6, Void Botanic Miner Controller Tier 6
-environmentaltech:modifier_creative_flight, Creative Flight Modifier
-environmentaltech:modifier_flight_speed, Flight Speed Modifier
-environmentaltech:modifier_haste, Haste Modifier
-environmentaltech:modifier_strength, Strength Modifier
-environmentaltech:modifier_jump_boost, Jump Boost Modifier
-environmentaltech:modifier_regeneration, Regen Modifier
-environmentaltech:modifier_resistance, Resistance Modifier
-environmentaltech:modifier_fire_resistance, Fire Resistance Modifier
-environmentaltech:modifier_water_breathing, Water Breathing Modifier
-environmentaltech:modifier_invisibility, Invisibility Modifier
-environmentaltech:modifier_night_vision, Night Vision Modifier
-environmentaltech:modifier_health_boost, Health Boost Modifier
-environmentaltech:modifier_absorption, Absoption Modifier
-environmentaltech:modifier_saturation, Saturation Modifier
-environmentaltech:modifier_glowing, Glowing Modifier
-environmentaltech:nano_cont_ranged_1, Ranged Nano Bot Beacon Tier 1
-environmentaltech:nano_cont_ranged_2, Ranged Nano Bot Beacon Tier 2
-environmentaltech:nano_cont_ranged_3, Ranged Nano Bot Beacon Tier 3
-environmentaltech:nano_cont_ranged_4, Ranged Nano Bot Beacon Tier 4
-environmentaltech:nano_cont_ranged_5, Ranged Nano Bot Beacon Tier 5
-environmentaltech:nano_cont_ranged_6, Ranged Nano Bot Beacon Tier 6
-environmentaltech:nano_cont_personal_1, Personal Nano Bot Beacon Tier 1
-environmentaltech:nano_cont_personal_2, Personal Nano Bot Beacon Tier 2
-environmentaltech:nano_cont_personal_3, Personal Nano Bot Beacon Tier 3
-environmentaltech:nano_cont_personal_4, Personal Nano Bot Beacon Tier 4
-environmentaltech:nano_cont_personal_5, Personal Nano Bot Beacon Tier 5
-environmentaltech:nano_cont_personal_6, Personal Nano Bot Beacon Tier 6
+patchouli:guide_book, Guide Book
 trashcansreborn:trashcan, Garbage Bin
 trashcansreborn:trashcanfluid, Fluid Garbage Bin
 gasesframework:gas_smoke, Smoke
@@ -7565,8 +7280,12 @@ gases:primitive_respirator, Primitive Respirator
 gases:advanced_respirator, Advanced Respirator
 gases:whispering_fog_emitter, Cracked Bedrock
 ichunutil:compact_porkchop, Compact Raw Porkchop
-omlib:debug_tool:0, Debug Tool
+testdummy:dummy, Test Dummy
+naturalabsorption:book_absorption, Book of Absorption
+omlib:debug_tool, Debug Tool
 omlib:fake_sword, item.fake_sword.name
+omlib:multi_tool, item.multi_tool.name
+omlib:network_cable, tile.network_cable.name
 openmodularturrets:intermediate_tiered:0, Sensor (Tier 1)
 openmodularturrets:intermediate_tiered:1, Sensor (Tier 2)
 openmodularturrets:intermediate_tiered:2, Sensor (Tier 3)
@@ -7654,6 +7373,10 @@ storagenetwork:upgrade:3, Stock Upgrade
 storagenetwork:remote:0, Storage Remote
 storagenetwork:remote:1, Advanced Storage Remote
 storagenetwork:remote:2, Upgraded Storage Remote
+storagenetwork:remote:3, Simple Storage Remote
+valkyrielib:guide, Digital Guide
+valkyrielib:modifier_component, Modifier Component
+valkyrielib:modifier_speed, Speed Modifier
 variedcommodities:vcrecipes_book, VariedCommodities Recipe Book
 variedcommodities:coin_wood, Wooden Coin
 variedcommodities:coin_stone, Stone Coin
@@ -8173,3 +7896,18 @@ variedcommodities:bronze_skirt, Bronze Skirt
 variedcommodities:demonic_skirt, Demonic Skirt
 variedcommodities:mithril_skirt, Mithril Skirt
 wearablebackpacks:backpack, Backpack
+blockcraftery:editable_block, Framed Block
+blockcraftery:editable_stairs, Framed Stairs
+blockcraftery:editable_slab, Framed Slab
+blockcraftery:editable_slant, Framed Slant
+blockcraftery:editable_outer_corner, Framed Outer Corner
+blockcraftery:editable_inner_corner, Framed Inner Corner
+blockcraftery:editable_wall, Framed Wall
+blockcraftery:editable_fence, Framed Fence
+blockcraftery:editable_block_reinforced, Reinforced Framed Block
+blockcraftery:editable_stairs_reinforced, Reinforced Framed Stairs
+blockcraftery:editable_slant_reinforced, Reinforced Framed Slant
+blockcraftery:editable_outer_corner_reinforced, Reinforced Framed Outer Corner
+blockcraftery:editable_inner_corner_reinforced, Reinforced Framed Inner Corner
+blockcraftery:editable_wall_reinforced, Reinforced Framed Wall
+blockcraftery:editable_fence_reinforced, Reinforced Framed Fence
