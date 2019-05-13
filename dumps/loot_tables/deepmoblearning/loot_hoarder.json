@@ -1,0 +1,72 @@
+{
+  "pools": [
+    {
+      "name": "main",
+      "entries": [
+        {
+          "entryName": "minecraft:diamond_ore",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:diamond_ore"
+        },
+        {
+          "entryName": "minecraft:emerald_ore",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:emerald_ore"
+        },
+        {
+          "entryName": "minecraft:ender_pearl",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 2.0,
+                "max": 3.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:ender_pearl"
+        },
+        {
+          "entryName": "minecraft:prismarine_shard",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 6.0,
+                "max": 12.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:prismarine_shard"
+        },
+        {
+          "entryName": "minecraft:gold_ingot",
+          "weight": 2,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 4.0,
+                "max": 5.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:gold_ingot"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

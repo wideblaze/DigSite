@@ -1,0 +1,344 @@
+{
+  "pools": [
+    {
+      "name": "Common",
+      "entries": [
+        {
+          "entryName": "minecraft:bed",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 3.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "minecraft:bed"
+        },
+        {
+          "entryName": "realistictorches:torch_unlit",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 32.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "realistictorches:torch_unlit"
+        },
+        {
+          "entryName": "minecraft:stone_sword",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:stone_sword"
+        },
+        {
+          "entryName": "minecraft:bread",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 2.0,
+                "max": 10.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:bread"
+        },
+        {
+          "entryName": "minecraft:iron_ore",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:iron_ore"
+        },
+        {
+          "entryName": "minecraft:coal",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 2.0,
+                "max": 5.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:coal"
+        },
+        {
+          "entryName": "minecraft:coal_block",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 3.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:coal_block"
+        },
+        {
+          "entryName": "realistictorches:glowstone_paste",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 3.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "realistictorches:glowstone_paste"
+        },
+        {
+          "entryName": "storagedrawers:basicdrawers",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "tag": "{material:\"oak\"}",
+              "function": "minecraft:set_nbt"
+            }
+          ],
+          "name": "storagedrawers:basicdrawers"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "name": "Rare",
+      "entries": [
+        {
+          "entryName": "realistictorches:matchbox",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "realistictorches:matchbox"
+        },
+        {
+          "entryName": "adchimneys:brick",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 1.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "adchimneys:brick"
+        },
+        {
+          "entryName": "adchimneys:brick-lt#2",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 2.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "adchimneys:brick"
+        },
+        {
+          "entryName": "adchimneys:brick-lt#3",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 3.0,
+                "max": 6.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "adchimneys:brick"
+        }
+      ],
+      "rolls": {
+        "min": 0.0,
+        "max": 1.0
+      }
+    },
+    {
+      "name": "Epic",
+      "entries": [
+        {
+          "entryName": "storagedrawers:upgrade_storage",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 2.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "storagedrawers:upgrade_storage"
+        },
+        {
+          "entryName": "jaff:diamond_fishing_rod",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "jaff:diamond_fishing_rod"
+        },
+        {
+          "entryName": "adpother:iron_filter",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "adpother:iron_filter"
+        }
+      ],
+      "rolls": {
+        "min": -5.0,
+        "max": 1.0
+      }
+    },
+    {
+      "name": "Legendary",
+      "entries": [
+        {
+          "entryName": "minecraft:chainmail_boots",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:chainmail_boots"
+        },
+        {
+          "entryName": "minecraft:chainmail_leggings",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:chainmail_leggings"
+        },
+        {
+          "entryName": "minecraft:chainmail_chestplate",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:chainmail_chestplate"
+        },
+        {
+          "entryName": "minecraft:chainmail_helmet",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:chainmail_helmet"
+        }
+      ],
+      "rolls": {
+        "min": -10.0,
+        "max": 1.0
+      }
+    }
+  ]
+}
