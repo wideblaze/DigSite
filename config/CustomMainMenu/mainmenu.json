@@ -9,7 +9,12 @@
             "posY" : 36,
             "width" : 160,
             "height" : 15,
-            "alignment" : "top_center"
+            "alignment" : "top_center",
+            "action" : 
+            {
+              "type" : "openLink",
+                                "link" : "https://www.twitch.tv/therealwideblaze"
+            }
         },
               "beta":
         {
@@ -124,10 +129,26 @@
     },
     "labels":
     {
+        
+                "packdev":
+        {
+            "text" : "follow wideblaze on twitch",
+            "hoverText" : "twitch: @therealwideblaze",
+            "posX" : -197,
+            "posY" : -30,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+              "type" : "openLink",
+                                "link" : "https://www.twitch.tv/therealwideblaze"
+            }
+        },
+ 
         "mojang":
         {
             "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "ÅònCopyright Mojang AB. Do not distribute!",
+            "hoverText" : "Copyright Mojang AB. Do not distribute!",
             "posX" : -197,
             "posY" : -10,
             "color" : -1,
