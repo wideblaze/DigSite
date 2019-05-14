@@ -1,6 +1,6 @@
 //	Name: DigSite_CraftTweaker.zs
 //	Author: wideblaze
-//	Custom Recipes for DigSite modpack.
+//	Custom Recipe Cookbook for DigSite modpack.
 //	Leave above header if copying this file into your modpack. No need to credit elsewhere.
 
 // Hello fellow modpack developer -- if you are looking for well factored code -- you will have to look elsewhere.
@@ -10,7 +10,6 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 
 //	Recipe Removes
-
 
 //	Removes
 val RecipeRemoves = [
@@ -45,6 +44,8 @@ for item in RecipeRemoves{
 
 // Add Shapeless
 
+// MOD Complex Crops
+
 // FLOUR
 recipes.addShapeless("Flour",<appliedenergistics2:material:4>, [
 			<minecraft:wheat>, 
@@ -78,6 +79,11 @@ recipes.addShapeless("cucumber_seeds",<complexcrops:cucumber_seeds>, [
 
 
 // Add Shaped
+
+// MOD Minecraft
+
+// EARLY GAME DIFFICULTY
+// IRON SWORD
 var item = <minecraft:iron_sword>;
 var damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Iron Sword").withLore(["This sword is junk"]);
 recipes.addShaped(damagedItem, [
@@ -91,6 +97,7 @@ recipes.addShaped(item, [
 			[<minecraft:stick>]
 		]);
 
+// IRON AXE
 item = <minecraft:iron_axe>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Iron Axe").withLore(["This axe is junk"]);
 recipes.addShaped(damagedItem, [
@@ -104,6 +111,7 @@ recipes.addShaped(item, [
 			[null, <minecraft:stick>]
 		]);
 
+// IRON HOE
 item = <minecraft:iron_hoe>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Iron Hoe").withLore(["This hoe is useless"]);
 recipes.addShaped(damagedItem, [
@@ -117,6 +125,7 @@ recipes.addShaped(item, [
 			[null, <minecraft:stick>]
 		]);
 
+// IRON PICKAXE
 item = <minecraft:iron_pickaxe>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Iron Pick").withLore(["This pick is garbo"]);
 recipes.addShaped(damagedItem, [
@@ -130,6 +139,7 @@ recipes.addShaped(item, [
 			[null, <minecraft:stick>, null]
 		]);
 
+// IRON SHOVEL
 item = <minecraft:iron_shovel>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Iron Shovel").withLore(["This shovel is junk"]);
 recipes.addShaped(damagedItem, [
@@ -143,6 +153,7 @@ recipes.addShaped(item, [
 			[<minecraft:stick>]
 		]);
 
+// IRON CHESTPLATE
 item = <minecraft:iron_chestplate>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Iron Chestplate").withLore(["This chestplate is cheap"]);
 recipes.addShaped(damagedItem, [
@@ -156,6 +167,7 @@ recipes.addShaped(item, [
 			[<pneumaticcraft:ingot_iron_compressed>,<pneumaticcraft:ingot_iron_compressed>,<pneumaticcraft:ingot_iron_compressed>]
 		]);
 
+// IRON BOOTS
 item = <minecraft:iron_boots>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Iron Boots").withLore(["These boots are meh"]);
 recipes.addShaped(damagedItem, [
@@ -167,6 +179,7 @@ recipes.addShaped(item, [
 			[<pneumaticcraft:ingot_iron_compressed>, null,<pneumaticcraft:ingot_iron_compressed>]
 		]);
 
+// IRON LEGGINGS
 item = <minecraft:iron_leggings>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Iron Leggins").withLore(["These leggins are bad"]);
 recipes.addShaped(damagedItem, [
@@ -180,6 +193,7 @@ recipes.addShaped(item, [
 			[<pneumaticcraft:ingot_iron_compressed>,null,<pneumaticcraft:ingot_iron_compressed>]
 		]);
 
+// IRON HELMET
 item = <minecraft:iron_helmet>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Iron Helmet").withLore(["This helmet is poorly made"]);
 recipes.addShaped(damagedItem, [
@@ -191,6 +205,7 @@ recipes.addShaped(item, [
 			[<pneumaticcraft:ingot_iron_compressed>, null,<pneumaticcraft:ingot_iron_compressed>]
 		]);
 
+// DIAMOND SWORD
 item = <minecraft:diamond_sword>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Diamond Sword").withLore(["This sword is junk"]);
 recipes.addShaped(damagedItem, [
@@ -204,6 +219,7 @@ recipes.addShaped(item, [
 			[<minecraft:stick>]
 		]);
 
+// DIAMOND AXE
 item = <minecraft:diamond_axe>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Diamond Axe").withLore(["This axe is junk"]);
 recipes.addShaped(damagedItem, [
@@ -217,6 +233,7 @@ recipes.addShaped(item, [
 			[null, <minecraft:stick>]
 		]);
 
+// DIAMOND HOE
 item = <minecraft:diamond_hoe>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Diamond Hoe").withLore(["This hoe is useless"]);
 recipes.addShaped(damagedItem, [
@@ -229,7 +246,8 @@ recipes.addShaped(item, [
 			[null, <minecraft:stick>], 
 			[null, <minecraft:stick>]
 		]);
-
+		
+// DIAMOND PICKAXE
 item = <minecraft:diamond_pickaxe>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Diamond Pick").withLore(["This pick is garbo"]);
 recipes.addShaped(damagedItem, [
@@ -243,6 +261,7 @@ recipes.addShaped(item, [
 			[null, <minecraft:stick>, null]
 		]);
 
+// DIAMOND SHOVEL
 item = <minecraft:diamond_shovel>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Diamond Shovel").withLore(["This shovel is junk"]);
 recipes.addShaped(damagedItem, [
@@ -256,6 +275,7 @@ recipes.addShaped(item, [
 			[<minecraft:stick>]
 		]);
 
+// DIAMOND CHESTPLATE
 item = <minecraft:diamond_chestplate>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Diamond Chestplate").withLore(["This chestplate is cheap"]);
 recipes.addShaped(damagedItem, [
@@ -269,6 +289,7 @@ recipes.addShaped(item, [
 			[<mekanism:compresseddiamond>,<mekanism:compresseddiamond>,<mekanism:compresseddiamond>]
 		]);
 
+// DIAMOND BOOTS
 item = <minecraft:diamond_boots>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Diamond Boots").withLore(["These boots are meh"]);
 recipes.addShaped(damagedItem, [
@@ -280,6 +301,7 @@ recipes.addShaped(item, [
 			[<mekanism:compresseddiamond>, null,<mekanism:compresseddiamond>]
 		]);
 
+// DIAMOND LEGGINGS
 item = <minecraft:diamond_leggings>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Diamond Leggins").withLore(["These leggins are bad"]);
 recipes.addShaped(damagedItem, [
@@ -293,6 +315,7 @@ recipes.addShaped(item, [
 			[<mekanism:compresseddiamond>,null,<mekanism:compresseddiamond>]
 		]);
 
+// DIAMOND HELMET
 item = <minecraft:diamond_helmet>;
 damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Diamond Helmet").withLore(["This helmet is poorly made"]);
 recipes.addShaped(damagedItem, [
@@ -305,9 +328,9 @@ recipes.addShaped(item, [
 		]);
 
 
-// Pneumaticcraft
+// MOD Pneumaticcraft
 
-// empty pcb
+// EMPTY PCB
 recipes.addShaped(<pneumaticcraft:empty_pcb:100>, [
 			[<appliedenergistics2:material:17>, <appliedenergistics2:material:16>, <appliedenergistics2:material:18>], 
 			[<minecraft:glass>, <minecraft:glass>, <minecraft:glass>], 
@@ -318,34 +341,35 @@ recipes.addShaped(<pneumaticcraft:empty_pcb:100>, [
 
 
 
-// Matter Overdrive
+// MOD Matter Overdrive
 
-// head
+// ANDRIOD HEAD
 recipes.addShaped(<matteroverdrive:rogue_android_part>, [
 			[<matteroverdrive:machine_hull>, <matteroverdrive:tritanium_helmet>, <matteroverdrive:machine_hull>], 
 			[<storagedrawers:controllerslave>, <minecraft:skull:2>, <pneumaticcraft:gps_tool>], 
 			[<pneumaticcraft:unassembled_pcb>, <deepmoblearning:pristine_matter_mo_android>, <pneumaticcraft:unassembled_pcb>] 
 		]);
 
-//arm		
+// ANDRIOD ARM		
 recipes.addShaped(<matteroverdrive:rogue_android_part:1>, [
 			[<minecraft:rotten_flesh>, <minecraft:bone>, <minecraft:rotten_flesh>], 
 			[<matteroverdrive:machine_hull>,  <deepmoblearning:pristine_matter_mo_android>, <matteroverdrive:machine_hull>], 
 			[<minecraft:rotten_flesh>, <minecraft:bone>, <minecraft:rotten_flesh>] 
 		]);
-// leg
+		
+// ANDRIOD LEG
 recipes.addShaped(<matteroverdrive:rogue_android_part:2>, [
 			[<minecraft:rotten_flesh>, <minecraft:bone>, <minecraft:rotten_flesh>], 
 			[<matteroverdrive:tritanium_leggings>,  <deepmoblearning:pristine_matter_mo_android>, <matteroverdrive:tritanium_boots>	], 
 			[<minecraft:rotten_flesh>, <minecraft:bone>, <minecraft:rotten_flesh>], 
 		]);
-// torso
+// ANDRIOD TORSO
 recipes.addShaped(<matteroverdrive:rogue_android_part:3>, [
 			[<minecraft:rotten_flesh>, <matteroverdrive:tritanium_spine>, <minecraft:rotten_flesh>], 
 			[<matteroverdrive:tritanium_chestplate>, <deepmoblearning:pristine_matter_mo_android>, <matteroverdrive:machine_hull>], 
 			[<minecraft:rotten_flesh>, <matteroverdrive:tritanium_spine>, <minecraft:rotten_flesh>] 
 		]);
-// spine
+// ANDRIOD SPINE
 recipes.addShaped(<matteroverdrive:tritanium_spine>, [
 			[<matteroverdrive:dilithium_crystal>, <minecraft:bone>, <matteroverdrive:dilithium_crystal>], 
 			[<matteroverdrive:tritanium_ingot>, <minecraft:bone>, <matteroverdrive:tritanium_ingot>], 
@@ -353,15 +377,17 @@ recipes.addShaped(<matteroverdrive:tritanium_spine>, [
 		]);
 
 
-// Mekanism
+// MOD Mekanism
 
-// elite compressor  -- added special recipe for automated crafting since mekanism breaks recipes for machines.
+// ELITE COMPRESSOR -- added special recipe for automated crafting since mekanism breaks recipes for machines.
 // this recipe is more expensive than manual crafting because it's automated
 recipes.addShaped(<mekanism:machineblock:7>.withTag({recipeType: 3}), [
 			[<mekanism:enrichedalloy>, <mekanism:controlcircuit:3>, <mekanism:enrichedalloy>],
 			[<minecraft:bucket>, <mekanism:basicblock:8>, <minecraft:bucket>], 
 			[<mekanism:tierinstaller>,<mekanism:tierinstaller:1>,<mekanism:tierinstaller:2>] 
 		]);
+
+
 
 
 
