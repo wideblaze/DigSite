@@ -33,6 +33,7 @@ val RecipeRemoves = [
 	<minecraft:diamond_helmet>,	
 	<minecraft:bread>, // better food quest line
 	<compactmachines3:psd>, // end game gate
+	<malisisdoors:forcefielditem>, // end game gate
 	<pneumaticcraft:amadron_tablet>, // nerf
 	<mekanism:machineblock:4>, // nerf
 	
