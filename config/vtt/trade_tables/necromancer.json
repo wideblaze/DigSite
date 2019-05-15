@@ -11,6 +11,12 @@
 				buyB: {id:"minecraft:emerald",Count:{min:8,max:12}}, buy: {id:"minecraft:skull",Count:1,Damage:0},
 				sell: {id:"minecraft:spawn_egg",Count:1,Damage:0,tag:{EntityTag:{id:"minecraft:skeleton"}}}
 			},
+
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:brown_mushroom",Count:1}, CareerLevel:2, chance:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:red_mushroom",Count:1}, CareerLevel:2, chance:1},
+
+
+
 			
 			{
 				action: "add",

@@ -1,0 +1,21 @@
+{ 
+	"Profession": "minecraft:smith", 
+	"Career":"weapon",
+
+
+		"Offers":{
+		"Recipes":[
+		
+				{action:"clear"},
+				
+			    {action:"add", buy:{id:"minecraft:coal",Count:{min:16,max:24}},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1, chance:1},
+			    {action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:1}},sell:{id:"minecraft:wooden_sword",Count:1}, CareerLevel:1, chance:1},
+
+			    {action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:1}},sell:{id:"minecraft:stone_sword",Count:1}, CareerLevel:2, chance:1},
+
+			    {action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:1}},sell:{id:"minecraft:iron_sword",Count:1, tag:{ench:"random"}},CareerLevel:3, chance:1},
+			    {action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:1}},sell:{id:"minecraft:diamond_sword",Count:1, tag:{ench:"random"}}, CareerLevel:3, chance:1},
+					
+		]
+	}
+}

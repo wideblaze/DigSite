@@ -1,0 +1,23 @@
+{ 
+	"Profession": "vtt:tinkerer", 
+	"Career":"tinkerer",
+
+		"Offers":{
+		"Recipes":[
+		
+				{action:"clear"},
+								
+			    {action:"add", buy:{id:"realistictorches:matchbox",Count:1},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1, chance:1},
+
+			    {action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:1}},sell:{id:"minecraft:iron_bars",Count:{min:15,max:19}}, CareerLevel:2, chance:1},
+
+			    {action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:noteblock",Count:1}, CareerLevel:2, chance:1},
+
+			    {action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:jukebox",Count:1}, CareerLevel:2, chance:1},
+		
+			    {action:"add", buy:{id:"minecraft:emerald",Count:{min:8,max:18}},sell:{id:"minecraft:hopper",Count:1}, CareerLevel:2, chance:1},
+			    {action:"add", buy:{id:"minecraft:emerald",Count:{min:18,max:38}},sell:{id:"minecraft:anvil",Count:1}, CareerLevel:2, chance:1},
+			
+		]
+	}
+}
