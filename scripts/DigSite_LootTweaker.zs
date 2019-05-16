@@ -1,4 +1,4 @@
-//Name: WB_LootTweaker.zs
+//Name: DigSite_LootTweaker.zs
 //Author:Wideblaze
 //Version: 0.1
 //Custom Loot Tables for TBD_named modpack. Note: Chance values may be wrong. Need to do more research.
@@ -13,7 +13,7 @@ import loottweaker.vanilla.loot.Conditions;
 import loottweaker.vanilla.loot.Functions;
 
 //Write to log file so we can tell if things went wrong with this script
-print("Initializing LOOTTWEAKER SCRIPT: 'WB_LootTweaker.zs'...");
+print("Initializing LOOTTWEAKER SCRIPT");
 
 // Chests
 
@@ -64,4 +64,4 @@ blacksmithLegendary.addItemEntryHelper(<minecraft:chainmail_helmet>, 5, 1, [Func
 // Entities
 
 
-print("Initialized LOOTTWEAKER SCRIPT: 'WB_LootTweaker.zs'");
+print("Initialized LOOTTWEAKER SCRIPT'");
