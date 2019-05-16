@@ -1,0 +1,80 @@
+
+
+# Flame gate
+fill -154 70 -237 -157 70 -234 minecraft:air
+
+
+# Segway Ambush setblock -824 59 2179 minecraft:redstone_block
+tellraw @a ["",{"text":"All systems -- prevent intrusion.","color":"red","bold":true}]
+summon matteroverdrive:ranged_rogue_android -115 17 -140 
+summon matteroverdrive:rogue_android -124 8 -144
+summon matteroverdrive:rogue_android -118 9 -145
+summon matteroverdrive:rogue_android -117 10 -145
+
+# Fueling Station 1 *
+tellraw @a ["",{"text":"Nuke Virus Has Infected Terminal","color":"blue","bold":true}]
+	# remove door
+fill 4104 42 8 4104 44 6 air
+
+# Fueling Station 2 *
+tellraw @a ["",{"text":"STOP! Virus has caused energy core to eject.","color":"red","bold":true}]
+	# remove redstone to release reward
+setblock 4098 52 4 minecraft:air
+	#remove door
+fill 4107 50 6 4107 52 8 minecraft:air
+
+
+
+# factory level 1 setblock -824 59 2185 minecraft:redstone_block
+tellraw @a ["",{"text":"Security systems activated.","color":"red","bold":true}]
+summon matteroverdrive:rogue_android -108 15 -131
+summon matteroverdrive:rogue_android -108 15 -126
+summon matteroverdrive:rogue_android -95 15 -133
+summon matteroverdrive:rogue_android -92 15 -137
+summon matteroverdrive:ranged_rogue_android -94 15 -137
+summon matteroverdrive:ranged_rogue_android -89 15 -131
+
+summon matteroverdrive:rogue_android -108 20 -136 {CustomName:"Turret Gunner",CustomNameVisible:1}
+summon matteroverdrive:rogue_android -87 15 -133 {CustomName:"Turret Gunner",CustomNameVisible:1}
+summon matteroverdrive:ranged_rogue_android -110 15 -128
+summon matteroverdrive:ranged_rogue_android -106 15 -128
+summon matteroverdrive:ranged_rogue_android -108 15 -135
+summon matteroverdrive:ranged_rogue_android -101 15 -131
+summon matteroverdrive:ranged_rogue_android -98 15 -135
+summon matteroverdrive:ranged_rogue_android -94 15 -142
+summon matteroverdrive:ranged_rogue_android -90 15 -142
+
+# factory level 2 setblock -824 59 2183 minecraft:redstone_block
+tellraw @a ["",{"text":"Terminate.","color":"red","bold":true}]
+summon matteroverdrive:rogue_android -96 20 -133
+summon matteroverdrive:rogue_android -97 20 -133
+summon matteroverdrive:ranged_rogue_android -102 20 -133
+summon matteroverdrive:ranged_rogue_android -99 20 -130
+
+
+# factory level 3 setblock -824 59 2181 minecraft:redstone_block
+
+tellraw @a ["",{"text":"Terminate Terminate","color":"red","bold":true}]
+summon matteroverdrive:rogue_android -67 20 -131 {CustomName:"Turret Gunner",CustomNameVisible:1}
+summon matteroverdrive:ranged_rogue_android -97 20 -115
+summon matteroverdrive:ranged_rogue_android -69 19 -118
+summon matteroverdrive:ranged_rogue_android -81 20 -142
+summon matteroverdrive:ranged_rogue_android -73 20 -142
+
+summon matteroverdrive:ranged_rogue_android -84 19 -133
+summon matteroverdrive:ranged_rogue_android -85 19 -133
+
+summon matteroverdrive:ranged_rogue_android -83 15 -133
+summon matteroverdrive:ranged_rogue_android -82 15 -133
+summon matteroverdrive:ranged_rogue_android -84 15 -133
+summon matteroverdrive:ranged_rogue_android -90 15 -123
+summon matteroverdrive:ranged_rogue_android -75 15 -121
+
+
+
+
+
+
+
+
+
