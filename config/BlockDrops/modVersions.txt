@@ -121,6 +121,7 @@
   "ftbbackups": "0.0.0.ftbbackups",
   "gravestone": "1.10.2",
   "fastbench": "1.7.1",
+  "keywizard": "1.12.2-1.6b1",
   "fluxnetworks": "3.0.19",
   "storagedrawers": "1.12-5.3.5",
   "blockcraftery": "1.12.2-1.2.0",
