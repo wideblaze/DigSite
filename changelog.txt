@@ -1,0 +1,15 @@
+0.0.3 Smoke Test 3
+-------------------------------------
+- removed rogue_android spawners (broke)
+
+
+0.0.2 Smoke Test 2
+-------------------------------------
+- corrected starting blacksmith chest
+- killed all rogue_androids around spanwer
+
+
+0.0.1 Smoke Test 1
+-------------------------------------
+- Initial Release
+
