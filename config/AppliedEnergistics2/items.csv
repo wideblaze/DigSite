@@ -6364,6 +6364,13 @@ bigreactors:reactorcomputerport, Reactor Computer Port (Legacy)
 bigreactors:reactorglass, Reactor Glass (Legacy)
 bigreactors:reactorcontrolrod, Reactor Control Rod (Legacy)
 bigreactors:reactorfuelrod, Reactor Fuel Rod (Legacy)
+floodlights:raw_filament, Raw Filament
+floodlights:glowing_filament, Glowing Filament
+floodlights:electric_incandescent_light_bulb, Electric Incandescent Light Bulb
+floodlights:carbon_dissolver, Fuel Dissolver
+floodlights:carbon_lantern, Non-electric Lantern
+floodlights:mantle, Mantle
+floodlights:light_debug_tool, Lightblock Debug Tool
 floodlights:electric_floodlight, Electric Floodlight
 floodlights:carbon_floodlight, Non-electric Floodlight
 floodlights:small_electric_floodlight_meta_block:0, Small Flourescent Light
@@ -6372,13 +6379,6 @@ floodlights:uv_floodlight, UV Floodlight
 floodlights:grow_light, Grow Light
 floodlights:phantom_light, tile.floodlights:phantomLight.name
 floodlights:phantom_u_v_light, tile.floodlights:phantomUVLight.name
-floodlights:raw_filament, Raw Filament
-floodlights:glowing_filament, Glowing Filament
-floodlights:electric_incandescent_light_bulb, Electric Incandescent Light Bulb
-floodlights:carbon_dissolver, Fuel Dissolver
-floodlights:carbon_lantern, Non-electric Lantern
-floodlights:mantle, Mantle
-floodlights:light_debug_tool, Lightblock Debug Tool
 mekanism:electricbow, Electric Bow
 mekanism:dust:0, Iron Dust
 mekanism:dust:1, Gold Dust
@@ -6789,15 +6789,6 @@ gravestone:gravestone, Gravestone
 gravestone:death_info, Death Info
 hotornot:mitts, Mitts
 naturescompass:naturescompass, Nature's Compass
-pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
-pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
-pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
-pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
-pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
-pneumaticcraft:heat_frame, Heat Frame
-pneumaticcraft:spawner_agitator, Spawner Agitator
-pneumaticcraft:crop_support, Crop Support
-pneumaticcraft:transfer_gadget, Transfer Gadget
 pneumaticcraft:gps_tool, GPS Tool
 pneumaticcraft:gps_area_tool, GPS Area Tool
 pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
@@ -6946,13 +6937,22 @@ pneumaticcraft:flux_compressor, Flux Compressor
 pneumaticcraft:pneumatic_dynamo, Pneumatic Dynamo
 pneumaticcraft:fake_ice, tile.fake_ice.name
 pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.oil, Oil
-pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.diesel, Diesel
 pneumaticcraft:fluid.fuel, Gasoline
-pneumaticcraft:fluid.plastic, Plastic
+pneumaticcraft:fluid.oil, Oil
 pneumaticcraft:fluid.kerosene, Kerosene
 pneumaticcraft:fluid.lubricant, Lubricant
-pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.plastic, Plastic
+pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
+pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
+pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
+pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
+pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
+pneumaticcraft:heat_frame, Heat Frame
+pneumaticcraft:spawner_agitator, Spawner Agitator
+pneumaticcraft:crop_support, Crop Support
+pneumaticcraft:transfer_gadget, Transfer Gadget
 pneumaticcraft:safety_tube_module, Safety Tube Module
 pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
 pneumaticcraft:flow_detector_module, Flow Detector Tube Module
