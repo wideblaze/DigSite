@@ -1,20 +1,28 @@
 
 0.0.4 Smoke Test 4
 -------------------------------------
+QUESTS
+- reduced abritray item counts for learning quests in questbook
+- added additonal questbook dialog
+- removed missing item questbook reward handheld crafting table (extended crafting mod previously removed from pack)
 CODE
 MODS
-- updated DankNull-1.12-1.4.46
+- updated DankNull-1.12-1.4.46 (dupe item fix)
 - updated Draconic-Evolution-1.12.2-2.3.22.343-universal
 - updated BrandonsCore-1.12.2-2.4.12.205-universal
 - updated ForgeEndertech-1.12.2-4.4.17.1-build.0328
 - updated AdChimneys-1.12.2-3.3.23.0-build.0328
 - updated VillageNames-1.12.2-3.0.1
 - updated jei_1.12.2-4.15.0.279
-MAP
+MAP  - restart not required
+- custsom spawn for digsite
+- custom spawn for the dish (replaces broken mo:spawner)
+- custom spawn for the flame  (replaces broken mo:spawner)
+
 
 0.0.3 Smoke Test 3
 -------------------------------------
-MAP
+MAP  - restart recommended due to massive spawning rate issue
 - removed rogue_android spawners (broke)
 
 

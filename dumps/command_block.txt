@@ -1,4 +1,22 @@
 
+# digsite
+summon minecraft:skeleton 162 60 -157
+summon minecraft:skeleton 162 60 -170
+summon minecraft:husk 144 65 -150
+summon minecraft:husk 131 65 -150
+
+#flame
+summon matteroverdrive:ranged_rogue_android -146 71 -235
+summon matteroverdrive:ranged_rogue_android -154 72 -228
+summon matteroverdrive:ranged_rogue_android -159 71 -232
+summon matteroverdrive:ranged_rogue_android -154 71 -241
+
+
+#dish
+summon matteroverdrive:ranged_rogue_android -55 72 -44
+summon matteroverdrive:ranged_rogue_android -56 72 -54
+summon matteroverdrive:ranged_rogue_android -60 79 -46
+summon matteroverdrive:ranged_rogue_android -67 73 -45
 
 # Flame gate
 fill -154 70 -237 -157 70 -234 minecraft:air
