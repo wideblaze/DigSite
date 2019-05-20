@@ -5,6 +5,12 @@ summon minecraft:skeleton 162 60 -170
 summon minecraft:husk 144 65 -150
 summon minecraft:husk 131 65 -150
 
+# ranch
+summon minecraft:zombie_villager 323 21 -573
+summon minecraft:zombie_villager 325 21 -573
+summon minecraft:zombie_villager 324 21 -572
+summon minecraft:zombie_villager 324 21 -574
+
 #flame
 summon matteroverdrive:ranged_rogue_android -146 71 -235
 summon matteroverdrive:ranged_rogue_android -154 72 -228

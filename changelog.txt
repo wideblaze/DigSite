@@ -1,8 +1,22 @@
 
+0.1.5 Beta
+-------------------------------------
+QUESTS
+CODE
+- added matter to entity loot tables
+MODS
+MAP  - restart not required
+- added basic trade villiagers to LucVille in otder to allow player to gain emeralds for trading
+- minor changes to the warehouse to make it easier to unlock factory at the squid
+- reduced difficulty to progress deep learning at the ranch
+- added trial arena
+- added npc spawn trader at the ranch
+- custom spawn for the ranch
+
 0.0.4 Smoke Test 4
 -------------------------------------
 QUESTS
-- reduced abritray item counts for learning quests in questbook
+- reduced abritrary item counts for learning quests in questbook
 - added additonal questbook dialog
 - removed missing item questbook reward handheld crafting table (extended crafting mod previously removed from pack)
 CODE
@@ -15,7 +29,7 @@ MODS
 - updated VillageNames-1.12.2-3.0.1
 - updated jei_1.12.2-4.15.0.279
 MAP  - restart not required
-- custsom spawn for digsite
+- custom spawn for digsite
 - custom spawn for the dish (replaces broken mo:spawner)
 - custom spawn for the flame  (replaces broken mo:spawner)
 

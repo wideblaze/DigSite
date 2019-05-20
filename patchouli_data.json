@@ -15,6 +15,16 @@
         "pneumaticcraft:base_concepts/gui"
       ],
       "completedManualQuests": []
+    },
+    "deepmoblearning:book": {
+      "viewedEntries": [
+        "deepmoblearning:2_trials/0_trial_key"
+      ],
+      "bookmarks": [],
+      "history": [
+        "deepmoblearning:2_trials/0_trial_key"
+      ],
+      "completedManualQuests": []
     }
   }
 }
