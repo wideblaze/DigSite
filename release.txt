@@ -1,0 +1,45 @@
+
+MAP
+Remove lose blocks / mobs
+Remove blocks control room
+/time set day
+quit game
+remove players
+		"playerdata"
+		"advancements"
+		NBT editing program
+			In the level.dat section, go to where it says "Player". Highlight the "Player" bit and delete it. save the world in the NBT editor, and close the program.
+
+remove template dir
+copy DigSite Map to template
+
+
+CODE
+update version  DigSite_preInit.zs
+git status
+commit all
+push
+
+TWITCH
+export profile
+set version
+files:
+	config
+	customnpcs
+	fonts
+	journeymap	
+	mods
+	resources
+	scripts
+	template
+	LICENSE
+	changelog.txt
+
+
+
+
+
+
+
+
+
