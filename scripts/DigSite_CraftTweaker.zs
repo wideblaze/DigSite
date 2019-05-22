@@ -13,6 +13,7 @@ import crafttweaker.item.IIngredient;
 
 //	Removes
 val RecipeRemoves = [
+    <pneumaticcraft:crop_support>, // confict
 	<minecraft:iron_sword>, // early game difficulty
 	<minecraft:iron_axe>,
 	<minecraft:iron_hoe>,
@@ -44,6 +45,10 @@ for item in RecipeRemoves{
 }
 
 // Add Shapeless
+
+recipes.addShapeless("Paper",<minecraft:paper> * 2, [
+			<minecraft:book>
+		]);
 
 // MOD Complex Crops
 
@@ -336,6 +341,12 @@ recipes.addShaped(<pneumaticcraft:empty_pcb:100>, [
 			[<appliedenergistics2:material:17>, <appliedenergistics2:material:16>, <appliedenergistics2:material:18>], 
 			[<minecraft:glass>, <minecraft:glass>, <minecraft:glass>], 
 			[<minecraft:dye:10>, <minecraft:dye:10>, <minecraft:dye:10>] 
+		]);
+
+// CROP SUPPORT
+recipes.addShaped(<pneumaticcraft:crop_support>, [
+			[< minecraft:stick>, null, <minecraft:stick>], 
+			[< minecraft:stick>, null, <minecraft:stick>]
 		]);
 
 
