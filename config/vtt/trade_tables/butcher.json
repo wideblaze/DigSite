@@ -8,20 +8,20 @@
 			{action:"clear"},
 		
 			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:18}},sell:{id:"minecraft:beef",Count:{min:1,max:8}}, CareerLevel:1, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:18}},sell:{id:"minecraft:mutton",Count:{min:1,max:8}}, CareerLevel:1, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:18}},sell:{id:"minecraft:porkchop",Count:{min:1,max:8}}, CareerLevel:1, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:18}},sell:{id:"minecraft:rabbit",Count:{min:1,max:8}}, CareerLevel:1, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:18}},sell:{id:"minecraft:chicken",Count:{min:1,max:8}}, CareerLevel:1, chance:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:18}},sell:{id:"minecraft:mutton",Count:{min:1,max:8}}, CareerLevel:1, chance:0.51},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:18}},sell:{id:"minecraft:porkchop",Count:{min:1,max:8}}, CareerLevel:1, chance:0.51},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:18}},sell:{id:"minecraft:rabbit",Count:{min:1,max:8}}, CareerLevel:1, chance:0.51},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:18}},sell:{id:"minecraft:chicken",Count:{min:1,max:8}}, CareerLevel:1, chance:0.51},
 
 			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:18}},sell:{id:"minecraft:egg",Count:12}, CareerLevel:2, chance:1},
 
 			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:18}},sell:{id:"minecraft:cooked_beef",Count:{min:1,max:7}}, CareerLevel:3, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:18}},sell:{id:"minecraft:cooked_mutton",Count:{min:1,max:7}}, CareerLevel:3, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:18}},sell:{id:"minecraft:cooked_porkchop",Count:{min:1,max:8}}, CareerLevel:3, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:18}},sell:{id:"minecraft:cooked_rabbit",Count:{min:1,max:8}}, CareerLevel:3, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:18}},sell:{id:"minecraft:cooked_chicken",Count:{min:1,max:8}}, CareerLevel:3, chance:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:18}},sell:{id:"minecraft:cooked_mutton",Count:{min:1,max:7}}, CareerLevel:3, chance:0.51},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:18}},sell:{id:"minecraft:cooked_porkchop",Count:{min:1,max:8}}, CareerLevel:3, chance:0.51},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:18}},sell:{id:"minecraft:cooked_rabbit",Count:{min:1,max:8}}, CareerLevel:3, chance:0.51},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:18}},sell:{id:"minecraft:cooked_chicken",Count:{min:1,max:8}}, CareerLevel:3, chance:0.51},
 
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:8,max:18}},sell:{id:"minecraft:rabbit_stew",Count:{min:1,max:8}}, CareerLevel:4, chance:1}
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:8,max:18}},sell:{id:"minecraft:rabbit_stew",Count:{min:1,max:8}}, CareerLevel:4, chance:0.1}
 			
 		]
 	}

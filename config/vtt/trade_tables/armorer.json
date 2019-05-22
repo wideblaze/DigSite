@@ -17,14 +17,14 @@
 				{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:8}},sell:{id:"minecraft:stone_sword",Count:1,tag:{ench:"random"}}, CareerLevel:3, chance:1},
 
 				{action:"add", buy:{id:"minecraft:emerald",Count:{min:8,max:16}},sell:{id:"minecraft:golden_sword",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:1},
-				{action:"add", buy:{id:"minecraft:emerald",Count:{min:12,max:20}},sell:{id:"minecraft:chainmail_chestplate",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:1},
-				{action:"add", buy:{id:"minecraft:emerald",Count:{min:12,max:20}},sell:{id:"minecraft:chainmail_leggings",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:1},
-				{action:"add", buy:{id:"minecraft:emerald",Count:{min:10,max:12}},sell:{id:"minecraft:chainmail_helmet",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:1},
-				{action:"add", buy:{id:"minecraft:emerald",Count:{min:10,max:12}},sell:{id:"minecraft:chainmail_boots",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:1},
-				{action:"add", buy:{id:"minecraft:emerald",Count:{min:25,max:32}},sell:{id:"minecraft:diamond_chestplate",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:1},
-				{action:"add", buy:{id:"minecraft:emerald",Count:{min:25,max:32}},sell:{id:"minecraft:diamond_leggings",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:1},
-				{action:"add", buy:{id:"minecraft:emerald",Count:{min:20,max:25}},sell:{id:"minecraft:diamond_helmet",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:1},
-				{action:"add", buy:{id:"minecraft:emerald",Count:{min:20,max:25}},sell:{id:"minecraft:diamond_boots",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:1}
+				{action:"add", buy:{id:"minecraft:emerald",Count:{min:12,max:20}},sell:{id:"minecraft:chainmail_chestplate",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:0.51},
+				{action:"add", buy:{id:"minecraft:emerald",Count:{min:12,max:20}},sell:{id:"minecraft:chainmail_leggings",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:0.51},
+				{action:"add", buy:{id:"minecraft:emerald",Count:{min:10,max:12}},sell:{id:"minecraft:chainmail_helmet",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:0.51},
+				{action:"add", buy:{id:"minecraft:emerald",Count:{min:10,max:12}},sell:{id:"minecraft:chainmail_boots",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:0.51},
+				{action:"add", buy:{id:"minecraft:emerald",Count:{min:25,max:32}},sell:{id:"minecraft:diamond_chestplate",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:0.05},
+				{action:"add", buy:{id:"minecraft:emerald",Count:{min:25,max:32}},sell:{id:"minecraft:diamond_leggings",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:0.05},
+				{action:"add", buy:{id:"minecraft:emerald",Count:{min:20,max:25}},sell:{id:"minecraft:diamond_helmet",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:0.05},
+				{action:"add", buy:{id:"minecraft:emerald",Count:{min:20,max:25}},sell:{id:"minecraft:diamond_boots",Count:1,tag:{ench:"random"}}, CareerLevel:4, chance:0.05}
 			
 		]
 	}

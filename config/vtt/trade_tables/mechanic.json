@@ -12,7 +12,7 @@
 
 			    {action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:10}},sell:{id:"pneumaticcraft:advanced_pressure_tube",Count:{min:5,max:10}}, CareerLevel:2, chance:1},
 
-			    {action:"add", buy:{id:"minecraft:emerald",Count:{min:10,max:18}},sell:{id:"pneumaticcraft:charging_station",Count:1}, CareerLevel:3, chance:1}
+			    {action:"add", buy:{id:"minecraft:emerald",Count:{min:10,max:18}},sell:{id:"pneumaticcraft:charging_station",Count:1}, CareerLevel:3, chance:0.51}
 
 					
 		]

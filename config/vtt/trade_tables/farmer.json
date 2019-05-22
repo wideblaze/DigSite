@@ -7,35 +7,35 @@
 		
 			{action:"clear"},
 		
-			{action:"add", buy:{id:"minecraft:beetroot",Count:{min:15,max:19}},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1, chance:1},
+			{action:"add", buy:{id:"minecraft:beetroot",Count:{min:15,max:19}},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1, chance:0.51},
 			{action:"add", buy:{id:"minecraft:wheat",Count:{min:15,max:19}},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1, chance:1},
-			{action:"add", buy:{id:"minecraft:potato",Count:{min:15,max:19}},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1, chance:1},
-			{action:"add", buy:{id:"minecraft:reeds",Count:{min:15,max:19}},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1, chance:1},
-			{action:"add", buy:{id:"minecraft:apple",Count:{min:15,max:19}},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1, chance:1},
-			{action:"add", buy:{id:"minecraft:carrot",Count:{min:15,max:19}},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1, chance:1},
+			{action:"add", buy:{id:"minecraft:potato",Count:{min:15,max:19}},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1, chance:0.51},
+			{action:"add", buy:{id:"minecraft:reeds",Count:{min:15,max:19}},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1, chance:0.51},
+			{action:"add", buy:{id:"minecraft:apple",Count:{min:15,max:19}},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1, chance:0.51},
+			{action:"add", buy:{id:"minecraft:carrot",Count:{min:15,max:19}},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1, chance:0.51},
 
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:beetroot",Count:1}, CareerLevel:2, chance:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:beetroot",Count:1}, CareerLevel:2, chance:0.51},
 			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:wheat",Count:1}, CareerLevel:2, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:potato",Count:1}, CareerLevel:2, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:reeds",Count:1}, CareerLevel:2, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:apple",Count:1}, CareerLevel:2, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:carrot",Count:1}, CareerLevel:2, chance:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:potato",Count:1}, CareerLevel:2, chance:0.51},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:reeds",Count:1}, CareerLevel:2, chance:0.51},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:apple",Count:1}, CareerLevel:2, chance:0.51},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:carrot",Count:1}, CareerLevel:2, chance:0.51},
 
 			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:milk_bucket",Count:1}, CareerLevel:3, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"complexcrops:cucumber",Count:1}, CareerLevel:3, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"complexcrops:corn_cob",Count:1}, CareerLevel:3, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:cookie",Count:{min:1,max:32}}, CareerLevel:3, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:bread",Count:{min:1,max:8}}, CareerLevel:3, chance:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"complexcrops:cucumber",Count:1}, CareerLevel:3, chance:0.51},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"complexcrops:corn_cob",Count:1}, CareerLevel:3, chance:0.51},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:cookie",Count:{min:1,max:32}}, CareerLevel:3, chance:0.51},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:bread",Count:{min:1,max:8}}, CareerLevel:3, chance:0.51},
 
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"complexcrops:butter",Count:1}, CareerLevel:4, chance:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"complexcrops:butter",Count:1}, CareerLevel:4, chance:0.51},
 			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:lit_pumpkin",Count:1}, CareerLevel:4, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:pumpkin_pie",Count:1}, CareerLevel:4, chance:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:pumpkin_pie",Count:1}, CareerLevel:4, chance:0.51},
 			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:cake",Count:1}, CareerLevel:4, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:mushroom_stew",Count:1}, CareerLevel:4, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:beetroot_soup",Count:1}, CareerLevel:4, chance:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:mushroom_stew",Count:1}, CareerLevel:4, chance:0.51},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:1,max:8}},sell:{id:"minecraft:beetroot_soup",Count:1}, CareerLevel:4, chance:0.51},
 
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:30,max:64}},sell:{id:"minecraft:golden_apple",Count:1}, CareerLevel:5, chance:1},
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:64,max:64}},sell:{id:"minecraft:golden_apple",Count:1, Damage:1}, CareerLevel:5, chance:1}
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:30,max:64}},sell:{id:"minecraft:golden_apple",Count:1}, CareerLevel:5, chance:0.1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:64,max:64}},sell:{id:"minecraft:golden_apple",Count:1, Damage:1}, CareerLevel:5, chance:0.01}
 				
 		]
 	}
