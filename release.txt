@@ -1,6 +1,8 @@
 MAP
 Remove lose blocks / mobs
 Remove blocks control room
+remove all items from player
+reset questbook progress / turn off editing
 /time set day
 quit game
 remove template dir
