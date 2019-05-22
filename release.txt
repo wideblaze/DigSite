@@ -1,24 +1,26 @@
-
 MAP
 Remove lose blocks / mobs
 Remove blocks control room
 /time set day
 quit game
-remove players
+remove template dir
+copy DigSite Map to template
+
+remove players in template dir
 		"playerdata"
 		"advancements"
 		NBT editing program
-			In the level.dat section, go to where it says "Player". Highlight the "Player" bit and delete it. save the world in the NBT editor, and close the program.
+			In the level.dat section, go to where it says "Player". Highlight the "Player" bit and rename _old it. save the world in the NBT editor, and close the program.
 
-remove template dir
-copy DigSite Map to template
 
 
 CODE
 update version  DigSite_preInit.zs
+save all
 git status
-commit all
-push
+git add <files>
+git comit -m "comment"
+git push
 
 TWITCH
 export profile
@@ -34,6 +36,10 @@ files:
 	template
 	LICENSE
 	changelog.txt
+
+test import
+
+
 
 
 

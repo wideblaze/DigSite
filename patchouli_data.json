@@ -18,10 +18,14 @@
     },
     "deepmoblearning:book": {
       "viewedEntries": [
-        "deepmoblearning:2_trials/0_trial_key"
+        "deepmoblearning:2_trials/0_trial_key",
+        "deepmoblearning:3_system_malfunction/0_system_glitches",
+        "deepmoblearning:3_system_malfunction/1_glitch_fragments"
       ],
       "bookmarks": [],
       "history": [
+        "deepmoblearning:3_system_malfunction/1_glitch_fragments",
+        "deepmoblearning:3_system_malfunction/0_system_glitches",
         "deepmoblearning:2_trials/0_trial_key"
       ],
       "completedManualQuests": []
