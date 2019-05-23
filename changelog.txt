@@ -1,3 +1,18 @@
+0.1.52 Beta
+-------------------------------------
+QUESTS
+CODE
+- fixed config for famer villagers -- farmer, fisherman, fletcher will now show up
+- doubled hunger for oreexcavation
+MODS
+- added snad
+- added hunder overhaul
+- removed cucumber library (no longer needed)
+- removed simple harvest (no longer needed)
+MAP  - restart not required
+- cosmetic changes
+
+
 0.1.51 Beta
 -------------------------------------
 QUESTS
@@ -6,7 +21,6 @@ CODE
 MODS
 MAP  - restart not required
 - cosmetic changes
-
 
 0.1.5 Beta
 -------------------------------------

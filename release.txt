@@ -31,7 +31,6 @@ files:
 	config
 	customnpcs
 	fonts
-	journeymap	
 	mods
 	resources
 	scripts
