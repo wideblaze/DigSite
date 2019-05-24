@@ -14,6 +14,7 @@
   "ctm": "MC1.12.2-0.3.3.22",
   "controlling": "3.0.6",
   "placebo": "1.6.0",
+  "reauth": "3.6.0",
   "ae2stuff": "0.7.0.4",
   "fencejumper": "1.0.5",
   "forgelin": "1.8.2",

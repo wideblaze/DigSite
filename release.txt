@@ -40,6 +40,9 @@ files:
 
 test import
 
+add to curseforge
+add to github
+
 
 
 

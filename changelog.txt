@@ -1,3 +1,18 @@
+0.1.53 Beta
+-------------------------------------
+QUESTS
+CODE
+- tweaked hunger overhaul to have less effect on crops, removed food stack limits
+- added QoL recipes: flint, sticks, chests (thanks 47MarkIV)
+MODS
+- added ReAuth
+MAP  - restart not required
+- cosmetic changes (signs / names / dialog etc...)
+- quest dialog correction (replaced "Northern ridge" w/ "Western ridge") (thanks Anymous3)
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+
 0.1.52 Beta
 -------------------------------------
 QUESTS
@@ -6,12 +21,13 @@ CODE
 - doubled hunger for oreexcavation
 MODS
 - added snad
-- added hunder overhaul
+- added hunger overhaul
 - removed cucumber library (no longer needed)
 - removed simple harvest (no longer needed)
 MAP  - restart not required
 - cosmetic changes
 
+https://minecraft.curseforge.com/projects/digsite/files
 
 0.1.51 Beta
 -------------------------------------
