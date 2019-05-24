@@ -46,8 +46,34 @@ for item in RecipeRemoves{
 
 // Add Shapeless
 
-recipes.addShapeless("Paper",<minecraft:paper> * 2, [
+// QoL Book to PAPER
+recipes.addShapeless("QoLPaper",<minecraft:paper> * 2, [
 			<minecraft:book>
+		]);
+
+// QoL gravel to FLINT
+recipes.addShapeless("QoLGravel",<minecraft:flint>, [
+			<minecraft:gravel>,
+			<minecraft:gravel>,
+			<minecraft:gravel>
+		]);
+		
+// QoL logs to STICKS
+recipes.addShapeless("QoLSticks",<minecraft:stick> * 16, [
+			<ore:logWood>,
+			<ore:logWood>
+		]);
+
+// QoL logs to CHESTS
+recipes.addShapeless("QoLChests",<minecraft:chest> * 4, [
+			<ore:logWood>,
+			<ore:logWood>,
+			<ore:logWood>,
+			<ore:logWood>,
+			<ore:logWood>,
+			<ore:logWood>,
+			<ore:logWood>,
+			<ore:logWood>
 		]);
 
 // MOD Complex Crops
@@ -79,9 +105,6 @@ recipes.addShapeless("cucumber_seeds",<complexcrops:cucumber_seeds>, [
 			<minecraft:melon_block>,
 			<minecraft:dirt>
 		]);
-
-
-
 
 
 // Add Shaped
