@@ -1,3 +1,18 @@
+0.1.54 Beta
+-------------------------------------
+QUESTS
+- minor rewording of instructions
+CODE
+- wearable backpacks can now be opened without having to be set down first. Use keybind. Check for conflicts. (thanks 47MarkIV)
+MODS
+- added phosphor (to improve FPS -- thanks 47MarkIV)
+MAP  - restart not required
+- added custom spawns fueling station
+- end game dialog improvement
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+
 0.1.53 Beta
 -------------------------------------
 QUESTS

@@ -35,6 +35,11 @@ summon matteroverdrive:rogue_android -124 8 -144
 summon matteroverdrive:rogue_android -118 9 -145
 summon matteroverdrive:rogue_android -117 10 -145
 
+# Fueling Station
+setblock 4100 48 8 minecraft:redstone_block
+summon matteroverdrive:rogue_android 4107 42 6
+summon matteroverdrive:rogue_android 4104 50 6
+
 # Fueling Station 1 *
 tellraw @a ["",{"text":"Nuke Virus Has Infected Terminal","color":"blue","bold":true}]
 	# remove door
