@@ -1,3 +1,40 @@
+0.1.55 Beta
+-------------------------------------
+QUESTS
+- minor rewording of instructions, added flint & steel quest
+CODE
+- certus and nether quartz picks and swords gated with compressed iron
+- feral flame lantern, terrain lighter recipes removed
+- microblock saw recipes removed or gated
+- removed matter overdirve wrench, omni tool recipes
+- removed sound muffler bauble recipe (baubles? baubles? We don't need no stinkin baubles!)
+MODS
+- updated AdChimneys-1.12.2-3.5.0.0-build.0353
+- updated blockcraftery-1.12.2-1.3.1
+- updated FastWorkbench-1.12.2-1.7.2
+- updated ForgeEndertech-1.12.2-4.4.19.1-build.0353
+- updated FTBUtilitiesBackups-1.0.0.4
+- updated mysticallib-1.12.2-1.2.1
+- updated omlib-1.12.2-3.1.0-233
+- updated ElevatorMod-1.12.2-1.4.2
+- updated openmodularturrets-1.12.2-3.1.0-336
+- updated AdPother-1.12.2-1.0.14.0-build.0353
+- updated SimpleStorageNetwork-1.12.2-1.7.5 (now eaiser to place cables ;)
+MAP  - restart not required but you may have issues winning final battle depending on your map version
+- town of Blalb renamed to "Serenity" in honor of 47MarkIV (for the help he has provided) 
+- misc cosmetic changes
+- spelling corrections
+- fixed? infrared lights
+- fixed storge drawer at the sparrow 
+- final battle stats tweaked
+- modified old fisherman to have ! mark only when needed to be taliked to
+- the old fisherman has had enough of creepers blowing up his tent and will now kill them on sight
+- additional backstory dialog added at the squid
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+
+
 0.1.54 Beta
 -------------------------------------
 QUESTS
