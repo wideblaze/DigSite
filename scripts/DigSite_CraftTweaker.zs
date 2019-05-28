@@ -15,28 +15,40 @@ import crafttweaker.item.IIngredient;
 val RecipeRemoves = [
     <pneumaticcraft:crop_support>, // confict
 	<minecraft:iron_sword>, // early game difficulty
-	<minecraft:iron_axe>,
-	<minecraft:iron_hoe>,
-	<minecraft:iron_pickaxe>,
-	<minecraft:iron_shovel>,
-	<minecraft:iron_chestplate>,
-	<minecraft:iron_boots>,
-	<minecraft:iron_leggings>,
-	<minecraft:iron_helmet>,
-	<minecraft:diamond_sword>,
-	<minecraft:diamond_axe>,
-	<minecraft:diamond_hoe>,
-	<minecraft:diamond_pickaxe>,
-	<minecraft:diamond_shovel>,
-	<minecraft:diamond_chestplate>,
-	<minecraft:diamond_boots>,
-	<minecraft:diamond_leggings>,
-	<minecraft:diamond_helmet>,	
+	<minecraft:iron_axe>, // early game difficulty
+	<minecraft:iron_hoe>, // early game difficulty
+	<minecraft:iron_pickaxe>, // early game difficulty
+	<minecraft:iron_shovel>, // early game difficulty
+	<minecraft:iron_chestplate>, // early game difficulty
+	<minecraft:iron_boots>, // early game difficulty
+	<minecraft:iron_leggings>, // early game difficulty
+	<minecraft:iron_helmet>, // early game difficulty
+	<minecraft:diamond_sword>, // early game difficulty
+	<minecraft:diamond_axe>, // early game difficulty
+	<minecraft:diamond_hoe>, // early game difficulty
+	<minecraft:diamond_pickaxe>, // early game difficulty
+	<minecraft:diamond_shovel>, // early game difficulty
+	<minecraft:diamond_chestplate>, // early game difficulty
+	<minecraft:diamond_boots>, // early game difficulty
+	<minecraft:diamond_leggings>, // early game difficulty
+	<minecraft:diamond_helmet>,	 // early game difficulty
+	<appliedenergistics2:certus_quartz_sword>, // early game difficulty
+	<appliedenergistics2:certus_quartz_pickaxe>, // early game difficulty
+	<appliedenergistics2:nether_quartz_sword>, // early game difficulty
+	<appliedenergistics2:nether_quartz_pickaxe>, // early game difficulty
+	<matteroverdrive:tritanium_wrench>, // bugs
+	<matteroverdrive:omni_tool>,// nerf
+	<supersoundmuffler:sound_muffler_bauble>, // nerf
 	<minecraft:bread>, // better food quest line
 	<compactmachines3:psd>, // end game gate
 	<malisisdoors:forcefielditem>, // end game gate
 	<pneumaticcraft:amadron_tablet>, // nerf
 	<mekanism:machineblock:4>, // nerf
+	<torchmaster:feral_flare_lantern>, // nerf
+	<torchmaster:terrain_lighter>, // nerf
+	<microblockcbe:saw_stone>, // nerf
+	<microblockcbe:saw_iron>, // nerf
+	<microblockcbe:saw_diamond>, // nerf
 	
 ] as IIngredient[];
 
@@ -112,6 +124,7 @@ recipes.addShapeless("cucumber_seeds",<complexcrops:cucumber_seeds>, [
 // MOD Minecraft
 
 // EARLY GAME DIFFICULTY
+
 // IRON SWORD
 var item = <minecraft:iron_sword>;
 var damagedItem = item.withTag({RepairCost: 100}).withDamage((item.maxDamage) - 5).withDisplayName("Brittle Iron Sword").withLore(["This sword is junk"]);
@@ -355,7 +368,49 @@ recipes.addShaped(item, [
 			[<mekanism:compresseddiamond>, <mekanism:compresseddiamond>, <mekanism:compresseddiamond>], 
 			[<mekanism:compresseddiamond>, null,<mekanism:compresseddiamond>]
 		]);
+		
+// MOD AE2
 
+// CERTUS QUARTZ SWORD
+item = <appliedenergistics2:certus_quartz_sword>;
+recipes.addShaped(item, [
+			[<appliedenergistics2:material>], 
+			[<pneumaticcraft:ingot_iron_compressed>], 
+			[<minecraft:stick>]
+		]);
+
+// CERTUS QUARTZ PICK
+item = <appliedenergistics2:certus_quartz_pickaxe>;
+recipes.addShaped(item, [
+			[<appliedenergistics2:material>,<appliedenergistics2:material>,<appliedenergistics2:material>], 
+			[null,<pneumaticcraft:ingot_iron_compressed>,null], 
+			[null,<minecraft:stick>,null]
+		]);
+
+// NETHER QUARTZ SWORD
+item = <appliedenergistics2:nether_quartz_sword>;
+recipes.addShaped(item, [
+			[<minecraft:quartz>], 
+			[<pneumaticcraft:ingot_iron_compressed>], 
+			[<minecraft:stick>]
+		]);
+
+// NETHER QUARTZ PICK
+item = <appliedenergistics2:nether_quartz_pickaxe>;
+recipes.addShaped(item, [
+			[<minecraft:quartz>,<minecraft:quartz>,<minecraft:quartz>], 
+			[null,<pneumaticcraft:ingot_iron_compressed>,null], 
+			[null,<minecraft:stick>,null]
+		]);
+
+// MOD microblockscbe
+
+// DIAMOND SAW
+item = <microblockcbe:saw_diamond>;
+recipes.addShaped(item, [
+			[<minecraft:blaze_rod>, <mekanism:compressedobsidian>, <mekanism:compressedobsidian>], 
+			[null, <mekanism:otherdust>, <mekanism:otherdust>]
+		]);
 
 // MOD Pneumaticcraft
 
