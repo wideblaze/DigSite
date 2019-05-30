@@ -1,3 +1,28 @@
+0.1.56 Beta
+-------------------------------------
+QUESTS
+- fixed hopper quests item detecttion
+- fixed natures compass quests item detection
+- removed flint and steel quest -- use matchbook instead on unlit placed torches
+CODE
+- flux network can not longer charge matter overdrive weapons and batteries in inventory
+- added discord link to main menu
+- tritanium pickaxe gated with obsidian
+- nametags can now appear in chests
+MODS
+MAP - restart recommended
+- misc tweaks to help guide player with important tasks
+- additional backstory dialog added at the squid (for reals this time)
+- fixed questlog for the sparrow (corrected text says "Western end of the mountain ridge")
+- new low low everyday pricing at the ranch (most things 50-90% off -- DML was too much of a grind)
+- fixed flame surface gate
+- the flame starter kit and note for where to reorder
+- slater core questline now shows parts in questlog
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+
+
 0.1.55 Beta
 -------------------------------------
 QUESTS
@@ -19,7 +44,7 @@ MODS
 - updated ElevatorMod-1.12.2-1.4.2
 - updated openmodularturrets-1.12.2-3.1.0-336
 - updated AdPother-1.12.2-1.0.14.0-build.0353
-- updated SimpleStorageNetwork-1.12.2-1.7.5 (now eaiser to place cables ;)
+- updated SimpleStorageNetwork-1.12.2-1.7.5 (now easier to place cables ;)
 MAP  - restart not required but you may have issues winning final battle depending on your map version
 - town of Blalb renamed to "Serenity" in honor of 47MarkIV (for the help he has provided) 
 - misc cosmetic changes
@@ -30,6 +55,7 @@ MAP  - restart not required but you may have issues winning final battle dependi
 - modified old fisherman to have ! mark only when needed to be taliked to
 - the old fisherman has had enough of creepers blowing up his tent and will now kill them on sight
 - additional backstory dialog added at the squid
+- removed accidently dropped draconic sword (thanks: rastafouai and JustCabman)
 
 https://minecraft.curseforge.com/projects/digsite/files
 

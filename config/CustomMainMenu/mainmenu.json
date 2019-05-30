@@ -132,11 +132,14 @@
         
                 "packdev":
         {
-            "text" : "follow wideblaze on twitch",
-            "hoverText" : "twitch: @therealwideblaze",
+            "text" : "Click to Follow @TherealWideblaze",
+             "hoverText" : "Click to Follow @TherealWideblaze",
+
             "posX" : -197,
-            "posY" : -30,
+            "posY" : -40,
             "color" : -1,
+            "hoverColor" : -500,
+
             "alignment" : "bottom_right",
             "action" : 
             {
@@ -144,7 +147,22 @@
                                 "link" : "https://www.twitch.tv/therealwideblaze"
             }
         },
- 
+                "discord":
+        {
+            "text" : "Click to Chat about DigSite on Discord",
+            "hoverText" : "Click to Chat about DigSite on Discord",
+            "posX" : -197,
+            "posY" : -30,
+            "color" : -1,
+            "hoverColor" : -500,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+              "type" : "openLink",
+                                "link" : "https://discord.gg/HZgrxSm"
+            }
+        },
+
         "mojang":
         {
             "text" : "Copyright Mojang AB. Do not distribute!",

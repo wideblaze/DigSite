@@ -9,4 +9,4 @@
 */
 
 // Update PACK_VERSION for every build 
-static PACK_VERSION as string = "0.1.55";
+static PACK_VERSION as string = "0.1.56";

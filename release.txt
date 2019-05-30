@@ -3,6 +3,7 @@ Remove lose blocks / mobs
 Remove blocks control room
 remove all items from player
 reset questbook progress / turn off editing
+[backup world ith release id]
 /time set day
 quit game
 remove template dir
