@@ -37,6 +37,7 @@ val RecipeRemoves = [
 	<appliedenergistics2:nether_quartz_sword>, // early game difficulty
 	<appliedenergistics2:nether_quartz_pickaxe>, // early game difficulty
 	<matteroverdrive:tritanium_wrench>, // bugs
+	<matteroverdrive:tritanium_pickaxe>, // mid game difficulty
 	<matteroverdrive:omni_tool>,// nerf
 	<supersoundmuffler:sound_muffler_bauble>, // nerf
 	<minecraft:bread>, // better food quest line
@@ -411,6 +412,19 @@ recipes.addShaped(item, [
 			[<minecraft:blaze_rod>, <mekanism:compressedobsidian>, <mekanism:compressedobsidian>], 
 			[null, <mekanism:otherdust>, <mekanism:otherdust>]
 		]);
+
+
+
+// MOD Matter Overdrive
+
+// TRITANIUM PICK
+item = <matteroverdrive:tritanium_pickaxe>;
+recipes.addShaped(item, [
+			[<matteroverdrive:tritanium_ingot>,<matteroverdrive:tritanium_ingot>,<matteroverdrive:tritanium_ingot>], 
+			[null,<minecraft:obsidian>,null], 
+			[null,<minecraft:stick>,null]
+		]);
+
 
 // MOD Pneumaticcraft
 
