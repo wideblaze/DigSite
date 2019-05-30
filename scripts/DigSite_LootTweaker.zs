@@ -46,6 +46,7 @@ blacksmithRare.addItemEntryHelper(<realistictorches:matchbox>, 7, 1, [Functions.
 blacksmithRare.addItemEntryHelper(<adchimneys:brick:1>, 5, 1, [Functions.setCount(1, 2)], []);
 blacksmithRare.addItemEntryHelper(<adchimneys:brick:2>, 5, 1, [Functions.setCount(1, 1)], []);
 blacksmithRare.addItemEntryHelper(<adchimneys:brick>, 5, 1, [Functions.setCount(3, 6)], []);
+blacksmithRare.addItemEntryHelper(<minecraft:name_tag>, 6, 1, [Functions.setCount(1, 1)], []);
 
 //Epic Loot: Few or none of these these 1 in 6 chance
 val blacksmithEpic = blacksmithChest.addPool("Epic", -5, 1, 0, 0);
