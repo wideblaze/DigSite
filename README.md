@@ -20,39 +20,6 @@ Discord: https://discord.gg/HZgrxSm
 Latest development build: https://github.com/wideblaze/DigSite/releases
 
 
-## FAQ
+[Frequently Asked Questions](https://github.com/wideblaze/DigSite/wiki/Frequently-Asked-Questions)
 
-Q: Can I run it with x RAM?
-
-a: Maybe -- let me know it it works. Minimum suggested is 4GB
-
-Q: Is there a Server File?
-
-a: Coming "soon"
-
-Q: Is there a public server?
-
-a: Nope
-
-Q: In Multi-player, does each player get their own map?
-
-a: No. Multiplayer is considered to be cooperative. Due to the nature of how the map was created for this modpack -- it is not possible for each player to get their own map without a complete redo of modpack. I'm not interested in doing that.
-
-Q: How do I play with Hardcore Mode
-
-a: Looking into it. I think you can just adjust that in the gamerules.cfg file. Or you might have to use a NBT editor to do that. 
-
-Q: Can I play in Peaceful difficulty?
-
-a: Yes and No. You will not be able to Level up or get access to certain resources (see Deep Mob Learning in JEI) in peaceful mode. So you may get stuck.
-
-Q: How can I enter creative mode?
-
-a: That is cheating. Don't cheat yourself. If it is required to correct an issue you can open the world in LAN mode with cheats enabled.
-
-Q: Can I stream or post videos on YouTube of this pack?
-
-a: Yes, please do. I'd like to hear about it but not required.
-
-
-
+[Tips](https://github.com/wideblaze/DigSite/wiki/TIPS)
