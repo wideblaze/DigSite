@@ -64,7 +64,7 @@ blacksmithLegendary.addItemEntryHelper(<minecraft:chainmail_helmet>, 5, 1, [Func
 
 // Entities
 val zombie = LootTables.getTable("minecraft:entities/zombie");
-val zombieCommon = zombie.addPool("Common", -4, 1, 0, 0);
+val zombieCommon = zombie.addPool("Common", -3, 1, 0, 0);
 zombieCommon.addItemEntry(<deepmoblearning:living_matter_overworldian>, 1);
 
 val husk = LootTables.getTable("minecraft:entities/husk");
