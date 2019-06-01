@@ -1,7 +1,25 @@
+0.1.57 Beta
+This update is REQUIRED in order to be able to win game (restart NOT required)
+-------------------------------------
+QUESTS
+CODE
+- zombie head add to DML (unable to win game without this)
+- mekanism atomicdisassembler removed 
+- improved chances to get living_matter from kills
+MODS
+MAP - restart NOT required
+- fixed missing barrier block at the dish
+- fixed hidden blocks issue at the squid -- better pick now required
+- the flame quest dialog tweaked in order for players to have 2 ways to get in
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+
+
 0.1.56 Beta
 -------------------------------------
 QUESTS
-- fixed hopper quests item detecttion
+- fixed hopper quests item detection
 - fixed natures compass quests item detection
 - removed flint and steel quest -- use matchbook instead on unlit placed torches
 CODE
