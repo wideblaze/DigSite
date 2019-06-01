@@ -50,6 +50,7 @@ val RecipeRemoves = [
 	<microblockcbe:saw_stone>, // nerf
 	<microblockcbe:saw_iron>, // nerf
 	<microblockcbe:saw_diamond>, // nerf
+	<mekanism:atomicdisassembler>, // nerf
 	
 ] as IIngredient[];
 
