@@ -51,6 +51,8 @@ val RecipeRemoves = [
 	<microblockcbe:saw_iron>, // nerf
 	<microblockcbe:saw_diamond>, // nerf
 	<mekanism:atomicdisassembler>, // nerf
+	<compactmachines3:fieldprojector>, // end game item
+	<matteroverdrive:pattern_drive>,// end game item
 	
 ] as IIngredient[];
 
@@ -481,6 +483,15 @@ recipes.addShaped(<matteroverdrive:tritanium_spine>, [
 			[<matteroverdrive:dilithium_crystal>, <minecraft:bone>, <matteroverdrive:dilithium_crystal>] 
 		]);
 
+// PATTERN DRIVE
+recipes.addShaped(<matteroverdrive:pattern_drive>, [
+			[<matteroverdrive:dilithium_crystal>, <mekanism:controlcircuit:2>, <matteroverdrive:dilithium_crystal>], 
+			[<matteroverdrive:machine_casing>, <mekanism:teleportationcore>, <matteroverdrive:machine_casing>], 
+			[<appliedenergistics2:material:9>, <mekanism:controlcircuit:2>, <appliedenergistics2:material:9>] 
+		]);
+
+
+
 
 // MOD Mekanism
 
@@ -491,6 +502,19 @@ recipes.addShaped(<mekanism:machineblock:7>.withTag({recipeType: 3}), [
 			[<minecraft:bucket>, <mekanism:basicblock:8>, <minecraft:bucket>], 
 			[<mekanism:tierinstaller>,<mekanism:tierinstaller:1>,<mekanism:tierinstaller:2>] 
 		]);
+
+
+
+// MOD Compact Machines
+
+// FIELD PROJECTOR
+recipes.addShaped(<compactmachines3:fieldprojector>, [
+			[<mekanism:tierinstaller>,<mekanism:tierinstaller:1>,<mekanism:tierinstaller:2>] ,
+			[<minecraft:lava_bucket>, <mekanism:basicblock:8>, <minecraft:water_bucket>], 
+			[<mekanism:enrichedalloy>, <mekanism:controlcircuit:3>, <mekanism:enrichedalloy>]
+		]);
+		
+
 
 
 
