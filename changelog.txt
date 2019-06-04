@@ -1,3 +1,47 @@
+0.1.6.0 Beta
+Attention: Game restart REQUIRED <<<<<<<<<<<<<<<< (PACKDEV killcount  = 1)
+-------------------------------------
+QUESTS
+- removed fire resist night vision cucumber quest (pointless and troublesome)
+- easter egg quests now have clues -- (YAY)
+CODE
+- modified overworldian matter drops now requires player kill to get loot
+- modified uvfloodlight energy consumption / damage
+- modified maxHP level
+- mofiified natural absorbtion max values
+- removed plastic from deep mob learning
+MODS
+- updated deepmoblearning-1.12.2-2.5.2-universal
+- updated ForgeEndertech-1.12.2-4.4.20.0-build.0354
+- updated FTBLib-5.4.3.101
+- updated FTBQuests-1.6.0.153
+- updated FTBUtilities-5.4.0.97
+- updated jei_1.12.2-4.15.0.280
+- updated openmodularturrets-1.12.2-3.1.1-348
+- updated pneumaticcraft-repressurized-1.12.2-0.11.1-361
+- updated AdPother-1.12.2-1.0.16.0-build.0355
+- updated SimpleStorageNetwork-1.12.2-1.7.6
+- updated VillageNames-1.12.2-3.0.3
+- added Scarper (bad boys, bad boys, watcha gunna do?)
+- removed No Night Vision Flashing (crashes -- bloat)
+MAP - game restart IS REQUIRED 
+- fixed Slater questline / items changed (to heck with mekanism machines and their funky matching!) / new recipes / fixed the head too / added shopping list
+- added the Sparrow sidequest for exact coord
+- fixed missing blockcraftery blocks at the flame, and other important locations
+- minor fixes to the sparrow dialog re upgrades
+- added custom spawns added: the squid, the ranch, the sparrow, the flame
+- modified the digsite, the squid, the ranch, the sparrow questlines (borken into parts)
+- modified CYBZ will now properly agrro
+- added quest complete dialog for CYBZ
+- added multiplayer questline helper / fix
+- fixed fueling station questline triggers
+- added the sparrow factory usage dialog
+- added many additonal end game dialogs for clarity
+- fixed command block chuckloading issue (players can no longer unload the chunk by accident)
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+
 0.1.57 Beta
 This update is REQUIRED in order to be able to win game (restart NOT required)
 -------------------------------------

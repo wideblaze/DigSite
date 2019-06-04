@@ -5,17 +5,39 @@ summon minecraft:skeleton 162 60 -170
 summon minecraft:husk 144 65 -150
 summon minecraft:husk 131 65 -150
 
+# the squid d
+summon minecraft:guardian 100 50 293
+summon minecraft:guardian 124 59 281
+
+# ranch water
+summon minecraft:skeleton 339 47 -556
+summon minecraft:skeleton 339 46 -553
+summon minecraft:skeleton 349 39 -553
+
 # ranch
 summon minecraft:zombie_villager 323 21 -573
 summon minecraft:zombie_villager 325 21 -573
 summon minecraft:zombie_villager 324 21 -572
 summon minecraft:zombie_villager 324 21 -574
 
+# sparrow
+summon minecraft:zombie_villager 500 84 475
+summon minecraft:zombie_villager 502 84 473
+summon minecraft:zombie_villager 502 84 472
+summon minecraft:zombie_villager 500 55 468
+
+
 #flame
 summon matteroverdrive:ranged_rogue_android -146 71 -235
 summon matteroverdrive:ranged_rogue_android -154 72 -228
 summon matteroverdrive:ranged_rogue_android -159 71 -232
 summon matteroverdrive:ranged_rogue_android -154 71 -241
+
+#flame 1
+summon matteroverdrive:ranged_rogue_android -119 45 -244
+summon matteroverdrive:mutant_scientist -111 33 -236
+summon matteroverdrive:mutant_scientist -153 33 -231
+
 
 
 #dish
