@@ -65,43 +65,44 @@ blacksmithLegendary.addItemEntryHelper(<minecraft:chainmail_helmet>, 5, 1, [Func
 // Entities
 val zombie = LootTables.getTable("minecraft:entities/zombie");
 val zombieCommon = zombie.addPool("Common", -3, 1, 0, 0);
-zombieCommon.addItemEntry(<deepmoblearning:living_matter_overworldian>, 1);
+zombieCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
+
 
 val husk = LootTables.getTable("minecraft:entities/husk");
 val huskCommon = husk.addPool("Common", -2, 1, 0, 0);
-huskCommon.addItemEntry(<deepmoblearning:living_matter_overworldian>, 1);
+huskCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
 
 val zombie_villager = LootTables.getTable("minecraft:entities/zombie_villager");
 val zombie_villagerCommon = zombie_villager.addPool("Common", 1, 1, 0, 0);
-zombie_villagerCommon.addItemEntry(<deepmoblearning:living_matter_overworldian>, 1);
+zombie_villagerCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
 
 val witch = LootTables.getTable("minecraft:entities/witch");
 val witchCommon = witch.addPool("Common", 1, 1, 0, 0);
-witchCommon.addItemEntry(<deepmoblearning:living_matter_overworldian>, 1);
+witchCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
 
 val spider = LootTables.getTable("minecraft:entities/spider");
 val spiderCommon = spider.addPool("Common", -4, 1, 0, 0);
-spiderCommon.addItemEntry(<deepmoblearning:living_matter_overworldian>, 1);
+spiderCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
 
 val cave_spider = LootTables.getTable("minecraft:entities/cave_spider");
 val cave_spiderCommon = cave_spider.addPool("Common", 1, 1, 0, 0);
-cave_spiderCommon.addItemEntry(<deepmoblearning:living_matter_overworldian>, 1);
+cave_spiderCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
 
 val creeper = LootTables.getTable("minecraft:entities/creeper");
 val creeperCommon = creeper.addPool("Common", 1, 1, 0, 0);
-creeperCommon.addItemEntry(<deepmoblearning:living_matter_overworldian>, 1);
+creeperCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
 
 val skeleton = LootTables.getTable("minecraft:entities/skeleton");
 val skeletonCommon = skeleton.addPool("Common", -1, 1, 0, 0);
-skeletonCommon.addItemEntry(<deepmoblearning:living_matter_overworldian>, 1);
+skeletonCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
 
 val slime = LootTables.getTable("minecraft:entities/slime");
 val slimeCommon = slime.addPool("Common", -10, 1, 0, 0);
-slimeCommon.addItemEntry(<deepmoblearning:living_matter_overworldian>, 1);
+slimeCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
 
 val enderman = LootTables.getTable("minecraft:entities/enderman");
 val endermanCommon = enderman.addPool("Common", 1, 1, 0, 0);
-endermanCommon.addItemEntry(<deepmoblearning:living_matter_extraterrestrial>, 1);
+endermanCommon.addItemEntryHelper(<deepmoblearning:living_matter_extraterrestrial>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
 
 
 
