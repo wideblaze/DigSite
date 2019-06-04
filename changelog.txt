@@ -1,5 +1,6 @@
-0.1.6.0 Beta
+0.1.61 Beta
 Attention: Game restart REQUIRED <<<<<<<<<<<<<<<< (PACKDEV killcount  = 1)
+This a a very large amount of changes. New bugs may have been introduced.
 -------------------------------------
 QUESTS
 - removed fire resist night vision cucumber quest (pointless and troublesome)
@@ -17,6 +18,7 @@ MODS
 - updated FTBQuests-1.6.0.153
 - updated FTBUtilities-5.4.0.97
 - updated jei_1.12.2-4.15.0.280
+- updated Mekanism-1.12.2-9.7.6.377
 - updated openmodularturrets-1.12.2-3.1.1-348
 - updated pneumaticcraft-repressurized-1.12.2-0.11.1-361
 - updated AdPother-1.12.2-1.0.16.0-build.0355
@@ -26,7 +28,7 @@ MODS
 - removed No Night Vision Flashing (crashes -- bloat)
 MAP - game restart IS REQUIRED 
 - fixed Slater questline / items changed (to heck with mekanism machines and their funky matching!) / new recipes / fixed the head too / added shopping list
-- added the Sparrow sidequest for exact coord
+- added the Sparrow sidequest for exact coord / cluebook made more vague because of this.
 - fixed missing blockcraftery blocks at the flame, and other important locations
 - minor fixes to the sparrow dialog re upgrades
 - added custom spawns added: the squid, the ranch, the sparrow, the flame
@@ -39,6 +41,7 @@ MAP - game restart IS REQUIRED
 - added many additonal end game dialogs for clarity
 - fixed command block chuckloading issue (players can no longer unload the chunk by accident)
 
+## sparrow fix -- remove complete with npc
 https://minecraft.curseforge.com/projects/digsite/files
 
 
