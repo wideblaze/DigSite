@@ -19,6 +19,7 @@
   "ae2stuff": "0.7.0.4",
   "fencejumper": "1.0.5",
   "forgelin": "1.8.2",
+  "stg": "1.12.2-1.2.3",
   "buildinggadgets": "2.6.8",
   "secretroomsmod": "5.6.4",
   "forgivingvoid": "1.0.22",
