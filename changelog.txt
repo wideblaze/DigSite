@@ -1,15 +1,44 @@
+0.1.62 Beta
+Special thanks and shoutout to Shirochi & SO who identified many of the below issues
+-------------------------------------
+QUESTBOOK
+- fixed? generator
+- fixed? flux controller, storage, plug, point
+CODE
+- scarper turned on (oh boi! it's on now)
+- the one probe items no longer hidden in jei (complaint)
+- turret alarms sounds turned off
+MODS
+- added swingthroughgrass
+MAP - restart NOT required to win (Note: Map changes do not occur without game restart)
+- fixed the flame questline now tells you more info on how to complete
+- fixed tillman so he quests if find the sparrow questline active not just find tillman quest
+- fixed zillager spawn
+- end game difficulty significantly increased in several locations
+- custom spawns tweaked (squid, the flame)
+- removed something from the flame (this is why we can't have nice things ;)
+- added quartz glass pattern
+- added wither skeleton data model, tweaked some trades
+- minor changes at the ranch
+- fixed breakable factory blocks at the squid
+- fixed sparrow station terminal to show craftable and stored items
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+
+
 0.1.61 Beta
 Attention: Game restart REQUIRED <<<<<<<<<<<<<<<< (PACKDEV killcount  = 1)
 This a a very large amount of changes. New bugs may have been introduced.
 -------------------------------------
-QUESTS
+QUESTBOOK
 - removed fire resist night vision cucumber quest (pointless and troublesome)
 - easter egg quests now have clues -- (YAY)
 CODE
 - modified overworldian matter drops now requires player kill to get loot
 - modified uvfloodlight energy consumption / damage
 - modified maxHP level
-- mofiified natural absorbtion max values
+- modified natural absorption max values
 - removed plastic from deep mob learning
 MODS
 - updated deepmoblearning-1.12.2-2.5.2-universal
@@ -38,17 +67,16 @@ MAP - game restart IS REQUIRED
 - added multiplayer questline helper / fix
 - fixed fueling station questline triggers
 - added the sparrow factory usage dialog
-- added many additonal end game dialogs for clarity
+- added many additional end game dialogs for clarity
 - fixed command block chuckloading issue (players can no longer unload the chunk by accident)
 
-## sparrow fix -- remove complete with npc
 https://minecraft.curseforge.com/projects/digsite/files
 
 
 0.1.57 Beta
 This update is REQUIRED in order to be able to win game (restart NOT required)
 -------------------------------------
-QUESTS
+QUESTBOOK
 CODE
 - zombie head add to DML (unable to win game without this)
 - mekanism atomicdisassembler removed 
@@ -65,7 +93,7 @@ https://minecraft.curseforge.com/projects/digsite/files
 
 0.1.56 Beta
 -------------------------------------
-QUESTS
+QUESTBOOK
 - fixed hopper quests item detection
 - fixed natures compass quests item detection
 - removed flint and steel quest -- use matchbook instead on unlit placed torches
@@ -90,7 +118,7 @@ https://minecraft.curseforge.com/projects/digsite/files
 
 0.1.55 Beta
 -------------------------------------
-QUESTS
+QUESTBOOK
 - minor rewording of instructions, added flint & steel quest
 CODE
 - certus and nether quartz picks and swords gated with compressed iron
@@ -128,7 +156,7 @@ https://minecraft.curseforge.com/projects/digsite/files
 
 0.1.54 Beta
 -------------------------------------
-QUESTS
+QUESTBOOK
 - minor rewording of instructions
 CODE
 - wearable backpacks can now be opened without having to be set down first. Use keybind. Check for conflicts. (thanks 47MarkIV)
@@ -143,7 +171,7 @@ https://minecraft.curseforge.com/projects/digsite/files
 
 0.1.53 Beta
 -------------------------------------
-QUESTS
+QUESTBOOK
 CODE
 - tweaked hunger overhaul to have less effect on crops, removed food stack limits
 - added QoL recipes: flint, sticks, chests (thanks 47MarkIV)
@@ -158,7 +186,7 @@ https://minecraft.curseforge.com/projects/digsite/files
 
 0.1.52 Beta
 -------------------------------------
-QUESTS
+QUESTBOOK
 CODE
 - fixed config for famer villagers -- farmer, fisherman, fletcher will now show up
 - doubled hunger for oreexcavation
@@ -174,7 +202,7 @@ https://minecraft.curseforge.com/projects/digsite/files
 
 0.1.51 Beta
 -------------------------------------
-QUESTS
+QUESTBOOK
 - reset questbook progress for new players
 CODE
 MODS
@@ -183,7 +211,7 @@ MAP  - restart not required
 
 0.1.5 Beta
 -------------------------------------
-QUESTS
+QUESTBOOK
 - additional questbook dialog
 - tasks ignore dependencies on most questbook tasks now (some quests were blocking progression)
 CODE
@@ -219,7 +247,7 @@ MAP  - restart suggested
 
 0.0.4 Smoke Test 4
 -------------------------------------
-QUESTS
+QUESTBOOK
 - reduced abritrary item counts for learning quests in questbook
 - added additonal questbook dialog
 - removed missing item questbook reward handheld crafting table (extended crafting mod previously removed from pack)
