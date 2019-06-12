@@ -123,9 +123,76 @@ summon matteroverdrive:ranged_rogue_android -75 15 -121
 
 
 
+# lock portals
+fill -848 54 2179 -823 54 2179 minecraft:air
+# spawn
+setblock 313 59 -157 minecraft:bedrock
+fill 313 60 -158 313 62 -158 minecraft:bedrock
+# lucville
+setblock 321 59 -157 minecraft:bedrock
+fill 321 60 -158 321 62 -158 minecraft:bedrock
+# digsite
+setblock 323 59 -147 minecraft:bedrock
+fill 324 60 -147 324 62 -147 minecraft:bedrock
+# warehouse 
+setblock 317 59 -157 minecraft:bedrock
+fill 317 60 -158 317 62 -158 minecraft:bedrock
+# squid
+setblock 311 59 -147 minecraft:bedrock
+fill 310 60 -147 310 62 -147 minecraft:bedrock
+# ranch
+setblock 313 59 -145 minecraft:bedrock
+fill 313 60 -144 313 62 -144 minecraft:bedrock
+# sparrow
+setblock 311 59 -155 minecraft:bedrock
+fill 310 60 -155 310 62 -155 minecraft:bedrock
+# flame
+setblock 317 59 -145 minecraft:bedrock
+fill 317 60 -144 317 62 -144 minecraft:bedrock
+
+# unlock portal spawn setblock -846 54 2179 minecraft:redstone_block
+fill 313 60 -158 313 62 -158 minecraft:air
+setblock 313 59 -157 minecraft:redstone_block
+tellraw @a ["",{"text":"Spawn Portal Unlocked","color":"green","bold":true}]
+
+# unlock portal lucville setblock -844 54 2179 minecraft:redstone_block
+fill 321 60 -158 321 62 -158 minecraft:air
+setblock 321 59 -157 minecraft:redstone_block
+tellraw @a ["",{"text":"LucVille Portal Unlocked","color":"green","bold":true}]
+
+# unlock portal digsite setblock -842 54 2179 minecraft:redstone_block
+fill 324 60 -147 324 62 -147 minecraft:air
+setblock 323 59 -147 minecraft:redstone_block
+tellraw @a ["",{"text":"The DigSite Portal Unlocked","color":"green","bold":true}]
+
+# unlock portal warehouse  setblock -840 54 2179 minecraft:redstone_block
+fill 317 60 -158 317 62 -158 minecraft:air
+setblock 317 59 -157 minecraft:redstone_block
+tellraw @a ["",{"text":"The Warehouse Portal Unlocked","color":"green","bold":true}]
+
+# unlock portal squid  setblock -838 54 2179 minecraft:redstone_block
+fill 310 60 -147 310 62 -147 minecraft:air
+setblock 311 59 -147 minecraft:redstone_block
+tellraw @a ["",{"text":"The Squid Portal Unlocked","color":"green","bold":true}]
+
+# unlock portal ranch  setblock -836 54 2179 minecraft:redstone_block
+fill 313 60 -144 313 62 -144 minecraft:air
+setblock 313 59 -145 minecraft:redstone_block
+tellraw @a ["",{"text":"The Ranch Portal Unlocked","color":"green","bold":true}]
+
+# unlock portal sparrow  setblock -834 54 2179 minecraft:redstone_block
+fill 310 60 -155 310 62 -155 minecraft:air
+setblock 311 59 -155 minecraft:redstone_block
+tellraw @a ["",{"text":"The Sparrow Portal Unlocked","color":"green","bold":true}]
+
+# unlock portal flame  setblock -832 54 2179 minecraft:redstone_block
+fill 317 60 -144 317 62 -144 minecraft:air
+setblock 317 59 -145 minecraft:redstone_block
+tellraw @a ["",{"text":"The Flame Portal Unlocked","color":"green","bold":true}]
 
 
-
+/summon villager -106 17 -261 {NoAI:1}
+/summon matteroverdrive:rogue_android -115 17 -260 {NoAI:1}
 
 
 
