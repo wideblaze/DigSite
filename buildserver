@@ -1,0 +1,37 @@
+#! /bin/bash
+cd ~/dig
+rm -rf serverfile
+mkdir serverfile
+
+cp -v -r server-source-files/* serverfile
+
+cp -v -r LICENSE serverfile/DigSite-LICENSE.md
+cp -v -r changelog.txt serverfile
+
+cp -v -r template serverfile/world
+cp -v -r scripts serverfile
+cp -v -r customnpcs serverfile
+
+cp -v -r config serverfile
+cp -v -r mods serverfile
+
+rm serverfile/mods/moreoverlays*
+rm serverfile/mods/Wawla*
+rm serverfile/mods/ResourceLoader*
+rm serverfile/mods/reauth*
+rm serverfile/mods/Controlling*
+rm serverfile/mods/modnametooltip*
+rm serverfile/mods/Lockdown*
+rm serverfile/mods/CustomMainMenu*
+rm serverfile/mods/InventoryTweaks*
+rm serverfile/mods/noRecipeBook*
+rm serverfile/mods/Toast*
+rm serverfile/mods/CustomBackgrounds*
+rm serverfile/mods/MouseTweaks*
+
+cd serverfile
+zip -r "DigSiteServer$1.zip" *
+
+cd ~/dig
+
+echo "SERVERFILE BUILD COMPLETE - $1"
