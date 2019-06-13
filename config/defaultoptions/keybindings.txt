@@ -52,7 +52,7 @@ key_pneumaticcraft.helmet.debugging.drone:21:NONE
 key_pneumaticcraft.boots.kick:45:CONTROL
 key_pneumaticcraft.chestplate.launcher:46:CONTROL
 key_key.toastcontrol.clear:36:NONE
-key_key.wearablebackpacks.open:48:NONE
+key_key.wearablebackpacks.open:48:o
 key_bbw.key.mode:50:NONE
 key_bbw.key.fluidmode:33:ALT
 key_key.jei.toggleOverlay:24:CONTROL
