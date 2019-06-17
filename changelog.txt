@@ -1,3 +1,15 @@
+0.1.65 Beta
+Release Candidate #2
+-------------------------------------
+QUESTBOOK
+- removed nbt/damage for enderchest / tank quests
+CODE
+- removed limited beta banner
+- removed grinder (use DML)
+MODS
+MAP
+- increased a specific easter egg drop chance
+- additional village content
 ## PATTERNS
 
 0.1.64 Beta

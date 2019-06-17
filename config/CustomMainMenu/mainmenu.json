@@ -16,16 +16,7 @@
                                 "link" : "https://www.twitch.tv/therealwideblaze"
             }
         },
-              "beta":
-        {
-            "image" : "digsite:textures/beta.png",
-            "posX" : -65,
-            "posY" : 120,
-            "width" : 121,
-            "height" : 13,
-            "alignment" : "top_center"
-        },
-
+             
         
         "title":
         {
