@@ -51,6 +51,7 @@ val RecipeRemoves = [
 	<microblockcbe:saw_iron>, // nerf
 	<microblockcbe:saw_diamond>, // nerf
 	<mekanism:atomicdisassembler>, // nerf
+	<draconicevolution:grinder>, // nerf
 	<compactmachines3:fieldprojector>, // end game item
 	<matteroverdrive:pattern_drive>,// end game item
 	
