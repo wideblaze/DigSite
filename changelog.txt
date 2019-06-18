@@ -3,6 +3,7 @@ Release Candidate #3
 -------------------------------------
 QUESTBOOK
 CODE
+- fixed dank null quest after update broke it
 MODS
 - updated DankNull-1.12.2-1.5.71 (dupe bugs fixed for real?)
 - updated CraftTweaker2-1.12-4.1.19
