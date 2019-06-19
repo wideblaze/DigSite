@@ -4,6 +4,7 @@ Remove blocks control room
 remove all items from player
 reset questbook progress / turn off editing
 [backup world ith release id]
+update map version if needed
 /time set day
 quit game
 remove template dir
@@ -24,6 +25,8 @@ git status
 git add <files>
 git comit -m "comment"
 git push
+
+./buildserver <version>
 
 TWITCH
 export profile

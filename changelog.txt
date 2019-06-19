@@ -1,3 +1,14 @@
+DigSite 1.0
+GA Release
+-------------------------------------
+QUESTBOOK
+CODE
+MODS
+MAP
+SERVER PACK
+
+https://minecraft.curseforge.com/projects/digsite/files
+
 0.1.66 Beta
 Release Candidate #3
 -------------------------------------
