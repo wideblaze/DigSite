@@ -54,6 +54,7 @@ val RecipeRemoves = [
 	<draconicevolution:grinder>, // nerf
 	<compactmachines3:fieldprojector>, // end game item
 	<matteroverdrive:pattern_drive>,// end game item
+	<matteroverdrive:hc_battery>, // nerf
 	
 ] as IIngredient[];
 
@@ -373,6 +374,16 @@ recipes.addShaped(item, [
 			[<mekanism:compresseddiamond>, <mekanism:compresseddiamond>, <mekanism:compresseddiamond>], 
 			[<mekanism:compresseddiamond>, null,<mekanism:compresseddiamond>]
 		]);
+
+// NAME TAG
+item = <minecraft:name_tag>;
+recipes.addShaped(item, [
+			[<jaff:iron_hook>], 
+			[<deepmoblearning:pristine_matter_witch>], 
+			[<pneumaticcraft:plastic:15>]
+		]);
+
+
 		
 // MOD AE2
 
