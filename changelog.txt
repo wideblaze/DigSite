@@ -1,11 +1,30 @@
-DigSite 1.0
-GA Release
+DigSite 1.0.01
 -------------------------------------
 QUESTBOOK
+- added new easter egg
 CODE
+- added nametag recipe
+- adjusted links on main menu
+- removed recipe matteroverdrive:hc_battery
+- cardboard box no longer picks up spawners
 MODS
-MAP
+- updated p455w0rdslib-1.12.2-2.2.151 (fixed crashes?)
+- updated AdPother-1.12.2-1.0.19.0-build.0364 (mekanism gas masks now work correctly with pollution)
+- updated FTBLib-5.4.3.118
+- updated FTBQuests-1.6.1.162
+- updated JustEnoughResources-1.12.2-0.9.2.60 (fix for villager trades)
+- updated jei_1.12.2-4.15.0.283
+- updated pneumaticcraft-repressurized-1.12.2-0.11.3-366 (HUD hotfix)
+- updated Forgelin-1.8.3
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- minor tweaks to spawn / intitial quest dialogs (no longer have to reinitiate talk to get both starter quests)
+- minor changes to some shop names (toned down  -- may need to do more)
+- fixed Android-O-Matic 3000 to be 100% reliable and work as intended (only took 5 tries - YAY!)
+- nerfed sercurity station loot (again)
+- added a reason for the mekanism gas mask and tank
 SERVER PACK
+- changed MOTD
+- removed serverip default value / made blank
 
 https://minecraft.curseforge.com/projects/digsite/files
 

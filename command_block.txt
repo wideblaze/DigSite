@@ -38,7 +38,8 @@ summon matteroverdrive:ranged_rogue_android -119 45 -244
 summon matteroverdrive:mutant_scientist -111 33 -236
 summon matteroverdrive:mutant_scientist -153 33 -231
 
-
+#android-o-matic
+summon matteroverdrive:rogue_android -126 17 -245
 
 #dish
 summon matteroverdrive:ranged_rogue_android -55 72 -44
