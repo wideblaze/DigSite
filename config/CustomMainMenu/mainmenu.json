@@ -13,7 +13,7 @@
             "action" : 
             {
               "type" : "openLink",
-                                "link" : "https://www.twitch.tv/therealwideblaze"
+                                "link" : "https://twitter.com/wideblaze"
             }
         },
              
@@ -123,8 +123,8 @@
         
                 "packdev":
         {
-            "text" : "Click to Follow @TherealWideblaze",
-             "hoverText" : "Click to Follow @TherealWideblaze",
+            "text" : "Click to Follow @wideblaze",
+             "hoverText" : "Click to Follow @wideblaze",
 
             "posX" : -197,
             "posY" : -40,
@@ -135,7 +135,7 @@
             "action" : 
             {
               "type" : "openLink",
-                                "link" : "https://www.twitch.tv/therealwideblaze"
+                                "link" : "https://twitter.com/wideblaze"
             }
         },
                 "discord":
