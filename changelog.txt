@@ -1,3 +1,29 @@
+DigSite 1.0.02
+-------------------------------------
+QUESTBOOK
+CODE
+- removed pneumaticcraft drone recipes (causes crashes: ticking entity when attempting to harvest complex crops)
+- added a blacklist entry for cardboard box (but it doesn't work yet / issue created)
+MODS
+- updated Controlling-3.0.7
+- updated ForgeEndertech-1.12.2-4.4.21.1-build.0377
+- updated FTBLib-5.4.3.124
+- updated FTBQuests-1.7.2.178
+- updated FTBUtilities-5.4.0.99
+- updated LootTweaker-1.12.2-0.0.10
+- updated mysticallib-1.12.2-1.3.0
+- updated Patchouli-1.0-20
+- updated AdPother-1.12.2-1.0.20.0-build.0376
+- updated VillageNames-1.12.2-3.1
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- added content to the squid
+- made a certain village easier to find
+SERVER PACK
+- added default forge install URL to launcher - several people getting "ForgedownloadURLNotFound" error (thanks mk12321)
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+
 DigSite 1.0.01
 -------------------------------------
 QUESTBOOK
@@ -20,7 +46,7 @@ MAP - No need to restart game but these change will not be present in your world
 - minor tweaks to spawn / intitial quest dialogs (no longer have to reinitiate talk to get both starter quests)
 - minor changes to some shop names (toned down  -- may need to do more)
 - fixed Android-O-Matic 3000 to be 100% reliable and work as intended (only took 5 tries - YAY!)
-- nerfed sercurity station loot (again)
+- nerfed security station loot (again)
 - added a reason for the mekanism gas mask and tank
 SERVER PACK
 - changed MOTD

@@ -6817,16 +6817,44 @@ itemfilters:filter, Item Filter
 itemfilters:missing, Missing Item
 ftbquests:screen, Task Screen
 ftbquests:progress_detector, Quest Progress Detector
+ftbquests:detector:0, Redstone Detector
+ftbquests:detector:1, Player Detector
 ftbquests:progress_screen, Progress Screen
 ftbquests:chest, Quest Chest
 ftbquests:loot_crate_storage, Loot Crate Storage
 ftbquests:loot_crate_opener, Loot Crate Opener
+ftbquests:barrier, Quest Barrier
 ftbquests:book, Quest Book
 ftbquests:lootcrate, Loot Crate
 gravestone:gravestone, Gravestone
 gravestone:death_info, Death Info
 hotornot:mitts, Mitts
 naturescompass:naturescompass, Nature's Compass
+pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
+pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
+pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
+pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
+pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
+pneumaticcraft:heat_frame, Heat Frame
+pneumaticcraft:spawner_agitator, Spawner Agitator
+pneumaticcraft:crop_support, Crop Support
+pneumaticcraft:transfer_gadget, Transfer Gadget
+pneumaticcraft:safety_tube_module, Safety Tube Module
+pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
+pneumaticcraft:flow_detector_module, Flow Detector Tube Module
+pneumaticcraft:air_grate_module, Air Grate Tube Module
+pneumaticcraft:regulator_tube_module, Regulator Tube Module
+pneumaticcraft:charging_module, Charging Module
+pneumaticcraft:logistics_module, Logistics Module
+pneumaticcraft:redstone_module, Redstone Module
+pneumaticcraft:fluid.plastic, Plastic
+pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.fuel, Gasoline
+pneumaticcraft:fluid.kerosene, Kerosene
+pneumaticcraft:fluid.oil, Oil
+pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.lubricant, Lubricant
+pneumaticcraft:fluid.lpg, LPG
 pneumaticcraft:gps_tool, GPS Tool
 pneumaticcraft:gps_area_tool, GPS Area Tool
 pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
@@ -6975,31 +7003,6 @@ pneumaticcraft:flux_compressor, Flux Compressor
 pneumaticcraft:pneumatic_dynamo, Pneumatic Dynamo
 pneumaticcraft:fake_ice, tile.fake_ice.name
 pneumaticcraft:thermal_compressor, Thermal Compressor
-pneumaticcraft:safety_tube_module, Safety Tube Module
-pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
-pneumaticcraft:flow_detector_module, Flow Detector Tube Module
-pneumaticcraft:air_grate_module, Air Grate Tube Module
-pneumaticcraft:regulator_tube_module, Regulator Tube Module
-pneumaticcraft:charging_module, Charging Module
-pneumaticcraft:logistics_module, Logistics Module
-pneumaticcraft:redstone_module, Redstone Module
-pneumaticcraft:fluid.kerosene, Kerosene
-pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.lubricant, Lubricant
-pneumaticcraft:fluid.fuel, Gasoline
-pneumaticcraft:fluid.diesel, Diesel
-pneumaticcraft:fluid.plastic, Plastic
-pneumaticcraft:fluid.etchacid, Etching Acid
-pneumaticcraft:fluid.oil, Oil
-pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
-pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
-pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
-pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
-pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
-pneumaticcraft:heat_frame, Heat Frame
-pneumaticcraft:spawner_agitator, Spawner Agitator
-pneumaticcraft:crop_support, Crop Support
-pneumaticcraft:transfer_gadget, Transfer Gadget
 pollutantpump:pump, Pollutant Pump
 pollutantpump:pipe, Pump Pipe
 secretroomsmod:camouflage_paste:0, Camouflage Paste
@@ -7012,27 +7015,6 @@ secretroomsmod:iron_exposing_helmet, Helmet of True Sight (Iron)
 secretroomsmod:diamond_exposing_helmet, Helmet of True Sight (Diamond)
 snad:snad:0, Snad
 snad:snad:1, Red Snad
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -7083,6 +7065,27 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 supersoundmuffler:sound_muffler_bauble, Super Sound Muffler
 supersoundmuffler:sound_muffler, Super Sound Muffler
 torchmaster:mega_torch:0, Mega Torch
