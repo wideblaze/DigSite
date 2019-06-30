@@ -55,6 +55,9 @@ val RecipeRemoves = [
 	<compactmachines3:fieldprojector>, // end game item
 	<matteroverdrive:pattern_drive>,// end game item
 	<matteroverdrive:hc_battery>, // nerf
+	<pneumaticcraft:drone>, // bugs
+	<pneumaticcraft:logistic_drone>, // bugs
+	<pneumaticcraft:harvesting_drone>, // bugs
 	
 ] as IIngredient[];
 
