@@ -37,7 +37,7 @@
         {
             "text" : "menu.singleplayer",
             "posX" : -100,
-            "posY" : 106,
+            "posY" : 86,
             "width" : 200,
             "height" : 20,
             "action" : 
@@ -51,7 +51,7 @@
         {
             "text" : "menu.multiplayer",
             "posX" : -100,
-            "posY" : 130,
+            "posY" : 110,
             "width" : 200,
             "height" : 20,
             "action" : 
@@ -61,6 +61,22 @@
             }
         },
         
+        "getserver":
+        {
+            "text" : "Get an Akliz Server for DigSite",
+            "posX" : -100,
+            "posY" : 134,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+               "type" : "openLink",
+                                "link" : "http://akliz.com/wideblaze"
+            }
+        },
+
+
+
 
             
         "options":

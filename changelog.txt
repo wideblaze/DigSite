@@ -1,3 +1,22 @@
+DigSite 1.0.03
+-------------------------------------
+QUESTBOOK
+CODE
+- cardboard box no longer picks up security station (thanks Turmfalke2)
+- disabled lighting effects in p455w0rdsLib (crashes - thanks bvierra)
+MODS
+- updated FTBLib-5.4.3.125
+- updated FTBQuests-1.7.2.180
+- updated FTBUtilities-5.4.0.100
+- updated jei_1.12.2-4.15.0.285
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- misc content additions
+SERVER PACK
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+
+
 DigSite 1.0.02
 -------------------------------------
 QUESTBOOK
