@@ -1,3 +1,37 @@
+DigSite 1.0.04
+-------------------------------------
+QUESTBOOK
+- replaced all exp rewards with bottles'o'enchanting (fix server crashes when collecting exp rewards?)
+- added shield quest
+- removed redundant battery quest
+CODE
+MODS
+- updated AdChimneys-1.12.2-3.5.2.1-build.0377
+- updated FTBLib-5.4.3.126
+- updated FTBQuests-1.7.2.183
+- updated journeymap-1.12.2-5.5.5b8
+- updated Mekanism-1.12.2-9.7.9.380
+- updated mysticallib-1.12.2-1.3.1
+- updated SimpleStorageNetwork-1.12.2-1.7.8
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- minor enchancement to digsite quest
+SERVER PACK
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+DigSite 1.0.04
+-------------------------------------
+QUESTBOOK
+CODE
+- minor change to main menu
+MODS
+MAP - No need to restart game but these change will not be present in your world unless you do.
+SERVER PACK
+- synced server mod version with client (thanks F4ll3nD3v1l)
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+
 DigSite 1.0.03
 -------------------------------------
 QUESTBOOK
@@ -6,9 +40,10 @@ CODE
 - disabled lighting effects in p455w0rdsLib (crashes - thanks bvierra)
 MODS
 - updated FTBLib-5.4.3.125
-- updated FTBQuests-1.7.2.180
+- updated FTBQuests-1.7.2.181
 - updated FTBUtilities-5.4.0.100
 - updated jei_1.12.2-4.15.0.285
+- updated VillageNames-1.12.2-3.1.1
 MAP - No need to restart game but these change will not be present in your world unless you do.
 - misc content additions
 SERVER PACK

@@ -63,7 +63,7 @@
         
         "getserver":
         {
-            "text" : "Get an Akliz Server for DigSite",
+            "text" : "AD: Get an Akliz Server for DigSite",
             "posX" : -100,
             "posY" : 134,
             "width" : 200,
