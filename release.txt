@@ -8,11 +8,13 @@ update map version if needed
 /time set day
 quit game
 remove template dir
-copy DigSite Map to template
+copy DigSite Map save dir to ../template
 
 remove players in template dir
+                Remove files in:
 		"playerdata"
-		"advancements"
+                “Statistics”
+
 		NBT editing program
 			In the level.dat section, go to where it says "Player". Highlight the "Player" bit and rename _old it. save the world in the NBT editor, and close the program.
 
