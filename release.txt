@@ -8,11 +8,15 @@ update map version if needed
 /time set day
 quit game
 remove template dir
-copy DigSite Map to template
+copy DigSite Map save dir to ../template
 
-remove player data in template dir
+
+remove players in template dir
+                Remove files in:
 		"playerdata"
-		"statistics"
+                “Statistics”
+
+
 		NBT editing program
 			In the level.dat section, go to where it says "Player". Highlight the "Player" bit and rename _old it. save the world in the NBT editor, and close the program.
 
@@ -46,8 +50,6 @@ test import
 
 add to curseforge
 add to github
-
-I invite you to tryout DigSite modpack (just released) -- Good fit for your audience / style. Story, adventure, quests, tech, map - think Indiana Jones on the Lost island.
 
 
 
