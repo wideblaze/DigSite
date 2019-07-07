@@ -7,8 +7,7 @@
 
 
 
-In a world where technology has run amok. Something has identified us as a threat -- and an opportunity.
-
+Be the hero and save the world in this one-of-a-kind modded sci-fi adventure. Thought provoking story, quests, fights, secrets, puzzles, adventures, hidden bases, and modded progression.
 ---
 
 Imagine Indiana Jones on the LOST island.
