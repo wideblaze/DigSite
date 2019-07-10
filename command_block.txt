@@ -1,4 +1,13 @@
 
+# warehouse alert  setblock -827 54 2179 minecraft:redstone_block
+fill 314 60 -175 314 61 -175 minecraft:bedrock
+fill 315 60 -175 315 61 -175 minecraft:stonebrick
+
+setblock -827 54 2179 minecraft:air
+fill 314 60 -175 314 61 -175 minecraft:air
+fill 315 60 -175 315 61 -175 minecraft:air
+
+
 # digsite
 summon minecraft:skeleton 162 60 -157
 summon minecraft:skeleton 162 60 -170
