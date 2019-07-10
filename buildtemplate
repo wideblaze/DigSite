@@ -1,0 +1,11 @@
+#! /bin/bash
+cd ~/dig
+rm -rf template
+
+cp -v -r saves/DigSiteMap template
+
+rm -rf template/playerdata/*
+rm -rf template/stats/*
+rm -rf template/advancements/*
+
+echo "TEMPLATE SETUP -- EDIT NBT DATA level.dat (rename player to playerold)"
