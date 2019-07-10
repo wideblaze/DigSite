@@ -1,7 +1,29 @@
-DigSite 1.0.04
+DigSite 1.0.06
 -------------------------------------
 QUESTBOOK
-- replaced all exp rewards with bottles'o'enchanting (fix server crashes when collecting exp rewards?)
+CODE
+MODS
+- updated BrandonsCore-1.12.2-2.4.16.207-universal (server crashes)
+- updated Draconic-Evolution-1.12.2-2.3.23.345-universal
+- updated FTBLib-5.4.3.127
+- updated FTBQuests-1.7.2.186
+- updated AdPother-1.12.2-1.0.20.1-build.0378
+- updated VillageNames-1.12.2-3.2
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- added diary of a forgetful librarian -- reminds players to check in-game quest log
+- added warning area for command blocks not enabled
+SERVER PACK
+## - updated startserver.sh
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+
+
+
+DigSite 1.0.05
+-------------------------------------
+QUESTBOOK
+- replaced all exp rewards with bottles'o'enchanting (crashes)
 - added shield quest
 - removed redundant battery quest
 CODE
@@ -9,13 +31,13 @@ MODS
 - updated AdChimneys-1.12.2-3.5.2.1-build.0377
 - updated FTBLib-5.4.3.126
 - updated FTBQuests-1.7.2.183
-- updated journeymap-1.12.2-5.5.5b8
 - updated Mekanism-1.12.2-9.7.9.380
 - updated mysticallib-1.12.2-1.3.1
 - updated SimpleStorageNetwork-1.12.2-1.7.8
 MAP - No need to restart game but these change will not be present in your world unless you do.
-- minor enchancement to digsite quest
+- minor enhancement to digsite quest
 SERVER PACK
+- fixed server crashes when collecting exp rewards?
 
 https://minecraft.curseforge.com/projects/digsite/files
 

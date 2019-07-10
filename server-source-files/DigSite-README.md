@@ -15,7 +15,7 @@ Sure you can run it on your own computer but can be a total hassle.
 
 I personally highly recommend using Akliz for all your minecraft server needs.
 They helped me figure out how to make the DigSite server in the first place (at no cost) and I wasn't even a customer.
-I already had a MineCraft PROfessional HOSTing provider that I couldn't get the time of day from on support tickets.
+I already had a MineCraft Professional Hosting provider that I couldn't get the time of day from on support tickets.
 The Akliz guys are quick to answer tickets and have a discord server for basic questions.
 
 They even have an automated DigSite server installer on their control panel so you don't
