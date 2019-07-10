@@ -8,12 +8,12 @@ MODS
 - updated FTBLib-5.4.3.127
 - updated FTBQuests-1.7.2.186
 - updated AdPother-1.12.2-1.0.20.1-build.0378
-- updated VillageNames-1.12.2-3.2
+- updated VillageNames-1.12.2-3.2 (skin colors)
 MAP - No need to restart game but these change will not be present in your world unless you do.
-- added diary of a forgetful librarian -- reminds players to check in-game quest log
-- added warning area for command blocks not enabled
+- added diary of a forgetful librarian -- to tell / remind players to check NPC quest log
+- added warning area for command blocks not enabled on multiplayer servers
 SERVER PACK
-## - updated startserver.sh
+- refreshed ServerStart.sh from ATM distribution
 
 https://minecraft.curseforge.com/projects/digsite/files
 
