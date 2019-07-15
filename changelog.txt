@@ -1,3 +1,27 @@
+DigSite 1.0.07
+-------------------------------------
+QUESTBOOK
+CODE
+- can no longer get complex crops seeds from breaking grass -- must use recipies now or get from harvest
+MODS
+- updated champions-1.12.2-1.0.10 (summonat!!!! thanks c4)
+- updated AdChimneys-1.12.2-3.5.4.0-build.0384
+- updated Complex Crops 1.12.2-4.2.0
+- updated ForgeEndertech-1.12.2-4.4.22.0-build.0384
+- updated FTBLib-5.4.3.129
+- updated FTBQuests-1.7.2.187
+- updated journeymap-1.12.2-5.5.5b9 (try again)
+- updated jei_1.12.2-4.15.0.287
+- updated modnametooltip_1.12.2-1.10.1
+- updated AdPother-1.12.2-1.0.21.0-build.0380
+MAP - No need to restart game but these change will not be present in your world unless you do.
+## fisherman says hints for every quest now
+## new custom champions x
+SERVER PACK
+- removed DOS carriage returns from config file (pls let me know if this breaks anyone)
+
+https://minecraft.curseforge.com/projects/digsite/files
+
 DigSite 1.0.06
 -------------------------------------
 QUESTBOOK
