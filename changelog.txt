@@ -1,18 +1,20 @@
 DigSite 1.0.08
 -------------------------------------
+Significant content update
 QUESTBOOK
 CODE
 - legendary androids now slightly more common
 MODS
-- updated pneumaticcraft-repressurized-1.12.2-0.11.4-368 (fixed vents green render, fixed helmet security upgrade, more) 
+- updated pneumaticcraft-repressurized-1.12.2-0.11.4-368 (fixed vents green render @ the flame, fixed helmet security upgrade, more) 
 - updated champions-1.12.2-1.0.10.1 (fixed spawnchampionat)
 MAP - No need to restart game but these change will not be present in your world unless you do.
 - old fisherman now has something to say for most location quests (thanks to everyone who commented on this)
 - old fisherman guard mode altered significantly (defends himself instead of attacks -- hopefully less/no player deaths - thanks Last_Dovahkiin, spookß, many others)
-- many NPC quests now give more suggestions on what to do next / basic strategy
+- many NPC quests now give more suggestions on what to do next / basic game strategy
 - custom champions now spawn at dish and flame (testing before adding elsewhere)
 - charcoal maker added to a village
 - pollution set as intended at the flame
+- additional backstory info scattered about
 SERVER PACK
 Note changes to port number!
 - changed port # in server.properities to be default 25565 instead of 37385 (thanks Xetaxheb) 
