@@ -1,10 +1,34 @@
+DigSite 1.0.08
+-------------------------------------
+QUESTBOOK
+CODE
+- legendary androids now slightly more common
+MODS
+- updated pneumaticcraft-repressurized-1.12.2-0.11.4-368 (fixed vents green render, fixed helmet security upgrade, more) 
+- updated champions-1.12.2-1.0.10.1 (fixed spawnchampionat)
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- old fisherman now has something to say for most location quests (thanks to everyone who commented on this)
+- old fisherman guard mode altered significantly (defends himself instead of attacks -- hopefully less/no player deaths - thanks Last_Dovahkiin, spookß, many others)
+- many NPC quests now give more suggestions on what to do next / basic strategy
+- custom champions now spawn at dish and flame (testing before adding elsewhere)
+- charcoal maker added to a village
+- pollution set as intended at the flame
+SERVER PACK
+Note changes to port number!
+- changed port # in server.properities to be default 25565 instead of 37385 (thanks Xetaxheb) 
+- changed view distance in server.properities to be default 10 instead of 6 (thanks Xetaxheb)
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+
+
 DigSite 1.0.07
 -------------------------------------
 QUESTBOOK
 CODE
-- can no longer get complex crops seeds from breaking grass -- must use recipies now or get from harvest
+- can no longer get complex crops seeds from breaking grass -- must use recipes now or get from harvest
 MODS
-- updated champions-1.12.2-1.0.10 (summonat!!!! thanks c4)
+- updated champions-1.12.2-1.0.10 (summonat thanks c4)
 - updated AdChimneys-1.12.2-3.5.4.0-build.0384
 - updated Complex Crops 1.12.2-4.2.0
 - updated ForgeEndertech-1.12.2-4.4.22.0-build.0384
@@ -15,8 +39,6 @@ MODS
 - updated modnametooltip_1.12.2-1.10.1
 - updated AdPother-1.12.2-1.0.21.0-build.0380
 MAP - No need to restart game but these change will not be present in your world unless you do.
-## fisherman says hints for every quest now
-## new custom champions x
 SERVER PACK
 - removed DOS carriage returns from config file (pls let me know if this breaks anyone)
 
