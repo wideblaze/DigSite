@@ -36,25 +36,25 @@ summon minecraft:zombie_villager 502 84 472
 summon minecraft:zombie_villager 500 55 468
 
 
-#flame
-summon matteroverdrive:ranged_rogue_android -146 71 -235
-summon matteroverdrive:ranged_rogue_android -154 72 -228
-summon matteroverdrive:ranged_rogue_android -159 71 -232
-summon matteroverdrive:ranged_rogue_android -154 71 -241
+# flame
+spawnchampionat -146 71 -235 matteroverdrive:ranged_rogue_android 1 scrapper jailer
+spawnchampionat -154 72 -228 matteroverdrive:ranged_rogue_android 1 arctic reflecting lively
+spawnchampionat -159 71 -232 matteroverdrive:ranged_rogue_android 2 scrapper jailer
+spawnchampionat -154 71 -241 matteroverdrive:ranged_rogue_android 1 plagued reflecting lively
 
 #flame 1
 summon matteroverdrive:ranged_rogue_android -119 45 -244
-summon matteroverdrive:mutant_scientist -111 33 -236
+spawnchampionat -111 33 -236 matteroverdrive:mutant_scientist 2 plagued
 summon matteroverdrive:mutant_scientist -153 33 -231
 
 #android-o-matic
 summon matteroverdrive:rogue_android -126 17 -245
 
 #dish
-summon matteroverdrive:ranged_rogue_android -55 72 -44
-summon matteroverdrive:ranged_rogue_android -56 72 -54
-summon matteroverdrive:ranged_rogue_android -60 79 -46
-summon matteroverdrive:ranged_rogue_android -67 73 -45
+spawnchampionat -55 72 -44 matteroverdrive:ranged_rogue_android 1 adaptable reflecting lively
+spawnchampionat -56 72 -54 matteroverdrive:ranged_rogue_android 1 adaptable reflecting lively
+spawnchampionat -60 79 -46 matteroverdrive:ranged_rogue_android 1 adaptable reflecting lively
+spawnchampionat -67 73 -45 matteroverdrive:ranged_rogue_android 1 adaptable reflecting lively
 
 # Flame gate
 fill -154 70 -237 -157 70 -234 minecraft:air
