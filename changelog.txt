@@ -1,3 +1,31 @@
+DigSite 1.0.09
+-------------------------------------
+QUESTBOOK
+CODE
+- turned off villager names mod "new version available" msgs.
+- turned of phosphor donate msg
+MODS
+- added Morpheus-1.12.2-3.5.106 (multiplayer sleep system)
+- updated BrandonsCore-1.12.2-2.4.17.208-universal
+- updated BuildingGadgets-2.7.0
+- refreshed p455w0rdslib-1.12.2-2.2.151
+- updated VillageNames-1.12.2-3.2.1
+- updated moreoverlays-1.15.1-mc1.12.2
+- updated phosphor-1.12.2-0.2.5+build48-universal
+- updated Mekanism-1.12.2-9.8.0.381
+- updated BuildingGadgets-2.7.1
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- custom champions added to ranch, end game 
+- custom champions toned down at the flame
+- sheep added near spawn
+- even more incentives to go solar
+- a lot more help with getting The Ranch up and running
+- chunkloaders added to chests since some are unaware of ftb util chunk loading
+SERVER PACK
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+
 DigSite 1.0.08
 -------------------------------------
 Significant content update
