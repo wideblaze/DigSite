@@ -21,7 +21,8 @@ summon minecraft:guardian 124 59 281
 # ranch water
 summon minecraft:skeleton 339 47 -556
 summon minecraft:skeleton 339 46 -553
-summon minecraft:skeleton 349 39 -553
+spawnchampionat 349 39 -553 minecraft:skeleton 2 scrapper jailer
+
 
 # ranch
 summon minecraft:zombie_villager 323 21 -573
@@ -44,7 +45,7 @@ spawnchampionat -154 71 -241 matteroverdrive:ranged_rogue_android 1 plagued refl
 
 #flame 1
 summon matteroverdrive:ranged_rogue_android -119 45 -244
-spawnchampionat -111 33 -236 matteroverdrive:mutant_scientist 2 plagued
+spawnchampionat -111 33 -236 matteroverdrive:mutant_scientist 1 plagued
 summon matteroverdrive:mutant_scientist -153 33 -231
 
 #android-o-matic
@@ -88,15 +89,16 @@ fill 4107 50 6 4107 52 8 minecraft:air
 
 # factory level 1 setblock -824 59 2185 minecraft:redstone_block
 tellraw @a ["",{"text":"Security systems activated.","color":"red","bold":true}]
-summon matteroverdrive:rogue_android -108 15 -131
-summon matteroverdrive:rogue_android -108 15 -126
+spawnchampionat -108 15 -131 matteroverdrive:ranged_rogue_android 2 scrapper jailer
+spawnchampionat -108 15 -126 matteroverdrive:ranged_rogue_android 2 scrapper dampening knockback
 summon matteroverdrive:rogue_android -95 15 -133
 summon matteroverdrive:rogue_android -92 15 -137
 summon matteroverdrive:ranged_rogue_android -94 15 -137
 summon matteroverdrive:ranged_rogue_android -89 15 -131
 
-summon matteroverdrive:rogue_android -108 20 -136 {CustomName:"Turret Gunner",CustomNameVisible:1}
-summon matteroverdrive:rogue_android -87 15 -133 {CustomName:"Turret Gunner",CustomNameVisible:1}
+spawnchampionat -108 20 -136 matteroverdrive:rogue_android 2 shielding lively reflecting arctic
+spawnchampionat -87 15 -133 matteroverdrive:rogue_android 3 shielding lively reflecting arctic
+
 summon matteroverdrive:ranged_rogue_android -110 15 -128
 summon matteroverdrive:ranged_rogue_android -106 15 -128
 summon matteroverdrive:ranged_rogue_android -108 15 -135
@@ -107,8 +109,8 @@ summon matteroverdrive:ranged_rogue_android -90 15 -142
 
 # factory level 2 setblock -824 59 2183 minecraft:redstone_block
 tellraw @a ["",{"text":"Terminate.","color":"red","bold":true}]
-summon matteroverdrive:rogue_android -96 20 -133
-summon matteroverdrive:rogue_android -97 20 -133
+spawnchampionat -96 20 -133 matteroverdrive:ranged_rogue_android 3 scrapper jailer
+spawnchampionat -97 20 -133 matteroverdrive:ranged_rogue_android 3 scrapper desecrator
 summon matteroverdrive:ranged_rogue_android -102 20 -133
 summon matteroverdrive:ranged_rogue_android -99 20 -130
 
@@ -116,7 +118,8 @@ summon matteroverdrive:ranged_rogue_android -99 20 -130
 # factory level 3 setblock -824 59 2181 minecraft:redstone_block
 
 tellraw @a ["",{"text":"Terminate Terminate","color":"red","bold":true}]
-summon matteroverdrive:rogue_android -67 20 -131 {CustomName:"Turret Gunner",CustomNameVisible:1}
+spawnchampionat -67 18 -131 matteroverdrive:rogue_android 3 lively reflecting arctic
+
 summon matteroverdrive:ranged_rogue_android -97 20 -115
 summon matteroverdrive:ranged_rogue_android -69 19 -118
 summon matteroverdrive:ranged_rogue_android -81 20 -142
