@@ -525,36 +525,6 @@
     "3pair0": "{\n  \"left\": 8,\n  \"right\": 8\n}"
   },
   {
-    "name": "appliedenergistics2:charged_quartz_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "appliedenergistics2:material",
-    "meta0": 1,
-    "0chance0": 150.025,
-    "1chance0": 201.425,
-    "2chance0": 264.775,
-    "3chance0": 343.77502,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 6\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 8\n}"
-  },
-  {
-    "name": "appliedenergistics2:quartz_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "appliedenergistics2:material",
-    "meta0": 0,
-    "0chance0": 149.825,
-    "1chance0": 199.375,
-    "2chance0": 262.975,
-    "3chance0": 330.175,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 6\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 8\n}"
-  },
-  {
     "name": "matteroverdrive:dilithium_ore",
     "meta": 0,
     "length": 1,
@@ -643,5 +613,35 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}"
+  },
+  {
+    "name": "appliedenergistics2:quartz_ore",
+    "meta": 0,
+    "length": 1,
+    "name0": "appliedenergistics2:material",
+    "meta0": 0,
+    "0chance0": 149.77501,
+    "1chance0": 203.50002,
+    "2chance0": 260.125,
+    "3chance0": 328.15002,
+    "0pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
+    "1pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}",
+    "2pair0": "{\n  \"left\": 1,\n  \"right\": 6\n}",
+    "3pair0": "{\n  \"left\": 1,\n  \"right\": 8\n}"
+  },
+  {
+    "name": "appliedenergistics2:charged_quartz_ore",
+    "meta": 0,
+    "length": 1,
+    "name0": "appliedenergistics2:material",
+    "meta0": 1,
+    "0chance0": 148.9,
+    "1chance0": 199.875,
+    "2chance0": 263.75,
+    "3chance0": 329.95,
+    "0pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
+    "1pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}",
+    "2pair0": "{\n  \"left\": 1,\n  \"right\": 6\n}",
+    "3pair0": "{\n  \"left\": 1,\n  \"right\": 8\n}"
   }
 ]

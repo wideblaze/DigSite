@@ -1,9 +1,30 @@
+DigSite 1.0.10
+-------------------------------------
+QUESTBOOK
+CODE
+- removed death notes (too much litter)
+MODS
+- updated ForgeEndertech-1.12.2-4.4.22.1-build.0389
+- updated AdPother-1.12.2-1.0.22.0-build.0393
+- updated phosphor-1.12.2-0.2.6+build50-universal
+- updated FTBUtilitiesBackups-1.0.0.5
+- updated FTBQuests-1.7.2.188
+- updated FTBLib-5.4.3.130
+- updated 
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- toned down turrets (was insta-killing some players)
+- Old Fisherman now gives spare PSD in case you lose yours in the matter factory (was too much effort to get replacement if killed late game)
+- Slater quest dialog now sounds much more possible (people got too easily discouraged and gave up)
+SERVER PACK
+https://minecraft.curseforge.com/projects/digsite/files
+
+
 DigSite 1.0.09
 -------------------------------------
 QUESTBOOK
 CODE
 - turned off villager names mod "new version available" msgs.
-- turned of phosphor donate msg
+- turned off phosphor donate msg
 MODS
 - added Morpheus-1.12.2-3.5.106 (multiplayer sleep system)
 - updated BrandonsCore-1.12.2-2.4.17.208-universal
@@ -14,15 +35,16 @@ MODS
 - updated phosphor-1.12.2-0.2.5+build48-universal
 - updated Mekanism-1.12.2-9.8.0.381
 - updated BuildingGadgets-2.7.1
+- updated appliedenergistics2-rv6-stable-7
 MAP - No need to restart game but these change will not be present in your world unless you do.
 - custom champions added to ranch, end game 
 - custom champions toned down at the flame
 - sheep added near spawn
 - even more incentives to go solar
-- a lot more help with getting The Ranch up and running
-- chunkloaders added to chests since some are unaware of ftb util chunk loading
+- a lot more help with getting The Ranch up and running (seems to have been too much of a challenge)
+- chunkloaders added to chests in key areas (some are unaware of ftb util chunk loading)
+- reconnected AE2 stuff network and left behind a setup kit just in case (I don't understand why it just stops working)
 SERVER PACK
-
 https://minecraft.curseforge.com/projects/digsite/files
 
 
