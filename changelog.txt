@@ -1,3 +1,30 @@
+DigSite 1.0.11
+-------------------------------------
+QUESTBOOK
+CODE
+MODS
+- updated AdChimneys-1.12.2-3.5.5.0-build.0402 
+- updated BuildingGadgets-2.7.2
+- updated ChickenChunks-1.12.2-2.4.2.74-universal
+- updated CodeChickenLib-1.12.2-3.2.3.357-universal
+- updated craftingstation-0.1.0
+- updated Draconic-Evolution-1.12.2-2.3.24.349-universal
+- updated EnderStorage-1.12.2-2.4.6.137-universal
+- updated ForgeMultipart-1.12.2-2.6.2.83-universal
+- updated FTBQuests-1.7.2.189
+- updated journeymap-1.12.2-5.5.5
+- updated Mekanism-1.12.2-9.8.1.383
+- updated mysticallib-1.12.2-1.3.2
+- updated ElevatorMod-1.12.2-1.3.11
+- updated pneumaticcraft-repressurized-1.12.2-0.11.5-371
+- updated AdPother-1.12.2-1.0.24.0-build.0402
+- updated Translocators-1.12.2-2.5.2.81-universal
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- added town of Honeywood and epic quest easter eggs
+SERVER PACK
+https://minecraft.curseforge.com/projects/digsite/files
+
+
 DigSite 1.0.10
 -------------------------------------
 QUESTBOOK
