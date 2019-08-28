@@ -1,3 +1,26 @@
+DigSite 1.0.12
+-------------------------------------
+QUESTBOOK
+CODE
+MODS
+- updated BuildingGadgets-2.7.2 (back rev due to crashes)
+- updated craftingstation-0.1.1a
+- updated ForgeEndertech-1.12.2-4.4.22.2-build.0405
+- updated FTBLib-5.4.3.132
+- updated FTBQuests-1.7.2.193
+- updated FTBUtilities-5.4.0.102
+- updated jei_1.12.2-4.15.0.289
+- updated mysticallib-1.12.2-1.3.3
+- updated torchmaster_1.12.2-1.8.0.79
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- minor content tweaks
+- fixed 2nd honeywood quest
+SERVER PACK
+https://minecraft.curseforge.com/projects/digsite/files
+
+
+
+
 DigSite 1.0.11
 -------------------------------------
 QUESTBOOK
