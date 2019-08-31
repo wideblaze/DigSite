@@ -600,19 +600,19 @@
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 8\n}"
   },
   {
-    "name": "buildinggadgets:constructionblock_dense",
+    "name": "mekanism:saltblock",
     "meta": 0,
     "length": 1,
-    "name0": "buildinggadgets:constructionpaste",
+    "name0": "mekanism:salt",
     "meta0": 0,
-    "0chance0": 199.75,
-    "1chance0": 197.85,
-    "2chance0": 199.475,
-    "3chance0": 200.32498,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}"
+    "0chance0": 400.0,
+    "1chance0": 400.0,
+    "2chance0": 400.0,
+    "3chance0": 400.0,
+    "0pair0": "{\n  \"left\": 4,\n  \"right\": 4\n}",
+    "1pair0": "{\n  \"left\": 4,\n  \"right\": 4\n}",
+    "2pair0": "{\n  \"left\": 4,\n  \"right\": 4\n}",
+    "3pair0": "{\n  \"left\": 4,\n  \"right\": 4\n}"
   },
   {
     "name": "buildinggadgets:constructionblock",
@@ -630,18 +630,18 @@
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
   },
   {
-    "name": "mekanism:saltblock",
+    "name": "buildinggadgets:constructionblock_dense",
     "meta": 0,
     "length": 1,
-    "name0": "mekanism:salt",
+    "name0": "buildinggadgets:constructionpaste",
     "meta0": 0,
-    "0chance0": 400.0,
-    "1chance0": 400.0,
-    "2chance0": 400.0,
-    "3chance0": 400.0,
-    "0pair0": "{\n  \"left\": 4,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 4,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 4,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 4,\n  \"right\": 4\n}"
+    "0chance0": 200.55,
+    "1chance0": 199.5,
+    "2chance0": 200.22499,
+    "3chance0": 200.45,
+    "0pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
+    "1pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
+    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
+    "3pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}"
   }
 ]
