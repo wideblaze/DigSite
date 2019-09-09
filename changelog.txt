@@ -1,3 +1,27 @@
+DigSite 1.0.14
+-------------------------------------
+QUESTBOOK
+- fixed crafting station item detection (upgrading the mod broke quest)
+- modified description for chop wood to be slightly more accurate
+CODE
+- modified data in villagenames mod to match with manually named villages (corrects village books and banners)
+- added loading screen tips (to reduce confusion)
+MODS
+- added Tips-1.12.2-1.0.7 
+- updated DankNull-1.12.2-1.6.80
+- updated CodeChickenLib-1.12.2-3.2.3.358-universal
+- updated craftingstation-0.1.3
+- updated FTBLib-5.4.3.134
+- updated FTBQuests-1.7.2.205
+- updated mysticallib-1.12.2-1.3.7
+- updated StorageDrawers-1.12.2-5.4.0
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- misc cosmetic changes (new grave, banners added to towns where missing, etc...)
+SERVER PACK
+
+
+https://minecraft.curseforge.com/projects/digsite/files
+
 DigSite 1.0.13
 -------------------------------------
 QUESTBOOK
