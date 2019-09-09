@@ -28,6 +28,7 @@ rm serverfile/mods/noRecipeBook*
 rm serverfile/mods/Toast*
 rm serverfile/mods/CustomBackgrounds*
 rm serverfile/mods/MouseTweaks*
+rm serverfile/mods/Tips*
 
 cd serverfile
 zip -r "DigSiteServer$1.zip" *
