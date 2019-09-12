@@ -13,6 +13,7 @@ import crafttweaker.item.IIngredient;
 
 //	Removes
 val RecipeRemoves = [
+   <realistictorches:matchbox>, // recipe fix
     <pneumaticcraft:crop_support>, // confict
 	<minecraft:iron_sword>, // early game difficulty
 	<minecraft:iron_axe>, // early game difficulty
@@ -529,8 +530,19 @@ recipes.addShaped(<compactmachines3:fieldprojector>, [
 			[<mekanism:enrichedalloy>, <mekanism:controlcircuit:3>, <mekanism:enrichedalloy>]
 		]);
 		
+// MOD REALISTIC TORCHES
 
+recipes.addShaped(<realistictorches:matchbox>, [
+			[<minecraft:paper>, <minecraft:paper>, <minecraft:paper>], 
+			[<ore:slabWood>, <ore:slabWood>, <ore:slabWood>] 
+		]);
 
+// QoL Matchbook fix
+
+recipes.addShapeless(<realistictorches:matchbox>, [
+			<realistictorches:matchbox>.anyDamage().noReturn(),
+			<realistictorches:matchbox>.anyDamage().noReturn()
+		]);
 
 
 
