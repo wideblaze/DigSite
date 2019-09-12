@@ -39,6 +39,8 @@ You can donate directly as well to EDF.org/donate
 Server Install Instructions:
 ###########################################################
 
+Troubleshooting Info: https://github.com/wideblaze/DigSite/wiki/Troubleshooting
+
 If you are experienced creating servers then here is all you need to know:
 
 * recommended RAM: 4GB (will probably run fine on less)
@@ -59,27 +61,3 @@ so if you update your server and overwrite your map, you will start with a fresh
 If you are not experienced creating servers I strongly recommend working with a service provider
 to help you set this server up. I do not offer technical support for basic server administration
 issues / questions.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
