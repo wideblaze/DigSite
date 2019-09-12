@@ -1,3 +1,24 @@
+DigSite 1.0.15
+-------------------------------------
+QUESTBOOK
+- minor modification to quest dialog for stations quest
+CODE
+- slightly reduced % chance of hostile mob champion spawns
+- portal gun can no longer pick-up objects (exploits)
+- added tips to follow main questline, gain hearts, champion mobs warning
+- fixed matchbook repair recipe
+- increased burn time on torches
+MODS
+- updated craftingstation-0.1.5 (updated in an attempt to stop crashes)
+- updated FTBLib-5.4.3.138
+- updated FTBQuests-1.7.2.209
+- updated FTBUtilities-5.4.0.104
+- updated SimpleStorageNetwork-1.12.2-1.7.9 (Fixed spam-clicking bug)
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- no changes to map
+SERVER PACK
+- added link to troubleshooting in readme
+
 DigSite 1.0.14
 -------------------------------------
 QUESTBOOK
@@ -18,7 +39,6 @@ MODS
 MAP - No need to restart game but these change will not be present in your world unless you do.
 - misc cosmetic changes (new grave, banners added to towns where missing, etc...)
 SERVER PACK
-
 
 https://minecraft.curseforge.com/projects/digsite/files
 
