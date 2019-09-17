@@ -103,7 +103,13 @@ slimeCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>* 1, 
 val enderman = LootTables.getTable("minecraft:entities/enderman");
 val endermanCommon = enderman.addPool("Common", 1, 1, 0, 0);
 endermanCommon.addItemEntryHelper(<deepmoblearning:living_matter_extraterrestrial>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
+val endermanLegendary = enderman.addPool("Legendary", -4, 1, 0, 0);
+endermanLegendary.addItemEntryHelper(<draconicevolution:draconium_dust>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
 
+val pig = LootTables.getTable("minecraft:entities/pig");
+val pigLegendary = pig.addPool("Legendary", -5, 1, 0, 0);
+pigLegendary.addItemEntryHelper(<minecraft:quartz>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
+pigLegendary.addItemEntryHelper(<minecraft:netherrack>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
 
 
 
