@@ -1,3 +1,34 @@
+DigSite 1.0.16
+-------------------------------------
+The improved quest info update
+QUESTBOOK
+- removed a number low value quests (such as natures compass, gold filters, etc...)
+- modified quest description on a number of quests to be more clear 
+- added a couple quests for game mechanics that needed an explanation (such as why and what to do about fog, missing graves)
+- modified questbook shapes on some quests to draw attention to specific quests or rewards
+- changed a couple questbook rewards and requirements
+CODE
+- added a couple more tips
+- added some rare loot for a couple mobs in order to add another solution to a puzzle/alternate gameplay
+MODS
+- updated AdChimneys-1.12.2-3.5.6.0-build.0412
+- updated fluxnetworks-1.12.2-4.0.7-24
+- updated FTBQuests-1.7.2.216
+- updated FTBUtilities-5.4.0.105
+- updated gravestone-1.10.3
+- updated openmodularturrets-1.12.2-3.1.4-356
+- updated AdPother-1.12.2-1.0.25.0-build.0412
+- updated Forgelin-1.8.4
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- modified questlog for a couple quests to suggest what to do first
+- modified cluebook in LucVille to be more clear (people were mistaking one thing for another really bad thing)
+- fixed number of costmetic issues (DML, others)
+- reset weaponsmith in LucVille as his trades had been permanently set by mistake instead of being random at game start
+- added chunkloader to an area that was having an intermittent and very rare (but highly problematic) issue 
+- alternate gameplay book added to end of game
+- fixed? a connection to network that was bugging out due to crossing a chunk
+SERVER PACK
+
 DigSite 1.0.15
 -------------------------------------
 QUESTBOOK
