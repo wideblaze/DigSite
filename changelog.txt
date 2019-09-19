@@ -1,3 +1,19 @@
+DigSite 1.0.17
+-------------------------------------
+The "fixed the glitch" release
+QUESTBOOK
+CODE
+MODS
+- updated craftingstation-0.1.6
+- updated FTBQuests-1.7.2.217
+- updated ElevatorMod-1.12.2-1.3.12
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- remodeled one deep place, but it basically works the same (multi-blocks moved to no longer cross chunk boundires, simplified logistics, + major cosmetic)  
+SERVER PACK
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+
 DigSite 1.0.16
 -------------------------------------
 The improved quest info update
@@ -29,6 +45,8 @@ MAP - No need to restart game but these change will not be present in your world
 - fixed? a connection to network that was bugging out due to crossing a chunk
 SERVER PACK
 
+https://minecraft.curseforge.com/projects/digsite/files
+
 DigSite 1.0.15
 -------------------------------------
 QUESTBOOK
@@ -49,6 +67,8 @@ MAP - No need to restart game but these change will not be present in your world
 - no changes to map
 SERVER PACK
 - added link to troubleshooting in readme
+
+https://minecraft.curseforge.com/projects/digsite/files
 
 DigSite 1.0.14
 -------------------------------------

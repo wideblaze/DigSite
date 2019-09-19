@@ -6855,14 +6855,14 @@ pneumaticcraft:regulator_tube_module, Regulator Tube Module
 pneumaticcraft:charging_module, Charging Module
 pneumaticcraft:logistics_module, Logistics Module
 pneumaticcraft:redstone_module, Redstone Module
-pneumaticcraft:fluid.kerosene, Kerosene
-pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.plastic, Plastic
-pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.lubricant, Lubricant
 pneumaticcraft:fluid.oil, Oil
 pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.plastic, Plastic
 pneumaticcraft:fluid.fuel, Gasoline
-pneumaticcraft:fluid.lubricant, Lubricant
+pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.kerosene, Kerosene
+pneumaticcraft:fluid.lpg, LPG
 pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
 pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
 pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
