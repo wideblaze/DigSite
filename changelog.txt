@@ -1,3 +1,51 @@
+DigSite 1.0.18
+-------------------------------------
+The Big CustomNPCs Quests reliability update
+QUESTBOOK
+CODE
+- added spawn, shield, and trade tips
+- added large number of quality of life recipes
+- added fuel value to many things so you can toss trash into furnace
+- lowered energy costs of some deep mob learning simulations (in order to reduce grind)
+- increased quantity output for some deep mob learning fabrications
+- vanilla torches now drop vanilla torches instead of unlit torches (was major annoyance to players)
+- backpack now is decent chest armor (as good as chain chestplate)
+- backpack is now 9x6 (was 9x4)
+- sonic screwdriver quest description modified to include "empty offhand required to function"
+- filter quest description matches new filter material functionality
+MODS
+- updated CustomNPCs_1.12.2-(01Oct19) (many many pesky bugs / memory leak fixed?)
+- updated fluxnetworks-1.12.2-4.0.11-28 (crash fix)
+- updated Ding-1.12.2-1.0.2
+- updated foamfix-0.10.7-1.12.2
+- updated ForgeEndertech-1.12.2-4.4.24.0-build.0421
+- updated FTBLib-5.4.3.141 (crash fix)
+- updated FTBQuests-1.7.2.218
+- updated FTBUtilities-5.4.0.107
+- updated FTBUtilitiesBackups-1.0.0.12
+- updated iChunUtil-1.12.2-7.2.2
+- updated jei_1.12.2-4.15.0.291
+- updated Mekanism-1.12.2-9.8.2.389
+- updated mysticallib-1.12.2-1.3.8
+- updated OreExcavation-1.4.143
+- updated AdPother-1.12.2-1.0.26.1-build.0419
+- updated WearableBackpacks-1.12.2-3.1.4
+MAP - No need to restart game but these changes will not be present in your world unless you do.
+- additional quest location blocks added at various locations for players who "went in a different way" to several location-based quests
+- steam generation made much much easier (puzzle solution was too difficult for many players to manage power at one location)
+- cosmetic changes to lucville, the ranch, pine fresh, digsite tunnel
+- placed filters modified to work again with updated AdPother mod functionality (right-click to add filter materials)
+- some oxygen can now be found early game (but scuba is still empty to start)
+- minor changes to end-game shop
+- Tillman side quest now resolves if done "out of sequence"
+- broken honeywood side quest fixed
+- couple triggers set deeper so they don't get exposed by a single creeper blast
+- adjustments to the flame so AE2 Stuff networking no longer crosses chunk borders
+SERVER PACK
+
+https://minecraft.curseforge.com/projects/digsite/files
+
+
 DigSite 1.0.17
 -------------------------------------
 The "fixed the glitch" release
@@ -8,7 +56,7 @@ MODS
 - updated FTBQuests-1.7.2.217
 - updated ElevatorMod-1.12.2-1.3.12
 MAP - No need to restart game but these change will not be present in your world unless you do.
-- remodeled one deep place, but it basically works the same (multi-blocks moved to no longer cross chunk boundires, simplified logistics, + major cosmetic)  
+- remodeled one deep place, but it basically works the same (multi-blocks moved to no longer cross chunk boundaries, simplified logistics, + major cosmetic)  
 SERVER PACK
 
 https://minecraft.curseforge.com/projects/digsite/files
