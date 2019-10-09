@@ -98,6 +98,67 @@ recipes.addShapeless("QoLChests",<minecraft:chest> * 4, [
 			<ore:logWood>
 		]);
 
+// QoL Wool  to STRING
+recipes.addShapeless(<minecraft:string>, [
+			<ore:blockWool>,
+		]);
+		
+		
+// QoL Meat to FLESH
+recipes.addShapeless(<minecraft:rotten_flesh>, [
+			<minecraft:beef>,
+			<mekanism:salt>
+		]);
+recipes.addShapeless(<minecraft:rotten_flesh>, [
+			<minecraft:porkchop>,
+			<mekanism:salt>
+		]);
+recipes.addShapeless(<minecraft:rotten_flesh>, [
+			<minecraft:chicken>,
+			<mekanism:salt>
+		]);
+recipes.addShapeless(<minecraft:rotten_flesh>, [
+			<minecraft:mutton>,
+			<mekanism:salt>
+		]);
+recipes.addShapeless(<minecraft:rotten_flesh>, [
+			<minecraft:rabbit>,
+			<mekanism:salt>
+		]);
+recipes.addShapeless(<minecraft:rotten_flesh>, [
+			<minecraft:fish>,
+			<mekanism:salt>
+		]);
+recipes.addShapeless(<minecraft:rotten_flesh>, [
+			<minecraft:fish:1>,
+			<mekanism:salt>
+		]);
+recipes.addShapeless(<minecraft:rotten_flesh>, [
+			<minecraft:fish:2>,
+			<mekanism:salt>
+		]);
+recipes.addShapeless(<minecraft:rotten_flesh>, [
+			<minecraft:fish:3>,
+			<mekanism:salt>
+		]);
+
+
+// QOL Podzol
+recipes.addShapeless(<minecraft:dirt:2>, [
+			<forge:bucketfilled>.withTag({FluidName: "polluted_water", Amount: 1000}),
+			<minecraft:dirt>
+		]);
+recipes.addShapeless(<minecraft:dirt:2>, [
+			<forge:bucketfilled>.withTag({FluidName: "oil", Amount: 1000}),
+			<minecraft:dirt>
+		]);
+
+
+
+
+
+		
+
 // MOD Complex Crops
 
 // FLOUR
@@ -386,7 +447,19 @@ recipes.addShaped(item, [
 			[<deepmoblearning:pristine_matter_witch>], 
 			[<pneumaticcraft:plastic:15>]
 		]);
+recipes.addShaped(item, [
+			[null, <jaff:iron_hook>, null], 
+			[<deepmoblearning:living_matter_extraterrestrial>, <deepmoblearning:living_matter_overworldian>, <deepmoblearning:living_matter_extraterrestrial>], 
+			[null, <pneumaticcraft:plastic:15>, null]
+		]);
 
+
+// Spawn CHICKEN
+recipes.addShaped(<minecraft:spawn_egg>.withTag({EntityTag: {id: "minecraft:chicken"}}), [
+			[null, null, null], 
+			[<minecraft:wheat>, <minecraft:egg>, <minecraft:wheat>], 
+			[null, <minecraft:wheat>, null] 
+		]);
 
 		
 // MOD AE2
@@ -543,6 +616,95 @@ recipes.addShapeless(<realistictorches:matchbox>, [
 			<realistictorches:matchbox>.anyDamage().noReturn(),
 			<realistictorches:matchbox>.anyDamage().noReturn()
 		]);
+
+// FURNACE RECIPES
+
+// QOL
+
+// QoL Flesh to LEATHER
+furnace.addRecipe(<minecraft:leather>, <minecraft:rotten_flesh>);
+
+// QoL ET to OVERWORLDIAN
+furnace.addRecipe(<deepmoblearning:living_matter_overworldian> * 2, <deepmoblearning:living_matter_extraterrestrial>);
+
+// QoL Hellish to ET
+furnace.addRecipe(<deepmoblearning:living_matter_extraterrestrial> * 2, <deepmoblearning:living_matter_hellish>);
+
+
+
+// toss the garbage in the FURNACE
+
+furnace.setFuel(<deepmoblearning:living_matter_overworldian>, 1600);
+furnace.setFuel( <deepmoblearning:living_matter_extraterrestrial>, 3200);
+furnace.setFuel(<deepmoblearning:living_matter_hellish>, 6400);
+
+furnace.setFuel(<wearablebackpacks:backpack>, 3200);
+
+furnace.setFuel(<minecraft:bed>, 1600);
+furnace.setFuel(<minecraft:bed:1>, 1600);
+furnace.setFuel(<minecraft:bed:2>, 1600);
+furnace.setFuel(<minecraft:bed:3>, 1600);
+furnace.setFuel(<minecraft:bed:4>, 1600);
+furnace.setFuel(<minecraft:bed:5>, 1600);
+furnace.setFuel(<minecraft:bed:6>, 1600);
+furnace.setFuel(<minecraft:bed:7>, 1600);
+furnace.setFuel(<minecraft:bed:8>, 1600);
+furnace.setFuel(<minecraft:bed:9>, 1600);
+furnace.setFuel(<minecraft:bed:10>, 1600);
+furnace.setFuel(<minecraft:bed:11>, 1600);
+furnace.setFuel(<minecraft:bed:12>, 1600);
+furnace.setFuel(<minecraft:bed:13>, 1600);
+furnace.setFuel(<minecraft:bed:14>, 1600);
+furnace.setFuel(<minecraft:bed:15>, 1600);
+furnace.setFuel(<minecraft:nether_wart>, 200);
+furnace.setFuel(<minecraft:writable_book>, 1600);
+furnace.setFuel(<minecraft:book>, 800);
+
+furnace.setFuel(<minecraft:feather>, 25);
+furnace.setFuel(<minecraft:string>, 25);
+
+furnace.setFuel(<minecraft:wheat_seeds>, 25);
+furnace.setFuel(<minecraft:pumpkin_seeds>, 25);
+furnace.setFuel(<minecraft:melon_seeds>, 25);
+furnace.setFuel(<minecraft:beetroot_seeds>, 25);
+furnace.setFuel(<complexcrops:rice>, 25);
+furnace.setFuel(<complexcrops:cucumber_seeds>, 25);
+furnace.setFuel(<complexcrops:corn_seeds>, 25);
+furnace.setFuel(<minecraft:vine>, 25);
+furnace.setFuel(<minecraft:red_flower:1>, 25);
+furnace.setFuel(<minecraft:red_flower:2>, 25);
+furnace.setFuel(<minecraft:red_flower:3>, 25);
+furnace.setFuel(<minecraft:red_flower:4>, 25);
+furnace.setFuel(<minecraft:red_flower:5>, 25);
+furnace.setFuel(<minecraft:red_flower:6>, 25);
+furnace.setFuel(<minecraft:red_flower:7>, 25);
+furnace.setFuel(<minecraft:red_flower:8>, 25);
+furnace.setFuel(<minecraft:yellow_flower>, 25);
+furnace.setFuel(<minecraft:red_flower>, 25);
+furnace.setFuel(<minecraft:tallgrass:1>, 25);
+furnace.setFuel(<minecraft:web>, 100);
+furnace.setFuel(<minecraft:leaves>, 100);
+furnace.setFuel(<minecraft:leaves:2>, 100);
+furnace.setFuel(<minecraft:leaves:3>, 100);
+furnace.setFuel(<minecraft:tallgrass:2>, 100);
+furnace.setFuel(<minecraft:deadbush>, 100);
+furnace.setFuel(<minecraft:double_plant:1>, 100);
+furnace.setFuel(<minecraft:double_plant:2>, 100);
+furnace.setFuel(<minecraft:double_plant:3>, 100);
+furnace.setFuel(<minecraft:double_plant:4>, 100);
+furnace.setFuel(<minecraft:double_plant:5>, 100);
+furnace.setFuel(<minecraft:poisonous_potato>, 100);
+furnace.setFuel(<minecraft:reeds>, 100);
+furnace.setFuel(<complexcrops:cucumber>, 200);
+furnace.setFuel(<minecraft:paper>, 100);
+furnace.setFuel(<minecraft:wheat>, 100);
+furnace.setFuel(<minecraft:leather>, 200);
+furnace.setFuel(<minecraft:leather_helmet>, 1000);
+furnace.setFuel(<minecraft:leather_boots>, 800);
+furnace.setFuel(<minecraft:leather_leggings>, 1400);
+furnace.setFuel(<minecraft:leather_chestplate>, 1600);
+
+furnace.setFuel(<ore:dye>, 10);
 
 
 
