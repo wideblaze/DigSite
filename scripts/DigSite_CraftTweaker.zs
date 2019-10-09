@@ -619,6 +619,10 @@ recipes.addShapeless(<realistictorches:matchbox>, [
 
 // FURNACE RECIPES
 
+// FLUX NETWORKS
+furnace.addRecipe(<fluxnetworks:flux>, <minecraft:redstone>);
+
+
 // QOL
 
 // QoL Flesh to LEATHER
