@@ -11,7 +11,7 @@
   "draconicevolution": "2.3.24",
   "scarper": "1.1",
   "modnametooltip": "1.10.1",
-  "forgeendertech": "1.12.2-4.4.23.0",
+  "forgeendertech": "1.12.2-4.4.24.0",
   "initialinventory": "2.0.2",
   "ctm": "MC1.12.2-0.3.3.22",
   "controlling": "3.0.7",

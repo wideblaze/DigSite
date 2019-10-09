@@ -3,6 +3,7 @@ DigSite 1.0.18
 The Big CustomNPCs Quests reliability update
 QUESTBOOK
 CODE
+- added furnace recipe for flux since recent mod update broke toss in lava
 - added spawn, shield, and trade tips
 - added large number of quality of life recipes
 - added fuel value to many things so you can toss trash into furnace
@@ -44,6 +45,10 @@ MAP - No need to restart game but these changes will not be present in your worl
 SERVER PACK
 
 https://minecraft.curseforge.com/projects/digsite/files
+
+!# fix tillman after complete
+!## quest ender text screens
+
 
 
 DigSite 1.0.17
