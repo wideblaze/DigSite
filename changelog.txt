@@ -1,3 +1,18 @@
+DigSite 1.0.19
+-------------------------------------
+The FORGE 14.23.5.2847 Update. This is the first update of Forge for this pack so there may be some issues.
+QUESTBOOK
+CODE
+MODS
+- updated forge-14.23.5.2847 (fixes cursed minecraft chest glitch and others)
+MAP - No need to restart game but these changes will not be present in your world unless you do.
+- cosmetic changes to Serenity
+- removed a stack of filters left behind by mistake (whoops)
+- a little more power added to The Ranch
+- an android that was causing some crashes (due to matteroverdrive name bug) replaced with a new one (if continues to be an issue it will be completely removed)
+SERVER PACK IMPORTANT NOTE: FORGE UPDATED! Be sure to install with correct version of forge.
+- updated forge-14.23.5.2847
+
 DigSite 1.0.18
 -------------------------------------
 The Big CustomNPCs Quests reliability update
@@ -31,6 +46,7 @@ MODS
 - updated OreExcavation-1.4.143
 - updated AdPother-1.12.2-1.0.26.1-build.0419
 - updated WearableBackpacks-1.12.2-3.1.4
+- updated fencejumper-1.12-1.0.5 (removed and re-added due to curseforge weirdness)
 MAP - No need to restart game but these changes will not be present in your world unless you do.
 - additional quest location blocks added at various locations for players who "went in a different way" to several location-based quests
 - steam generation made much much easier (puzzle solution was too difficult for many players to manage power at one location)

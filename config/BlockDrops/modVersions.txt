@@ -100,7 +100,7 @@
   "ichunutil": "7.2.2",
   "crafttweaker": "4.1.19",
   "enderstorage": "2.4.6.137",
-  "forge": "14.23.5.2823",
+  "forge": "14.23.5.2847",
   "testdummy": "1.12",
   "phosphor-lighting": "1.12.2-0.2.6",
   "brandonscore": "2.4.17",
