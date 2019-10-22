@@ -13,6 +13,7 @@ import crafttweaker.item.IIngredient;
 
 //	Removes
 val RecipeRemoves = [
+   <minecraft:torch>, // mod issue
    <realistictorches:matchbox>, // recipe fix
     <pneumaticcraft:crop_support>, // confict
 	<minecraft:iron_sword>, // early game difficulty
@@ -152,12 +153,6 @@ recipes.addShapeless(<minecraft:dirt:2>, [
 			<forge:bucketfilled>.withTag({FluidName: "oil", Amount: 1000}),
 			<minecraft:dirt>
 		]);
-
-
-
-
-
-		
 
 // MOD Complex Crops
 
@@ -461,6 +456,79 @@ recipes.addShaped(<minecraft:spawn_egg>.withTag({EntityTag: {id: "minecraft:chic
 			[null, <minecraft:wheat>, null] 
 		]);
 
+
+// QOL COMPRESSED IRON RECIPES
+
+// TRIPWIRE HOOK
+recipes.addShaped(<minecraft:tripwire_hook> * 4, [
+			[null, <pneumaticcraft:ingot_iron_compressed>, null], 
+			[null, <ore:stickWood>, null],
+			[null, <ore:plankWood>, null] 
+		]);
+
+// SHEARS
+recipes.addShaped(<minecraft:shears> * 2, [
+			[null, <pneumaticcraft:ingot_iron_compressed>, null], 
+			[<pneumaticcraft:ingot_iron_compressed>, null, null],
+			[null, null, null] 
+		]);
+		
+// SHIELD
+recipes.addShaped(<minecraft:shield>, [
+			[<ore:plankWood>, <pneumaticcraft:ingot_iron_compressed>, <ore:plankWood>], 
+			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],
+			[null, <ore:plankWood>, null] 
+		]);
+		
+// PISTON
+recipes.addShaped(<minecraft:piston> * 2, [
+			[ <ore:plankWood>,  <ore:plankWood>,  <ore:plankWood>], 
+			[<ore:cobblestone>, <pneumaticcraft:ingot_iron_compressed>, <ore:cobblestone>],
+			[<ore:cobblestone>, <ore:dustRedstone>, <ore:cobblestone>] 
+		]);
+
+// FLINT & STEEL
+recipes.addShaped(<minecraft:flint_and_steel> * 2, [
+			[<pneumaticcraft:ingot_iron_compressed>, <minecraft:flint>, null], 
+			[null, null, null],
+			[null, null, null] 
+		]);
+
+// BUCKET
+recipes.addShaped(<minecraft:bucket> * 2, [
+			[<pneumaticcraft:ingot_iron_compressed>, null, <pneumaticcraft:ingot_iron_compressed>], 
+			[null, <pneumaticcraft:ingot_iron_compressed>, null],
+			]);
+
+// MOD REALISIC TORCHES
+
+// Torch (early game)
+recipes.addShaped(<minecraft:torch> * 4, [
+			[null, <realistictorches:glowstone_paste>, null], 
+			[null, <realistictorches:torch_lit>, null],
+			[null, null, null] 
+		]);
+		
+// Torch (early game)
+recipes.addShaped(<minecraft:torch> * 4, [
+			[null, <realistictorches:glowstone_paste>, null], 
+			[null, <realistictorches:torch_smoldering>, null],
+			[null, null, null] 
+		]);
+
+// QOL Torch (late game)
+recipes.addShaped(<minecraft:torch> * 4, [
+			[null, <minecraft:blaze_powder>, null], 
+			[null, <realistictorches:torch_unlit>, null],
+			[null, null, null] 
+		]);
+		
+// QOL Jack'o'Lantern
+recipes.addShaped(<minecraft:lit_pumpkin>, [
+			[null, <minecraft:pumpkin>, null], 
+			[null, <minecraft:redstone_torch>, null],
+			[null, null, null] 
+		]);
 		
 // MOD AE2
 
@@ -663,10 +731,8 @@ furnace.setFuel(<minecraft:bed:15>, 1600);
 furnace.setFuel(<minecraft:nether_wart>, 200);
 furnace.setFuel(<minecraft:writable_book>, 1600);
 furnace.setFuel(<minecraft:book>, 800);
-
 furnace.setFuel(<minecraft:feather>, 25);
 furnace.setFuel(<minecraft:string>, 25);
-
 furnace.setFuel(<minecraft:wheat_seeds>, 25);
 furnace.setFuel(<minecraft:pumpkin_seeds>, 25);
 furnace.setFuel(<minecraft:melon_seeds>, 25);
@@ -707,9 +773,51 @@ furnace.setFuel(<minecraft:leather_helmet>, 1000);
 furnace.setFuel(<minecraft:leather_boots>, 800);
 furnace.setFuel(<minecraft:leather_leggings>, 1400);
 furnace.setFuel(<minecraft:leather_chestplate>, 1600);
-
+furnace.setFuel(<chisel:carpet_black>, 25);
+furnace.setFuel(<chisel:carpet_black:1>, 25);
+furnace.setFuel(<chisel:carpet_red>, 25);
+furnace.setFuel(<chisel:carpet_red:1>, 25);
+furnace.setFuel(<chisel:carpet_green:1>, 25);
+furnace.setFuel(<chisel:carpet_brown>, 25);
+furnace.setFuel(<chisel:carpet_brown:1>, 25);
+furnace.setFuel(<chisel:carpet_blue>, 25);
+furnace.setFuel(<chisel:carpet_blue:1>, 25);
+furnace.setFuel(<chisel:carpet_purple>, 25);
+furnace.setFuel(<chisel:carpet_purple:1>, 25);
+furnace.setFuel(<chisel:carpet_cyan>, 25);
+furnace.setFuel(<chisel:carpet_cyan:1>, 25);
+furnace.setFuel(<chisel:carpet_lightgray>, 25);
+furnace.setFuel(<chisel:carpet_lightgray:1>, 25);
+furnace.setFuel(<chisel:carpet_gray>, 25);
+furnace.setFuel(<chisel:carpet_gray:1>, 25);
+furnace.setFuel(<chisel:carpet_pink>, 25);
+furnace.setFuel(<chisel:carpet_pink:1>, 25);
+furnace.setFuel(<chisel:carpet_lime>, 25);
+furnace.setFuel(<chisel:carpet_lime:1>, 25);
+furnace.setFuel(<chisel:carpet_yellow>, 25);
+furnace.setFuel(<chisel:carpet_yellow:1>, 25);
+furnace.setFuel(<chisel:carpet_lightblue>, 25);
+furnace.setFuel(<chisel:carpet_lightblue:1>, 25);
+furnace.setFuel(<chisel:carpet_magenta>, 25);
+furnace.setFuel(<chisel:carpet_magenta:1>, 25);
+furnace.setFuel(<chisel:carpet_orange>, 25);
+furnace.setFuel(<chisel:carpet_orange:1>, 25);
+furnace.setFuel(<chisel:carpet_white>, 25);
+furnace.setFuel(<chisel:carpet_white:1>, 25);
+furnace.setFuel(<minecraft:rail>, 25);
+furnace.setFuel(<chisel:redstone:11>, 25);
+furnace.setFuel(<minecraft:painting>, 25);
+furnace.setFuel(<minecraft:lit_pumpkin>, 25);
+furnace.setFuel(<minecraft:redstone_torch>, 25);
+furnace.setFuel(<hotornot:mitts>, 25);
+furnace.setFuel(<minecraft:item_frame>, 25);
+furnace.setFuel(<realistictorches:torch_lit>, 25);
+furnace.setFuel(<realistictorches:torch_unlit>, 25);
+furnace.setFuel(<mekanism:cardboardbox>, 25);
+furnace.setFuel(<ore:blockElevator>, 25);
 furnace.setFuel(<ore:dye>, 10);
-
+furnace.setFuel(<minecraft:dirt:2>, 100);
+furnace.setFuel(<trashcansreborn:trashcan>, 100);
 
 
 
