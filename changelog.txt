@@ -1,17 +1,52 @@
+DigSite 1.0.20
+-------------------------------------
+The more playable update
+QUESTBOOK
+CODE
+- compressed iron version of many iron recipes (compress all your iron and now need a bucket? got you covered now)
+- additional jack'o'lantern recipe (to reduce player frustration and anxiety early game)
+- additional vanilla torch recipe (to reduce player frustration and anxiety late game)
+- more furnance trash recipes (toss junk into furnace)
+- added large number custom paintings
+MODS
+- updated AdChimneys-1.12.2-3.5.7.0-build.0424
+- updated AdPother-1.12.2-1.0.27.0-build.0424 (filters can now be automated via hopper - yay!, filters now act as chimney if placed adjacent to machine - yay!)
+- updated Chisel-MC1.12.2-1.0.0.44 (fixed dupe bug)
+- updated CTM-MC1.12.2-1.0.0.29
+- updated foamfix-0.10.8-1.12.2
+- updated fluxnetworks-1.12.2-4.0.12-29
+- updated FTBLib-5.4.3.147
+- updated FTBQuests-1.8.0.229
+- updated FTBUtilities-5.4.0.110
+- updated VariedCommodities_1.12.2(27oct19)
+- updated mysticallib-1.12.2-1.4.0
+- updated fluxnetworks-1.12.2-4.0.13-30
+
+
+
+- added morepaintings-paintings-1.12.2-5.0.1.2
+MAP - No need to restart the game but these changes will not be present in your world unless you do.
+- cosmetic changes to Ma'dan
+- fixed some missing power cables at the ranch (a recent power addition needed cables)
+- all loading sceen tips added to diary of a forgetful librarian book (don't need to keep exiting to title screen to see all the tips now)
+SERVER PACK
+https://minecraft.curseforge.com/projects/digsite/files
+
 DigSite 1.0.19
 -------------------------------------
 The FORGE 14.23.5.2847 Update. This is the first update of Forge for this pack so there may be some issues.
 QUESTBOOK
 CODE
 MODS
-- updated forge-14.23.5.2847 (fixes cursed minecraft chest glitch and others)
-MAP - No need to restart game but these changes will not be present in your world unless you do.
+- updated forge-14.23.5.2847 (fixes "cursed minecraft" chest glitch and others)
+MAP - No need to restart the game but these changes will not be present in your world unless you do.
 - cosmetic changes to Serenity
 - removed a stack of filters left behind by mistake (whoops)
 - a little more power added to The Ranch
-- an android that was causing some crashes (due to matteroverdrive name bug) replaced with a new one (if continues to be an issue it will be completely removed)
+- an android that was causing some crashes (due to matteroverdrive name bug) replaced with a new one (if it continues to be an issue it will be completely removed)
 SERVER PACK IMPORTANT NOTE: FORGE UPDATED! Be sure to install with correct version of forge.
 - updated forge-14.23.5.2847
+https://minecraft.curseforge.com/projects/digsite/files
 
 DigSite 1.0.18
 -------------------------------------
@@ -60,7 +95,6 @@ MAP - No need to restart game but these changes will not be present in your worl
 - adjustments to the flame so AE2 Stuff networking no longer crosses chunk borders
 SERVER PACK
 
-https://minecraft.curseforge.com/projects/digsite/files
 
 ## ranch clubook
 
