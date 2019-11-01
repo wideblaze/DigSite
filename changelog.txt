@@ -1,12 +1,20 @@
+DigSite 1.0.21
+-------------------------------------
+QUESTBOOK
+CODE
+- fixed realistic torches config (reverted to default due to settings error in DigSite 1.0.20) Matchbooks work as expected again.
+MODS
+MAP
+SERVER PACK
+
 DigSite 1.0.20
 -------------------------------------
-The more playable update
 QUESTBOOK
 CODE
 - compressed iron version of many iron recipes (compress all your iron and now need a bucket? got you covered now)
 - additional jack'o'lantern recipe (to reduce player frustration and anxiety early game)
 - additional vanilla torch recipe (to reduce player frustration and anxiety late game)
-- more furnance trash recipes (toss junk into furnace)
+- more furnace trash recipes (toss junk into furnace)
 - added large number custom paintings
 MODS
 - updated AdChimneys-1.12.2-3.5.7.0-build.0424
@@ -21,14 +29,12 @@ MODS
 - updated VariedCommodities_1.12.2(27oct19)
 - updated mysticallib-1.12.2-1.4.0
 - updated fluxnetworks-1.12.2-4.0.13-30
-
-
-
 - added morepaintings-paintings-1.12.2-5.0.1.2
 MAP - No need to restart the game but these changes will not be present in your world unless you do.
 - cosmetic changes to Ma'dan
 - fixed some missing power cables at the ranch (a recent power addition needed cables)
-- all loading sceen tips added to diary of a forgetful librarian book (don't need to keep exiting to title screen to see all the tips now)
+- all loading screen tips added to diary of a forgetful librarian book (don't need to keep exiting to title screen to see all the tips now)
+- added a couple easter eggs to some villages
 SERVER PACK
 https://minecraft.curseforge.com/projects/digsite/files
 
