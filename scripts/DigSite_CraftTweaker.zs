@@ -660,6 +660,10 @@ recipes.addShaped(<mekanism:machineblock:7>.withTag({recipeType: 3}), [
 			[<mekanism:tierinstaller>,<mekanism:tierinstaller:1>,<mekanism:tierinstaller:2>] 
 		]);
 
+// POLYMER CLAY
+mods.mekanism.enrichment.addRecipe(<deepmoblearning:living_matter_overworldian>, <deepmoblearning:polymer_clay>);
+// CLAY BALL, LAPIS
+mods.mekanism.sawmill.addRecipe(<deepmoblearning:polymer_clay>, <minecraft:clay_ball> * 3, <minecraft:dye:4> * 1, 0.1);
 
 
 // MOD Compact Machines
