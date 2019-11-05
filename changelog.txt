@@ -1,3 +1,25 @@
+DigSite 1.0.22
+-------------------------------------
+The "more automation possibilities" update
+QUESTBOOK
+CODE
+- added a lapis recipe (% chance)
+- additional polymer clay recipe (for those that wanted 100% automation solution)
+- added missing patterns to flame: certus, nether quartz, glowstone, circuit board, lime dye, green, lapis, clayball, and setup yellorite dedicated smelting (was stopping gold and iron)
+- added some new loot to DML to make automation a little easier
+MODS
+- updated craftingstation-0.1.7
+- updated AdPother-1.12.2-1.0.27.1-build.0426
+- updated FTBBackups-1.1.0.1
+- updated FTBLib-5.4.3.149
+- updated FTBQuests-1.8.0.236
+- updated FTBUtilities-5.4.0.114
+MAP
+- a couple minor map issues corrected
+- shielding removed from turret gunners (was too much of a challenge for many players)
+SERVER PACK
+
+
 DigSite 1.0.21
 -------------------------------------
 QUESTBOOK
