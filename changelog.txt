@@ -1,3 +1,29 @@
+DigSite 1.0.23
+-------------------------------------
+QUESTBOOK
+CODE
+MODS
+- updated pneumaticcraft-repressurized-1.12.2-0.11.7-375 (concurrent modifier crash fix)
+- updated NaturesCompass-1.12.2-1.6.0
+- updated FTBLib-5.4.4.4
+- updated FTBUtilities-5.4.0.122
+- updated FTBQuests-1.8.0.237
+- updated jei_1.12.2-4.15.0.292
+- updated BuildingGadgets-2.7.4
+- updated VariedCommodities_1.12.2(21nov19)
+- updated torchmaster_1.12.2-1.8.1.81.
+- updated DankNull-1.12.2-1.7.89 (fixes)
+- updated p455w0rdslib-1.12.2-2.3.161.
+- updated craftingstation-0.1.7b
+- updated foamfix-0.10.9-1.12.2 
+- updated LootTweaker-0.1.2+MC1.12.2
+- updated champions-1.12.2-1.0.11.1
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- a little more resistence added to early game areas
+- better loot added to one of the many secret chests
+- a bake shop got a name
+SERVER PACK
+
 DigSite 1.0.22
 -------------------------------------
 The "more automation possibilities" update
@@ -5,7 +31,6 @@ QUESTBOOK
 CODE
 - added a lapis recipe (% chance)
 - additional polymer clay recipe (for those that wanted 100% automation solution)
-- added missing patterns to flame: certus, nether quartz, glowstone, circuit board, lime dye, green, lapis, clayball, and setup yellorite dedicated smelting (was stopping gold and iron)
 - added some new loot to DML to make automation a little easier
 MODS
 - updated craftingstation-0.1.7
@@ -15,7 +40,8 @@ MODS
 - updated FTBQuests-1.8.0.236
 - updated FTBUtilities-5.4.0.114
 MAP
-- a couple minor map issues corrected
+- added missing patterns to flame: certus, nether quartz, glowstone, circuit board, lime dye, green, lapis, clayball, and setup yellorite dedicated smelting (was stopping gold and iron)
+- a couple of minor map issues corrected
 - shielding removed from turret gunners (was too much of a challenge for many players)
 SERVER PACK
 
