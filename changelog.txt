@@ -1,3 +1,31 @@
+DigSite 1.0.24
+-------------------------------------
+QUESTBOOK
+CODE
+MODS
+- updated AdChimneys-1.12.2-3.5.8.0-build.0428
+- updated champions-1.12.2-1.0.11.2
+- updated CTM-MC1.12.2-1.0.1.30
+- updated CraftTweaker2-1.12-4.1.20
+- updated FastWorkbench-1.12.2-1.7.3
+- updated FloodLights-1.12.2-1.4.1-17
+- updated fluxnetworks-1.12.2-4.0.14-31
+- updated foamfix-0.10.10-1.12.2
+- updated ForgeEndertech-1.12.2-4.4.26.0-build.0431
+- updated FTBLib-5.4.4.5
+- updated FTBUtilities-5.4.0.124
+- updated journeymap-1.12.2-5.5.6
+- updated LootTweaker-0.1.3+MC1.12.2
+- updated Mekanism-1.12.2-9.8.3.390
+- updated NaturesCompass-1.12.2-1.6.2
+- updated ElevatorMod-1.12.2-1.3.14
+- updated AdPother-1.12.2-1.0.29.0-build.0431
+MAP - No need to restart game but these change will not be present in your world unless you do.
+- couple "bugs" added to late game
+SERVER PACK
+
+
+
 DigSite 1.0.23
 -------------------------------------
 QUESTBOOK
