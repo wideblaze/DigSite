@@ -189,6 +189,10 @@ recipes.addShapeless("cucumber_seeds",<complexcrops:cucumber_seeds>, [
 
 // MOD Minecraft
 
+
+
+
+
 // EARLY GAME DIFFICULTY
 
 // IRON SWORD
@@ -434,6 +438,22 @@ recipes.addShaped(item, [
 			[<mekanism:compresseddiamond>, <mekanism:compresseddiamond>, <mekanism:compresseddiamond>], 
 			[<mekanism:compresseddiamond>, null,<mekanism:compresseddiamond>]
 		]);
+
+// WOB
+item = <minecraft:bow>;
+damagedItem = item.withDisplayName("woB").withLore(["A sparkly new woB!"]);
+recipes.addShaped(damagedItem, [
+			[<minecraft:stick>, <minecraft:string>, null], 
+			[<minecraft:stick>, null, <minecraft:string>], 
+			[<minecraft:stick>, <minecraft:string>, null]
+		]);
+recipes.addShaped(damagedItem, [
+			[null, <minecraft:string>, <minecraft:stick>], 
+			[<minecraft:string>, null, <minecraft:stick>], 
+			[null, <minecraft:string>, <minecraft:stick>]
+		]);
+
+
 
 // NAME TAG
 item = <minecraft:name_tag>;

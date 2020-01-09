@@ -6458,20 +6458,6 @@ complexcrops:butter, Butter
 complexcrops:pickle, Pickle
 complexcrops:pickle_potion, Pickle
 craftingstation:crafting_station, Crafting Station
-danknull:dank_null_0, /dank/null/
-danknull:dank_null_1, /dank/null/MK II
-danknull:dank_null_2, /dank/null/MK III
-danknull:dank_null_3, /dank/null/MK IV
-danknull:dank_null_4, /dank/null/MK V
-danknull:dank_null_5, /dank/null/MK VI
-danknull:dank_null_6, /dank/null/Creative
-danknull:dank_null_panel_0, RedStone /dank/null Panel
-danknull:dank_null_panel_1, Lapis /dank/null Panel
-danknull:dank_null_panel_2, Iron /dank/null Panel
-danknull:dank_null_panel_3, Gold /dank/null Panel
-danknull:dank_null_panel_4, Diamond /dank/null Panel
-danknull:dank_null_panel_5, Emerald /dank/null Panel
-danknull:danknull_dock, /dank/null Docking Station
 deepmoblearning:machine_casing, Soot-covered Machine Casing
 deepmoblearning:infused_ingot_block, Glitch Infused Block
 deepmoblearning:simulation_chamber, Simulation Chamber
@@ -6603,13 +6589,6 @@ bigreactors:reactorcomputerport, Reactor Computer Port (Legacy)
 bigreactors:reactorglass, Reactor Glass (Legacy)
 bigreactors:reactorcontrolrod, Reactor Control Rod (Legacy)
 bigreactors:reactorfuelrod, Reactor Fuel Rod (Legacy)
-floodlights:raw_filament, Raw Filament
-floodlights:glowing_filament, Glowing Filament
-floodlights:electric_incandescent_light_bulb, Electric Incandescent Light Bulb
-floodlights:carbon_dissolver, Fuel Dissolver
-floodlights:carbon_lantern, Non-electric Lantern
-floodlights:mantle, Mantle
-floodlights:light_debug_tool, Lightblock Debug Tool
 floodlights:electric_floodlight, Electric Floodlight
 floodlights:carbon_floodlight, Non-electric Floodlight
 floodlights:small_electric_floodlight_meta_block:0, Small Flourescent Light
@@ -6618,6 +6597,13 @@ floodlights:uv_floodlight, UV Floodlight
 floodlights:grow_light, Grow Light
 floodlights:phantom_light, tile.floodlights:phantomLight.name
 floodlights:phantom_u_v_light, tile.floodlights:phantomUVLight.name
+floodlights:raw_filament, Raw Filament
+floodlights:glowing_filament, Glowing Filament
+floodlights:electric_incandescent_light_bulb, Electric Incandescent Light Bulb
+floodlights:carbon_dissolver, Fuel Dissolver
+floodlights:carbon_lantern, Non-electric Lantern
+floodlights:mantle, Mantle
+floodlights:light_debug_tool, Lightblock Debug Tool
 mekanism:electricbow, Electric Bow
 mekanism:dust:0, Iron Dust
 mekanism:dust:1, Gold Dust
@@ -7052,6 +7038,14 @@ pneumaticcraft:heat_frame, Heat Frame
 pneumaticcraft:spawner_agitator, Spawner Agitator
 pneumaticcraft:crop_support, Crop Support
 pneumaticcraft:transfer_gadget, Transfer Gadget
+pneumaticcraft:fluid.kerosene, Kerosene
+pneumaticcraft:fluid.fuel, Gasoline
+pneumaticcraft:fluid.plastic, Plastic
+pneumaticcraft:fluid.lubricant, Lubricant
+pneumaticcraft:fluid.oil, Oil
+pneumaticcraft:fluid.lpg, LPG
+pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.etchacid, Etching Acid
 pneumaticcraft:safety_tube_module, Safety Tube Module
 pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
 pneumaticcraft:flow_detector_module, Flow Detector Tube Module
@@ -7208,14 +7202,6 @@ pneumaticcraft:flux_compressor, Flux Compressor
 pneumaticcraft:pneumatic_dynamo, Pneumatic Dynamo
 pneumaticcraft:fake_ice, tile.fake_ice.name
 pneumaticcraft:thermal_compressor, Thermal Compressor
-pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.plastic, Plastic
-pneumaticcraft:fluid.etchacid, Etching Acid
-pneumaticcraft:fluid.fuel, Gasoline
-pneumaticcraft:fluid.kerosene, Kerosene
-pneumaticcraft:fluid.lubricant, Lubricant
-pneumaticcraft:fluid.oil, Oil
-pneumaticcraft:fluid.diesel, Diesel
 pollutantpump:pump, Pollutant Pump
 pollutantpump:pipe, Pump Pipe
 secretroomsmod:camouflage_paste:0, Camouflage Paste
@@ -7301,12 +7287,12 @@ storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 supersoundmuffler:sound_muffler_bauble, Super Sound Muffler
 supersoundmuffler:sound_muffler, Super Sound Muffler
+torchmaster:frozen_pearl, Frozen Pearl
 torchmaster:mega_torch:0, Mega Torch
 torchmaster:mega_torch:1, Unlit Mega Torch
 torchmaster:terrain_lighter, Terrain Lighter
 torchmaster:dread_lamp, Dread Lamp
 torchmaster:feral_flare_lantern, Feral Flare Lantern
-torchmaster:frozen_pearl, Frozen Pearl
 matteroverdrive:dilithium_ore, Dilithium Ore
 matteroverdrive:tritanium_ore, Tritanium Ore
 matteroverdrive:tritanium_block, Tritanium Block
@@ -7505,12 +7491,6 @@ customnpcs:npcscripted, Scripted Block
 customnpcs:npcscripteddoor, tile.npcscripteddoor.name
 customnpcs:npcbuilderblock, Builder Block
 customnpcs:npccopyblock, Copy Block
-theoneprobe:probe, The One Probe
-theoneprobe:creativeprobe, The Creative Probe
-theoneprobe:probenote, The One Probe Read Me
-theoneprobe:diamond_helmet_probe:0, Diamond Helmet with Probe
-theoneprobe:gold_helmet_probe:0, Gold Helmet with Probe
-theoneprobe:iron_helmet_probe:0, Iron Helmet with Probe
 patchouli:guide_book, Guide Book
 trashcansreborn:trashcan, Garbage Bin
 trashcansreborn:trashcanfluid, Fluid Garbage Bin
@@ -7632,6 +7612,12 @@ storagenetwork:remote:0, Storage Remote
 storagenetwork:remote:1, Advanced Storage Remote
 storagenetwork:remote:2, Upgraded Storage Remote
 storagenetwork:remote:3, Simple Storage Remote
+theoneprobe:probe, The One Probe
+theoneprobe:creativeprobe, The Creative Probe
+theoneprobe:probenote, The One Probe Read Me
+theoneprobe:diamond_helmet_probe:0, Diamond Helmet with Probe
+theoneprobe:gold_helmet_probe:0, Gold Helmet with Probe
+theoneprobe:iron_helmet_probe:0, Iron Helmet with Probe
 valkyrielib:guide, Digital Guide
 valkyrielib:modifier_component, Modifier Component
 valkyrielib:modifier_speed, Speed Modifier
