@@ -3,7 +3,7 @@ DigSite 1.0.25
 QUESTBOOK
 CODE
 - added woB recipes
-- modifed movillages config to no longer add ocean villages
+- modified movillages config to no longer add ocean villages
 MODS
 - removed dank null (too many issues and crashes, it had to go sorry, empty your dank null if you have one before updating)
 - updated AdChimneys-1.12.2-3.5.9.0-build.0435
@@ -15,13 +15,12 @@ MODS
 - updated NaturesCompass-1.12.2-1.8.0
 - updated AdPother-1.12.2-1.0.30.0-build.0435
 - updated SimpleStorageNetwork-1.12.2-1.7.10
-MAP - No need to restart game but these change will not be present in your world unless you do.
+MAP - No need to restart the game but these changes will not be present in your world unless you do.
 - named a cow
 - replaced dank null loot with something else
-- added a couple guards to a place
+- added a couple of guards to a place
 SERVER PACK
 - removed dank null (too many issues and crashes, it had to go sorry, empty your dank null if you have one before updating)
-
 
 
 DigSite 1.0.24
