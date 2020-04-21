@@ -1,13 +1,114 @@
 {
-  "overrides": [
-    {
-      "itemID": "examplemod:nerfed_pickaxe:0",
-      "speed": 1,
-      "limit": 0,
-      "range": 0,
-      "exaustion": 0.1,
-      "experience": 0,
-      "gamestage": ""
-    }
-  ]
+	"blockGroups": [
+		[
+			"minecraft:grass",
+			"minecraft:dirt"
+		],
+		[
+			"minecraft:cobblestone",
+			"chisel:cobblestone",
+			"chisel:cobblestone1",
+			"chisel:cobblestone2"
+		],
+		[
+			"minecraft:stone:1",
+			"chisel:granite",
+			"chisel:granite1",
+			"chisel:granite2"
+		],
+		[
+			"minecraft:stone:5",
+			"chisel:andesite",
+			"chisel:andesite1",
+			"chisel:andesite2"
+		],
+		[
+			"minecraft:stone:3",
+			"chisel:diorite",
+			"chisel:diorite1",
+			"chisel:diorite2"
+		],
+		[
+			"minecraft:sandstone",
+			"chisel:sandstoneyellow",
+			"chisel:sandstoneyellow1",
+			"chisel:sandstoneyellow2",
+			"chisel:sandstone-scribbles"
+		],
+		[
+			"minecraft:red_sandstone",
+			"chisel:sandstonered",
+			"chisel:sandstonered1",
+			"chisel:sandstonered2",
+			"chisel:sandstonered-scribbles"
+		],
+		[
+			"biomesoplenty:white_sandstone"
+		],
+		[
+			"treeLeaves"
+		],
+		[
+			"logWood"
+		],
+		[
+			"minecraft:gold_ore"
+		],
+		[
+			"minecraft:iron_ore"
+		],
+		[
+			"minecraft:coal_ore"
+		],
+		[
+			"minecraft:lapis_ore"
+		],
+		[
+			"minecraft:diamond_ore"
+		],
+		[
+			"minecraft:redstone_ore"
+		],
+		[
+			"minecraft:emerald_ore"
+		],
+		[
+			"minecraft:quartz_ore"
+		],
+		[
+			"appliedenergistics2:quartz_ore",
+			"appliedenergistics2:charged_quartz_ore"
+		],
+		[
+			"biomesoplenty:biome_block"
+		],
+		[
+			"biomesoplenty:gem_ore"
+		],
+		[
+			"forestry:resources"
+		],
+		[
+			"mekanism:oreblock"
+		],
+		[
+			"thaumcraft:ore_cinnabar"
+		],
+		[
+			"thaumcraft:ore_quartz"
+		],
+		[
+			"tconstruct:ore"
+		]
+	],
+	"strictSubtypes": [
+		"cropWheat",
+		"cropPotato",
+		"cropCarrot",
+		"cropNetherWart"
+	],
+	"gamestages": {
+		"examplemod:example_block1": "example_stage1",
+		"examplemod:example_block2": "example_stage2"
+	}
 }
