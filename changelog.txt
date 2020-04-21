@@ -1,3 +1,82 @@
+DigSite 1.0.28
+-------------------------------------
+Large # of mod updates so modpack stays current with mod patches.
+Significantly reduced grind where easily possible.
+QUESTBOOK
+CODE
+- added PCB Blueprint recipe to enable alt puzzle solution
+- replaced Super Sound Muffler with Super Sound Muffler-Revived (someone got mad and took their ball home and someone else had one, game on!)
+- modified DML pristine success chances to reduce grind
+- modified DML kill requirements to reduce grind
+- oneprobe changes
+MODS
+- added splash logo color fix
+- removed Vanilla Fix (crashes, may return at a later date)
+- removed Wawla
+- updated AdChimneys-1.12.2-3.5.13.0-build.0471
+- updated BrandonsCore-1.12.2-2.4.18.210-universal
+- updated BuildingGadgets-2.8.3
+- updated champions-1.12.2-1.0.11.4
+- updated Chisel-MC1.12.2-1.0.2.45
+- updated CTM-MC1.12.2-1.0.2.31
+- updated Controlling-3.0.9
+- updated CraftTweaker2-1.12-4.1.20.564
+- updated CustomMainMenu-MC1.12.2-2.0.9.1
+- updated Draconic-Evolution-1.12.2-2.3.25.351-universal
+- updated FloodLights-1.12.2-1.4.3-21
+- updated ForgeEndertech-1.12.2-4.5.2.0-build.0459
+- updated ForgivingVoid_1.12.2-1.1.0
+- updated FTBLib-5.4.7.0
+- updated journeymap-1.12.2-5.7.1
+- updated LootTweaker-0.1.7+MC1.12.2
+- updated modtweaker-4.0.18
+- updated mysticallib-1.12.2-1.7.0
+- updated NaturesCompass-1.12.2-1.8.5
+- updated omlib-1.12.2-3.1.4-249
+- updated openmodularturrets-1.12.2-3.1.7-368
+- updated OreExcavation-1.4.150
+- updated pneumaticcraft-repressurized-1.12.2-0.11.14-395
+- updated AdPother-1.12.2-1.2.2.0-build.0471
+- updated RedstoneFlux-1.12-2.1.1.1-universal
+- updated StorageDrawers-1.12.2-5.4.1
+- updated VanillaFix-1.0.10-150
+- updated VillageNames-1.12.2-3.3.1
+- updated Wawla-1.12.2-2.6.275
+MAP - No need to restart the game but these changes will not be present in your world unless you do.
+- a guardian shipment finally arrived
+- misc cosmetic changes
+SERVER PACK
+
+
+
+DigSite 1.0.27
+-------------------------------------
+Sparrow cluebook update
+QUESTBOOK
+CODE
+MODS
+MAP - No need to restart the game but these changes will not be present in your world unless you do.
+- Modified cluebook at the sparrow to provide more explanation on how to solve turbine power puzzle. Was too diffcult for many people. 
+- Added secret to the sparrow to make power upgrade much easier
+- Modified DML trials arena so that ceiling vents pollution. Was breaking trial space requirement when pollution formed.
+- Secured a creative item that should not have been reachable
+- Final battle drop rates adjusted
+- Minor cosmetic touch ups
+SERVER PACK
+
+DigSite 1.0.26
+-------------------------------------
+IMPORTANT PATCH: the flame station power issue patch
+QUESTBOOK
+CODE
+- modified floodlights.cfg to fix issue with not being able to light the flame after floodlights mod updated in 1.0.24
+MODS
+MAP - No need to restart the game but these changes will not be present in your world unless you do.
+- fixed sawmill input config at the flame
+- cosmetic change to Serenity (new store)
+SERVER PACK
+
+
 DigSite 1.0.25
 -------------------------------------
 QUESTBOOK
