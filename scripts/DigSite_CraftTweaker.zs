@@ -605,8 +605,14 @@ recipes.addShaped(item, [
 			[null,<minecraft:stick>,null]
 		]);
 
-
 // MOD Pneumaticcraft
+
+// PCB Blueprint
+recipes.addShapeless(<pneumaticcraft:pcb_blueprint>, [
+			<minecraft:paper>,
+			<deepmoblearning:pristine_matter_mo_android>
+		]);
+
 
 // EMPTY PCB
 recipes.addShaped(<pneumaticcraft:empty_pcb:100>, [
